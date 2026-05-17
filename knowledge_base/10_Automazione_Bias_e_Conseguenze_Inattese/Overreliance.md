@@ -6,6 +6,7 @@ sources:
   - "[[Appunti IUM 2021]]"
   - "[[Appunti IUM 2022]]"
   - "[[02_appunti_collettivi_2024_2025]]"
+  - "[[06_appunti_collettivi_2025_2026]]"
 tags:
   - ium
   - concetto
@@ -48,9 +49,9 @@ Risposta attesa:
 ## Conferma e consolidamento
 
 > [!success] Stato
-> Concetto confermato da `Appunti IUM 2021`, `AppuntiIUM2022` e `Appunti collettivi 2024-25`.
+> Concetto confermato da fonti `2021`, `2022`, `2024-25` e `2025-26`.
 
-Il 2024-25 chiarisce la distinzione formale: overreliance è il termine generale, mentre overdependence/automation bias e overconfidence/complacency ne sono le specificazioni.
+Il 2024-25 chiarisce la distinzione formale: overreliance è il termine generale. Il 2025-26 ne espande le conseguenze operative (perdita di abilità e mancanza di un piano B).
 
 ## Fonti interne
 

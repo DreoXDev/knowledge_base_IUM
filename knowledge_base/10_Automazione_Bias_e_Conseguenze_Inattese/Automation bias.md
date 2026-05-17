@@ -8,6 +8,7 @@ sources:
   - "[[Appunti IUM 2021]]"
   - "[[Appunti IUM 2022]]"
   - "[[02_appunti_collettivi_2024_2025]]"
+  - "[[06_appunti_collettivi_2025_2026]]"
 tags:
   - ium
   - concetto
@@ -26,12 +27,12 @@ L'automation bias spinge l'utente ad attribuire eccessiva fiducia alle risposte 
 
 - Genera errori di omissione (non si agisce se il sistema non segnala).
 - Genera errori di commissione/azione (si agisce seguendo il suggerimento errato del sistema).
-- Causa fragilità operativa.
+- Causa fragilità operativa, **mancanza di un piano B** e progressiva **perdita di abilità** (deskilling) nel saper svolgere il task manualmente.
 
 ## Esempio
 
 > [!example] Esempio
-> Un medico che accetta passivamente un suggerimento diagnostico automatico errato (errore di commissione) o che non interviene perché il sistema non lancia un allarme (errore di omissione).
+> Un medico che accetta passivamente un suggerimento diagnostico automatico errato (errore di commissione). Un altro caso macroscopico è l'ospedale interamente digitalizzato in cui il personale, assuefatto al sistema, non è più in grado di usare i moduli cartacei durante un blackout o un guasto (mancanza di piano B).
 
 ## Collegamenti
 
@@ -50,9 +51,9 @@ L'automation bias o overdependence è la dipendenza eccessiva dal supporto decis
 ## Conferma e consolidamento
 
 > [!success] Stato
-> Concetto confermato da `Appunti IUM 2021`, `AppuntiIUM2022` e `Appunti collettivi 2024-25`.
+> Concetto confermato da fonti `2021`, `2022`, `2024-25` e `2025-26`.
 
-Il 2024-25 accomuna concettualmente overdependence e automation bias come due facce della dipendenza eccessiva (sia decisionale che operativa).
+Il 2024-25 accomuna concettualmente overdependence e automation bias. Il 2025-26 consolida gli impatti operativi come la perdita di abilità e l'incapacità di operare senza la tecnologia.
 
 ## Fonti interne
 

@@ -21,10 +21,10 @@
 - [[Ergonomia cognitiva]]
 
 - [[Sistema interattivo]]
-
+- [[Varietà nell_interazione]]
 - [[Interfaccia]]
-
 - [[Task]]
+- [[Storia dell_HCI]]
 
 
 
@@ -39,8 +39,9 @@
 - [[Proprietà emergenti]]
 
 - [[Conseguenze inattese]]
-
 - [[Effetto Peltzman]]
+- [[Effetto Cobra]]
+- [[Fallacia del progettista]]
 
 
 
@@ -88,6 +89,12 @@
 - [[Confronto trasversale]]
 - [[Scala Likert]]
 - [[Questionari psicometrici]]
+- [[Validazione questionari]]
+- [[Forward-backward translation]]
+- [[Item invertiti]]
+- [[Outlier nei questionari]]
+- [[Non so nei questionari]]
+- [[Questionario attitudini IA]]
 - [[Bias di risposta]]
 
 

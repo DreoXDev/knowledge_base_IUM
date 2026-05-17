@@ -6,6 +6,7 @@ sources:
   - "[[Appunti IUM 2021]]"
   - "[[Appunti IUM 2022]]"
   - "[[02_appunti_collettivi_2024_2025]]"
+  - "[[06_appunti_collettivi_2025_2026]]"
 tags:
   - ium
   - concetto
@@ -35,6 +36,7 @@ Gli appunti distinguono l'usabilità come impatto diretto e breve sui singoli da
 
 - [[Sistema socio-tecnico]]
 - [[Effetto Peltzman]]
+- [[Effetto Cobra]]
 - [[Overreliance]]
 
 ## Possibili domande d'esame
@@ -49,9 +51,9 @@ Perché un sistema diventa parte di un contesto socio-tecnico e può produrre ef
 ## Conferma e consolidamento
 
 > [!success] Stato
-> Concetto confermato da `Appunti IUM 2021`, `AppuntiIUM2022` e `Appunti collettivi 2024-25`.
+> Concetto confermato da `Appunti IUM 2021`, `AppuntiIUM2022`, `2024-25` e `2025-26`.
 
-Il 2022 e 2024-25 confermano il ruolo delle conseguenze inattese, inclusi i concetti di risk compensation ed effetto Peltzman/effetto cobra, da valutare nel medio-lungo periodo.
+Il 2022 e 2024-25 confermano il ruolo delle conseguenze inattese, inclusi i concetti di risk compensation ed effetto Peltzman/effetto cobra, da valutare nel medio-lungo periodo. Il 2025-26 esplicita chiaramente l'Effetto Cobra.
 
 ## Fonti interne
 

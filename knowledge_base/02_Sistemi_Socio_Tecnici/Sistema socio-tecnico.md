@@ -6,6 +6,7 @@ sources:
   - "[[Appunti IUM 2021]]"
   - "[[Appunti IUM 2022]]"
   - "[[02_appunti_collettivi_2024_2025]]"
+  - "[[06_appunti_collettivi_2025_2026]]"
 tags:
   - ium
   - concetto
@@ -18,7 +19,7 @@ tags:
 
 ## Spiegazione
 
-Negli appunti il sistema socio-tecnico produce proprietà emergenti non prevedibili guardando le parti isolate. L'analisi è spesso locale e post-hoc.
+Negli appunti il sistema socio-tecnico produce proprietà emergenti non prevedibili guardando le parti isolate. L'analisi è spesso locale e post-hoc. Il vero sistema socio-tecnico comincia a esistere solo quando la tecnologia viene rilasciata e appropriata nel mondo reale (vedi [[Fallacia del progettista]]).
 
 ## Dettagli importanti
 
@@ -38,6 +39,7 @@ Negli appunti il sistema socio-tecnico produce proprietà emergenti non prevedib
 - [[Proprietà emergenti]]
 - [[STS thinking]]
 - [[Conseguenze inattese]]
+- [[Fallacia del progettista]]
 
 ## Possibili domande d'esame
 
@@ -51,9 +53,9 @@ Risposta attesa:
 ## Conferma e consolidamento
 
 > [!success] Stato
-> Concetto confermato da `Appunti IUM 2021`, `AppuntiIUM2022` e `Appunti collettivi 2024-25`.
+> Concetto confermato da fonti `2021`, `2022`, `2024-25` e `2025-26`.
 
-Il 2022 e 2024-25 chiariscono ulteriormente che il perimetro del sistema socio-tecnico dipende dall'osservatore e che componente sociale e tecnica sono inestricabili.
+Il 2022 e 2024-25 chiariscono ulteriormente che il perimetro del sistema socio-tecnico dipende dall'osservatore e che componente sociale e tecnica sono inestricabili. Il 2025-26 consolida l'importanza di non cadere nella fallacia del progettista.
 
 ## Fonti interne
 

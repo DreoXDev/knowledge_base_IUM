@@ -6,6 +6,7 @@ sources:
   - "[[Appunti IUM 2021]]"
   - "[[Appunti IUM 2022]]"
   - "[[02_appunti_collettivi_2024_2025]]"
+  - "[[06_appunti_collettivi_2025_2026]]"
 tags:
   - ium
   - concetto
@@ -18,8 +19,9 @@ tags:
 
 ## Spiegazione
 
-In IUM la valutazione non è una generica chiacchierata, ma un'attività metodica. Le sue caratteristiche principali sono:
-- **Empirica**: basata su dati e osservazioni, non solo su opinioni non strutturate.
+In IUM la valutazione non è un'attività opzionale né una generica chiacchierata, ma una parte costitutiva e ineliminabile della disciplina. Progettare bene "sulla carta" o seguendo linee guida non basta: bisogna testare con utenti reali.
+Le sue caratteristiche principali sono:
+- **Empirica**: basata su dati e osservazioni del comportamento reale, non solo sull'introspezione o su opinioni non strutturate.
 - **Concreta**: avviene in riferimento a task specifici e contesti reali.
 - **Sistematica**: segue un protocollo o un metodo ripetibile e documentabile (es. valutazione euristica, user test).
 
@@ -50,7 +52,7 @@ La valutazione formativa si svolge durante il ciclo di vita del progetto per ide
 ## Conferma e consolidamento
 
 > [!success] Stato
-> Concetto confermato da fonti 2021, 2022 e 2024-25.
+> Concetto confermato da fonti 2021, 2022, 2024-25 e 2025-26. La fonte 2025-26 ne sottolinea in particolare la natura ineliminabile per ovviare alla fallacia dell'introspezione del progettista.
 
 ## Fonti interne
 

@@ -155,3 +155,35 @@ La macrosuasione riguarda prodotti nati principalmente per persuadere; la micros
 ### Che cos'è la semiosi?
 
 Il processo interpretativo attraverso cui un segno produce significato per qualcuno in un contesto.
+
+---
+
+## Appunti Collettivi 2025-2026
+
+### Che cosa significa "Tu non sei l'utente"?
+
+Significa che l'introspezione del progettista è una base inaffidabile per il design, poiché il progettista ha una conoscenza distorta del sistema rispetto agli utenti reali.
+
+---
+
+### Che cos'è l'Effetto Cobra?
+
+Una conseguenza inattesa in cui la soluzione a un problema (es. un incentivo) genera comportamenti che peggiorano il problema originario.
+
+---
+
+### Perché i questionari psicometrici usano item invertiti?
+
+Per mantenere alta l'attenzione dell'utente e contrastare l'acquiescence bias (la tendenza a premere sempre "d'accordo").
+
+---
+
+### A cosa serve la Forward-backward translation?
+
+A tradurre un questionario psicometrico in un'altra lingua senza comprometterne la validità statistica originaria.
+
+---
+
+### Quali sono due conseguenze pratiche dell'automation bias?
+
+La progressiva perdita di abilità umane (deskilling) e l'incapacità di operare (assenza di piano B) se la macchina si guasta.

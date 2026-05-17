@@ -34,17 +34,13 @@ Gli asset raw non vanno modificati e non vanno copiati direttamente nella knowle
 
 ## Stato knowledge base
 
-### Fonti analizzate
+### Fonti integrate
 
 - Appunti IUM 2021
 - Appunti IUM 2022
-- Appunti collettivi collaborativi 2024-25
+- Appunti collettivi 2024-25
 
-### Fonti in corso
-
-- Nessuna
-
-### Fonti previste
+### Fonti in corso / da analizzare
 
 - Appunti Collettivi 2025-2026.md
 - Domande IUM.pdf

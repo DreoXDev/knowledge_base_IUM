@@ -9,6 +9,7 @@ sources:
   - "[[Appunti IUM 2021]]"
   - "[[Appunti IUM 2022]]"
   - "[[02_appunti_collettivi_2024_2025]]"
+  - "[[06_appunti_collettivi_2025_2026]]"
 tags:
   - ium
   - concetto
@@ -25,9 +26,9 @@ Nota anche come overconfidence o automation-related complacency, è un sovraffid
 
 ## Dettagli importanti
 
-- Sottovaluta limiti e guasti del sistema.
+- Sottovaluta limiti e guasti del sistema, considerandolo essenzialmente infallibile.
 - Riduce drasticamente la vigilanza umana.
-- Aumenta il rischio di non rilevare anomalie.
+- Aumenta il rischio di non rilevare anomalie e di subire fallimenti catastrofici quando l'evento raro si verifica.
 
 ## Esempio
 
@@ -51,9 +52,9 @@ Risposta attesa:
 ## Conferma e consolidamento
 
 > [!success] Stato
-> Concetto confermato da `Appunti IUM 2021`, `AppuntiIUM2022` e `Appunti collettivi 2024-25`.
+> Concetto confermato da fonti `2021`, `2022`, `2024-25` e `2025-26`.
 
-Il 2024-25 raggruppa chiaramente overconfidence, complacency e automation-related complacency sotto la stessa problematica: la fede eccessiva nell'infallibilità tecnica.
+Il 2024-25 raggruppa overconfidence, complacency e automation-related complacency sotto la fede eccessiva nell'infallibilità. Il 2025-26 ribadisce come ciò porti a sottostimare sistematicamente i bug e il potenziale di disastro.
 
 ## Fonti interne
 

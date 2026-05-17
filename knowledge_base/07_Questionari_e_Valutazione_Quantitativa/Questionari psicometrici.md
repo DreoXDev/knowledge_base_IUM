@@ -1,64 +1,56 @@
----
-type: concetto
-course: IUM
-status: confermato-da-2-fonti
-sources:
+---
+type: concetto
+course: IUM
+status: confermato
+sources:
   - "[[Appunti IUM 2021]]"
-  - "[[Appunti IUM 2022]]"
-tags:
-  - ium
-  - concetto
----
-
-# Questionari psicometrici
-
-> [!info] Definizione
-> Strumenti strutturati per misurare aspetti percepiti dell'usabilità o dell'esperienza utente tramite item e scale.
-
-## Spiegazione
-
-Gli appunti citano SUMI, AttrakDiff, UEQ, SUS e NPS, evidenziando vantaggi, limiti, traduzioni validate e bias.
-
-## Dettagli importanti
-
-- SUMI misura quality of use.
-- AttrakDiff e UEQ riguardano UX.
-- SUS produce uno score noto ma va interpretato con cautela.
-- NPS misura raccomandabilita.
-
-## Esempio
-
-> [!example] Esempio
-> Usare SUS dopo un test per ottenere uno score sintetico della percezione di usabilità.
-
-## Collegamenti
-
-- [[Scala Likert]]
-- [[Valutazione quantitativa]]
-- [[Soddisfazione]]
-
-## Possibili domande d'esame
-
-> [!question] Domanda
-> Perché usare questionari validati invece di domande inventate?
-
-Risposta attesa:
-
-Perché riducono arbitrarieta e permettono misure più confrontabili, anche se vanno comunque usati responsabilmente.
-
-## Conferma 2022
+  - "[[Appunti IUM 2022]]"
+  - "[[06_appunti_collettivi_2025_2026]]"
+tags:
+  - ium
+  - concetto
+---
+
+# Questionari psicometrici
+
+> [!info] Definizione
+> Strumenti strutturati e validati statisticamente per misurare in modo sistematico costrutti percepiti (come l'usabilità o l'esperienza utente) tramite item e scale.
+
+## Spiegazione
+
+Gli appunti evidenziano che un questionario psicometrico **non è un semplice modulo** di feedback inventato dal progettista, ma uno strumento che deve dimostrare affidabilità e validità. Citano spesso questionari consolidati come SUMI, AttrakDiff, UEQ, SUS e l'indice NPS.
+
+## Dettagli importanti
+
+- **Non usare domande inventate**: le domande ad-hoc spesso soffrono di bias non misurati. L'uso di questionari validati riduce l'arbitrarietà.
+- Richiedono una [[Validazione questionari|validazione statistica]] formale.
+- Utilizzano procedure specifiche per la traduzione ([[Forward-backward translation]]).
+- Si avvalgono di accorgimenti strutturali come gli [[Item invertiti]] per mitigare bias di risposta.
+- L'analisi dei risultati richiede attenzione alla distribuzione, alla mediana e alla gestione degli [[Outlier nei questionari]].
+
+## Collegamenti
+
+- [[Scala Likert]]
+- [[Valutazione quantitativa]]
+- [[Validazione questionari]]
+- [[SUS]]
+- [[UEQ]]
+
+## Possibili domande d'esame
+
+> [!question] Domanda
+> Perché si preferisce usare questionari psicometrici validati invece di domande inventate dal progettista?
+
+Risposta attesa:
+Perché i questionari validati sono stati sottoposti a rigorosi test statistici che ne garantiscono l'affidabilità (coerenza interna) e la validità (misurano davvero ciò che dicono di misurare), permettendo inoltre di confrontare i risultati con benchmark preesistenti e riducendo bias strutturali.
+
+## Conferma e consolidamento
 
 > [!success] Stato
-> Concetto confermato da `Appunti IUM 2021` e `AppuntiIUM2022`.
+> Concetto confermato ampiamente dalle fonti 2021, 2022 e 2025-26. Il 2025-26 approfondisce le meccaniche di validazione, traduzione e i bias.
 
-Il 2022 amplia la sezione con SUMI, SUS, UEQ, AttrakDiff e NPS.
+## Fonti interne
 
-## Stato di verifica
-
-> [!warning] Da verificare
-> Contenuto basato sugli appunti studenti 2020-2021. Verificare con appunti collettivi recenti, appunti 2022 e domande note prima di considerarlo consolidato.
-
-## Fonti interne
-
-- [[Appunti IUM 2021]]
-- [[04_appunti_ium_2021]]
+- [[04_appunti_ium_2021]]
+- [[05_appunti_ium_2022]]
+- [[06_appunti_collettivi_2025_2026]]

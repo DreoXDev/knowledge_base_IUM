@@ -1,63 +1,60 @@
----
-type: concetto
-course: IUM
-status: confermato-da-2-fonti
-sources:
+---
+type: concetto
+course: IUM
+status: confermato
+sources:
   - "[[Appunti IUM 2021]]"
-  - "[[Appunti IUM 2022]]"
-tags:
-  - ium
-  - concetto
----
-
-# Effetto Peltzman
-
-> [!info] Definizione
-> Fenomeno di compensazione del rischio per cui una misura di sicurezza può portare alcune persone ad assumere comportamenti più rischiosi.
-
-## Spiegazione
-
-Negli appunti e citato nel contesto di casco e sicurezza dei ciclisti: la percezione di protezione può rendere gli attori meno prudenti.
-
-## Dettagli importanti
-
-- E un esempio di conseguenza inattesa.
-- Riguarda percezione e compensazione del rischio.
-- Va verificato con fonti più solide prima di usarlo come dato storico definitivo.
-
-## Esempio
-
-> [!example] Esempio
-> Sentirsi protetti da un dispositivo può portare ad aumentare velocità o ridurre distanza di sicurezza.
-
-## Collegamenti
-
-- [[Conseguenze inattese]]
-- [[Sistema socio-tecnico]]
-- [[Overreliance]]
-
-## Possibili domande d'esame
-
-> [!question] Domanda
-> Che cosa mostra l'effetto Peltzman?
-
-Risposta attesa:
-
-Mostra che introdurre protezioni può modificare i comportamenti e compensare parte del beneficio atteso.
-
-## Conferma 2022
+  - "[[Appunti IUM 2022]]"
+  - "[[06_appunti_collettivi_2025_2026]]"
+tags:
+  - ium
+  - concetto
+---
+
+# Effetto Peltzman
+
+> [!info] Definizione
+> Fenomeno di compensazione del rischio per cui una misura di sicurezza può portare alcune persone ad assumere comportamenti più rischiosi.
+
+## Spiegazione
+
+Negli appunti è citato nel contesto di casco e sicurezza dei ciclisti: la percezione di protezione può rendere gli attori meno prudenti.
+
+## Dettagli importanti
+
+- È un esempio classico di conseguenza inattesa.
+- Riguarda la percezione e la compensazione del rischio (risk compensation).
+- Spesso viene affiancato ad altri comportamenti inattesi come l'[[Effetto Cobra]].
+
+## Esempio
+
+> [!example] Esempio
+> Sentirsi protetti da un dispositivo (es. ABS o casco) può portare ad aumentare la velocità o ridurre la distanza di sicurezza.
+
+## Collegamenti
+
+- [[Conseguenze inattese]]
+- [[Sistema socio-tecnico]]
+- [[Overreliance]]
+- [[Effetto Cobra]]
+
+## Possibili domande d'esame
+
+> [!question] Domanda
+> Che cosa mostra l'effetto Peltzman?
+
+Risposta attesa:
+Mostra che introdurre protezioni fisiche o tecnologiche può modificare i comportamenti umani, portando gli individui a compensare il rischio percepito assumendo condotte più pericolose, riducendo o annullando il beneficio atteso della misura di sicurezza.
+
+## Conferma e consolidamento
 
 > [!success] Stato
-> Concetto confermato da `Appunti IUM 2021` e `AppuntiIUM2022`.
+> Concetto confermato ampiamente dalle fonti 2021, 2022 e 2025-26.
 
-Il 2022 collega l'effetto Peltzman alla risk compensation, cioè alla compensazione del rischio dopo l'introduzione di misure di sicurezza.
+Il 2022 collega l'effetto Peltzman alla risk compensation, cioè alla compensazione del rischio dopo l'introduzione di misure di sicurezza. Il 2025-26 lo consolida come uno degli esempi canonici di conseguenze inattese in un sistema socio-tecnico.
 
-## Stato di verifica
-
-> [!warning] Da verificare
-> Contenuto basato sugli appunti studenti 2020-2021. Verificare con appunti collettivi recenti, appunti 2022 e domande note prima di considerarlo consolidato.
-
-## Fonti interne
-
-- [[Appunti IUM 2021]]
-- [[04_appunti_ium_2021]]
+## Fonti interne
+
+- [[04_appunti_ium_2021]]
+- [[05_appunti_ium_2022]]
+- [[06_appunti_collettivi_2025_2026]]
