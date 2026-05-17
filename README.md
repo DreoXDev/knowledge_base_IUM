@@ -34,16 +34,21 @@ Gli asset raw non vanno modificati e non vanno copiati direttamente nella knowle
 
 ## Stato knowledge base
 
-### Fonti integrate
+### Fonti teoriche integrate
 
 - Appunti IUM 2021
 - Appunti IUM 2022
 - Appunti collettivi 2024-25
+- Appunti Collettivi 2025-2026
+- Domande IUM.pdf (Estratte 85 domande validate)
 
-### Fonti in corso / da analizzare
+### Fonti ancora da analizzare
 
-- Appunti Collettivi 2025-2026.md
-- Domande IUM.pdf
+- *Nessuna fonte in attesa di analisi al momento.*
+
+### Stato attuale
+
+La knowledge base teorica e le schede per l'esame pratico (Flashcards) sono complete e consolidate.
 
 ### Metodo di lavoro
 
