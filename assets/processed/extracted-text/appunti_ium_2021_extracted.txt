@@ -1,0 +1,2075 @@
+      INTERAZIONE UOMO-MACCHINA 2020-2021
+                                             by zeta.exe
+
+  Disclaimer: i seguenti sono appunti presi a lezione del corso di interazione Uomo-Macchina
+tenuto da Federico Cabitza, potrebbero perciò contenere imprecisioni, errori o parti incomplete
+                        ed è quindi sempre consigliato seguire le lezioni.
+
+     ps: sono tipo 60 pagine ma ci sono un sacco di foto e spazi messi a caso quindi don’t be scared
+
+
+                                    Best corso della triennale ngl.
+Indice (solo capitoli più importanti)
+
+  1.   L’interazione Uomo-Macchina (Human Computer Interaction)
+
+ 2.    Sistema socio-tecnico
+
+ 3.    Conseguenze inattese: OverReliance (effetto cobra)
+
+ 4.    RECAP #1
+
+ 5.    Usabilità
+
+ 6.    Constraints
+
+ 7.    Affordance
+
+ 8.    Multifunzionalità
+
+ 9.    RECAP #2
+
+10.    Valutazione di usabilità
+
+ 11.   Valutazione euristica
+
+12.    Euristiche usate più frequentemente
+
+13.    Valutazione euristica: il metodo
+
+14.    Recap: cosa inserire nella relazione per il progetto
+
+15.    Valutazione quantitativa
+
+16.    Valutazione di usabilità II
+
+17.    RECAP #3
+
+18.    Ingegneria dell’usabilità
+
+19.    Recap: progetto d’esame
+
+20.    Dark patterns
+
+21.    Tecnologie di persuasione
+
+22.    Introduzione alla semiotica
+
+23.    Ingegneria semiotica
+L’interazione Uomo-Macchina (Human-Computer Interaction)
+L’interazione uomo-macchina è una disciplina che studia l’interazione tra utenti
+(persone) e computer per la progettazione e lo sviluppo di sistemi interattivi che
+siano usabili, affidabili e che facilitino le attività umane; per far ciò è necessario
+considerare diversi settori:
+     ● Informatica
+           ○   Paradigmi di interazione
+           ○   Computer graphics
+           ○   Intelligenza artificiale
+           ○   ...
+    ●   Scienze della progettazione
+           ○   Ergonomia
+           ○   Design
+           ○   Project management
+           ○   ...
+    ●   Scienze dell’uomo
+           ○   Psicologia
+           ○   Scienze cognitive
+           ○   Linguistica
+           ○   Scienze della comunicazione
+           ○   ...
+
+
+Origini dell’HCI
+Intorno agli anni 80, più precisamente nel 1984 quando nasce la prima interfaccia
+grafica (il desktop con Apple Macintosh)
+
+Ergonomia cognitiva
+Studio delle interazioni tra l’uomo e gli strumenti che servono per elaborare
+l’informazione; quindi si studiano anche tutti i processi cognitivi coinvolti come
+percezione, attenzione, memoria, pensiero, linguaggio ed emozioni.
+
+Difficoltà nel progettare in modo che l’interazione sia efficace
+
+    ●   La varietà dei sistemi interattivi: abbiamo sistemi interattivi estremamente
+        diversi (es. elettrodomestici, smartphone, personal-computer, ecc.)
+    ●   La varietà degli utenti
+    ●   La varietà degli scopi e degli usi: è possibile progettare per qualsiasi contesto
+Concetti base
+    ●   Design = progettazione
+    ●   Progettare = ideare qualcosa e studiare il modo di attuarla, così da portare un
+        valore nell’ambito in cui viene usata
+    ●   Sistema interattivo = sistema che risponde ad utenti umani e reagisce alle loro
+        azioni in maniera percepibile ad un utente umano
+    ●   Valutazione = processo in cui si considera cosa è di valore per l’utente e si
+        considera tale valore come criterio per capire la qualità di un sistema
+
+Temi dell’Interazione Uomo-Macchina
+
+    ●   Criteri, metodi e strumenti per la progettazione dell’interazione fra esseri
+        umani e sistemi interattivi
+    ●   Criteri, metodi e strumenti per la valutazione dell’usabilità dei sistemi
+        interattivi
+    ●   Progettazione di nuove tecniche di interazione
+    ●   Valutazione dell’impatto* dell’automazione nei contesti umani
+    ●   Sistema socio-tecnico
+
+Impatto*
+Usabilità: impatto diretto nel breve, sui singoli e nel “qui-e-ora”
+Conseguenze inattese: impatto diretto nel medio-lungo, sulla collettività
+
+Un errore comune
+L'usabilità è un tipo di effetto/impatto sugli utenti (singoli utenti), NON una
+caratteristica intrinseca del sistema.
+L'usabilità dipende dagli utenti. Non si può valutare l'usabilità senza il coinvolgimento
+degli utenti.
+
+
+Sistema socio-tecnico
+Un sistema socio-tecnico è un sistema in cui la componente umana (sociale) e quella
+tecnica (tecnologica) sono inestricabilmente legate ed interdipendenti tra loro.
+Un tale sistema, agli occhi di un osservatore esterno, appare come un’entità unitaria ma
+collettiva, con caratteristiche e comportamento proprio.
+
+L'interazione delle due componenti porta a fenomeni emergenti impredicibili.
+Non è possibile prevedere a priori come opererà un sistema socio-tecnico: le
+proprietà/comportamento del sistema non sono desumibili da quelle delle sue parti
+prese isolatamente, ma emergono proprio in virtù delle interazioni tra quelle (analisi
+solo post-hoc) in un determinato ambiente (analisi locale).
+
+È un concetto ad invarianza di scala: va dal piccolo team di lavoro alla società umana.
+Proprietà emergenti:
+
+    ●   Funzionali: riguardano il funzionamento dell’intero sistema una volta che tutte
+        le sue parti funzionano bene
+    ●   Non funzionali: riguardano quanto bene opera il sistema in un determinato
+        ambiente/contesto (es. sicurezza, performance, affidabilità, usabilità, comodità,
+        ecc.)
+
+Prospettiva socio-tecnica (STS thinking)
+E’ un approccio consapevole del fatto che le due componenti (sociale e tecnologica) si
+integrino bene e si “ottimizzino” solo congiuntamente in configurazioni sub-ottime.
+L’obiettivo è appunto trovare una delle configurazioni che permetta alle due
+componenti di integrarsi in maniera ottimale in modo anche da soddisfare le persone
+coinvolte.
+
+
+Conseguenze inattese: OverReliance (effetto cobra)
+Troppa fiducia da parte dell’utente.
+
+Effetto Peltzman: Dopo l’introduzione di leggi a tutela della sicurezza dei ciclisti (quali
+l’uso del casco) si è osservato un aumento del numero degli incidenti. Questo succede
+perché gli esseri umani tendono a compensare il rischio rendendo vana la misura volta
+ad aumentare la sicurezza.
+Quindi l’automobilista si avvicina di più ad un ciclista col casco che ad uno senza, e i
+ciclisti con il casco tendono ad andare più veloci e/o più “spericolati”
+
+L’OverReliance si distingue in:
+    ● OverDependence: gli utenti dipendono troppo dallo strumento informatico
+            ○ Mancanza di autonomia
+            ○ Abuso dello strumento anche quando non necessario
+            ○ Mancanza, dimenticanza o ignoranza di un piano B (nel caso in cui non
+               si possa fare affidamento sullo strumento)
+
+    ●   OverConfidence:
+            ○ Pensare che lo strumento non smetterà mai di funzionare
+            ○ Pensare che non ne deriverà mai un danno
+            ○ Pensare che non possa sbagliare mai
+
+Complacency: è un tipo di sovraffidamento che riguarda la fiducia che il sistema
+computazionale funzionerà sempre per come è stato progettato e quindi fa
+abbassare il livello di attenzione quando lo si usa.
+
+Automation bias: distorsione cognitiva dovuta all’automazione, si verifica quando c’è
+un’eccessiva fiducia nella risposta del supporto alle decisioni, causando quindi errori di
+omissione o di azione quando i sistemi sono imperfetti.
+RECAP #1
+    ●   Progettare sistemi usabili equivale a progettare per l’uso, quindi per qualcosa
+        che il progettista non controlla e che prende dall’utente e da quello che fa.
+    ●   Per progettare sistemi usabili non esistono metodologie, si deve piuttosto:
+            1) Imparare per imitazione (anche negativa) dall’esperienza
+            2) Essere creativi (ma non troppo)
+            3) Valutare la qualità (in particolare l’usabilità) del proprio sistema
+                 coinvolgendo utenti veri: nè troppi, nè troppo pochi
+            4) Essere progettisti responsabili, ovvero essere consci che il proprio
+                 sistema sarà il componente di un sistema socio-tecnico e chiedersi quali
+                 sono le conseguenze del proprio strumento
+    ●   Aspettarsi che il proprio lavoro possa avere conseguenze inattese e lavorare per
+        minimizzare l’impatto
+
+
+
+
+Usabilità
+Bassa usabilità = danni e problemi
+
+    ●   Gli utenti non capiscono come usare il sistema
+    ●   Il sistema presenta un’eccessiva quantità di funzionalità (low use)
+    ●   Gli utenti non capiscono cosa stia facendo il sistema (poca trasparenza)
+    ●   Interazioni con le tecnologie sono spesso fonte di emozioni negative
+        (frustrazione, ansia, disorientamento e anche ira), che possono portare l’utente
+        a compiere errori più o meno gravi
+
+Progettista vs Utente (Leggenda di Dedalo e Icaro) se non la conosci… boh fra ma dove vivi
+E’ importante non dare per scontato che la responsabilità sia dell’utente nel momento
+in cui si presenta un problema. Molto spesso infatti vi è un “concorso di colpa”; è
+importante cercare di prevenire problemi legati all’usabilità.
+
+Affordance: indizi visibili presenti negli oggetti ben progettati che ne dimostrano il
+funzionamento (es. l’indicatore di sicurezza della password)
+Esempio di errori da non commettere:
+
+
+
+
+È importante avere ben chiaro che il Design delle interfacce (scelta di colori, caratteri,
+ecc.) e Interazione Uomo-Macchina (scelta di cosa scrivere, contenuto dei messaggi di
+errori, ecc.) sono differenti.
+
+Due concetti metaforici:
+    ● The Norman doors: una porta di Norman è una porta progettata in modo da
+       non far capire se si apra tirando o spingendo, rappresenta la tendenza del
+       progettista a complicare affari semplici e a pretendere che basti scrivere una
+       procedura per renderla ovvia a qualsiasi utente
+    ● The Floyd toilette: è un oggetto che funziona ma che è assurdamente
+       complicato, rappresenta la tendenza del progettista a concepire oggetti o
+       sistemi che non invitano all’uso (e all’uso corretto) sulla base di elementi
+       visuali o indicazioni chiare (affordances), affidandosi solo alla memoria,
+       all'esperienza o all’intuizione ed incontrando spesso il disorientamento o
+       fraintendimento dell’utente.
+
+Tre concetti centrali:
+    1) Affordance
+    2) Mapping
+    3) Constraints
+Definizioni
+Sistema interattivo: combinazione di componenti hardware e software che ricevono
+input da un utente umano, e gli forniscono un output allo scopo di supportare
+l’effettuazione di un compito
+
+Interfaccia: l’insieme dei componenti di un sistema interattivo (software o hardware)
+che forniscono all’utente informazioni e comandi per permettergli di effettuare specifici
+compiti attraverso il sistema
+L’utente non vede la parte di back-end, per lui l’interfaccia È il sistema interattivo
+Questo significa che in realtà molti problemi di usabilità sono in relazione con problemi
+di interfaccia.
+L’elemento comune più rilevante tra i due è il concetto di effettuazione di un compito
+(task) con il fine di raggiungere un obiettivo ben definito.
+
+Un errore comune
+Dalla prospettiva IUM non si tratta di progettare interfacce “belle” esteticamente (visual
+design), ma di progettare gli elementi che permettono e vincolano l’azione
+dell’utente sul -e mediata dal- il sistema computazionale [Affordance e Constraint]
+
+Constraints (vincoli)
+Possono essere:
+     ● Passivi (o strutturali)
+              ○ es. un form con tre campi per vincolare l'inserimento di soli tre tipi di
+                  dato, senza alcun campo "note", quindi non è previsto un feedback tra
+                  consumatore e azienda.
+     ● Attivi (o funzionali)
+              ○ es. dei controlli per cui l'utente non può proseguire se non compila tutti
+                  i campi o se non li compila correttamente
+I vincoli sono strumenti per garantire una migliore qualità dei dati e una
+standardizzazione delle pratiche (procedure) ma -ovviamente- non bisogna esagerare.
+
+Constraint vs. Workaround
+Se i vincoli sono troppi o troppo stringenti l’utente si può “ribellare” trovando dei
+percorsi alternativi a quello previsto dal progettista (designed path).
+
+Workaround: percorso che l’utente avrebbe voluto fosse stato progettato dal
+progettista e che viene quindi percorso lo stesso a discapito dei vincoli stabiliti.
+In informatica, è qualsiasi azione relativa all'esecuzione di un processo o di un compito
+(supportati dal sistema informatico) che non è prevista o descritta nei manuali di uso
+del sistema informatico e/o nei manuali che descrivono tale processo o procedura e che
+può bypassare l'uso del sistema o piegarlo ai propri fini.
+
+L’ideale sarebbe trovare un compromesso fra la massima qualità dei dati si vogliono
+raccogliere e le eccezioni che si possono incontrare.
+Affordance
+Una qualità o proprietà di un oggetto che definisce i suoi possibili usi o rende evidente
+all’utente (che dev’essere ricettivo, competente) come utilizzarlo.
+
+Ci sono diversi tipi di affordance:
+     ● Cognitive: aiutano l’utente ad effettuare azioni cognitive (pensare, decidere,
+        imparare, ricordare, sapere)
+        es. un’etichetta che descrive cosa fa un determinato oggetto
+
+    ●   Fisiche: aiutano l’utente con le sue azioni fisiche (cliccare, toccare, puntare,
+        gesticolare, muovere cose)
+        es. un bottone abbastanza largo in modo che l’utente possa premerlo
+        facilmente
+
+    ●   Sensoriali: aiutano l’utente con le azioni sensoriali (vedere, udire, sentire gusti e
+        profumi)
+        es. il font di un’etichetta abbastanza grande da essere individuata facilmente
+
+    ●   Funzionali: aiutano l’utente in lavori reali (e giochi) affinché gli l’utente compia
+        azioni che hanno effetti nel mondo
+        es. la capacità interna del sistema di ordinare una serie di numeri (invocata
+        dagli utenti facendo click sul pulsante di ordinamento)
+
+    ●   Emozionali: aiutano, supportano e facilitano la comunicazione emotiva. Lo
+        scopo è quello di suscitare emozioni nell’utente.
+        es. le emoji
+
+    ●   Sociali: proprietà di un oggetto che invitano e facilitano azioni collaborative,
+        sociali.
+        es. icone che permettono di creare un messaggio vocale, di effettuare una
+        videochiamata ecc.
+
+N.B.: queste categorie di affordance non sono mutualmente esclusive, è possibile avere
+vari aspetti di un oggetto che fanno sia da affordance fisica che cognitiva o sensoriale.
+Ad esempio, il like è un’affordance emozionale e sociale.
+
+Legge di Fitts
+Ha a che fare con la dimensione dei comandi (bottoni, link) e alla distanza media da un
+punto a un'area.
+
+
+
+
+In ergonomia la Legge di Fitts rappresenta il modello matematico di un movimento
+umano. La Legge di Fitts calcola il tempo impiegato per muoversi rapidamente da un
+punto iniziale a un'area con una determinata estensione.
+La legge esprime il tempo in funzione della distanza tra punto iniziale e obiettivo finale,
+correlato all'estensione dell'area considerata. Il modello è usato per lo studio del
+puntamento e dell'interazione fra uomo e macchina, nel mondo reale, ma soprattutto
+nei computer per la progettazione di interfacce grafiche.
+
+Tempo necessario per muovere il cursore:
+
+
+
+
+dove:
+    -   T è il tempo medio impiegato per concludere il movimento
+    -   a e b sono costanti empiriche
+    -   D è la distanza del punto iniziale al centro dell’area
+    -   W è la larghezza dell’obiettivo lungo la dimensione del movimento
+
+Una buona interfaccia è quel l'interfaccia che minimizza il tempo di movimento
+
+
+Scheumorfismo
+Uno scheumorfismo è un ornamento fisico o grafico apposto su un oggetto allo scopo
+di richiamare le caratteristiche estetiche di un altro, come ad esempio ad esempio
+una ceramica ornata con dei rivetti per far in modo che ricordi una pentola di metallo.
+In ambito digitale, è scheumorfico un oggetto le cui affordance ricordano quelle di un
+oggetto reale con il quale si pensa l'utente abbia una maggiore familiarità, come ad
+esempio l’app dell’agenda che presenta l’ombra della rilegatura o l’animazione dello
+sfogliamento della pagina.
+
+
+
+
+Ad oggi lo scheumorfismo non è più di moda; adesso è più diffuso e apprezzato il flat
+design (il material design è un tipo di flat design).
+
+User-created affordances
+
+                                                    Sono le affordances introdotte
+                                                    dall’utente stesso che si appropria di
+                                                    uno strumento al quale “manca
+                                                    qualcosa” per comprenderne a pieno
+                                                    il funzionamento.
+                                                    E’ un segnale al progettista che
+                                                    secondo l’utente manca qualche
+                                                    indicazione per l’uso ottimale dello
+                                                    strumento.
+Mapping
+È una caratteristica dell’affordance. Rappresenta la relazione tra un controllo (e l’azione
+che esso “afforda”) e l’effetto che tale azione avrà nel mondo reale/applicativo.
+
+Il mapping topologico funziona spesso molto bene, ma quello funzionale può essere
+migliorabile.
+
+Tipi di Mapping:
+       ● Mapping arbitrario: una relazione del tutto immaginata dal progettista e che
+          l’utente adotta solo per prove ed errori e poi impara a memoria, senza
+          riferimenti culturali o indicazioni fisiche.
+       ● Mapping convenzionale: la relazione tra controllo ed effetto è stabile, quasi
+          ovvia, ma legata a delle convenzioni. (es. la convenzione che la seconda marcia
+          è nella fila inferiore)
+       ● Mapping naturale: la relazione è meno immediata che nel caso diretto (ma i
+          concetti sono molto simili) ma ci viene appunto “naturale” immaginare la
+          relazione esistente tra controllo ed effetto. (es. il puntatore a forma di mano
+          con l’indice prominente che ci suggerisce di fare clic)
+       ● Mapping diretto: vi è una relazione fisica, visibile, spesso legata alla posizione
+          tra controllo (che afforda un’azione) e l’effettore controllato che produce un
+          effetto (es. il puntatore a forma di mano con l’indice prominente ci suggerisce
+          il click, e in un certo senso l’effetto naturale di indicare e selezionare qualcosa)
+
+N.B.: Non è possibile avere un mapping senza un’affordance, ma puoi avere
+un’affordance senza un mapping
+
+Ricapitolando: un’affordance non è solo qualcosa che suggerisce un’azione su di essa
+(come il fatto che un pedale “voglia” essere piegato da un piede), ma anche qualcosa
+che suggerisce un possibile effetto sul mondo. È proprio il “mapping”, che è una
+caratteristica dell’affordance (concetto padre) che si occupa di rendere questo
+collegamento o relazione più o meno semplice da capire.
+
+“Ogni volta che un’etichetta sembra necessaria, sarebbe meglio pensare ad un nuovo
+design”
+— Donald A. Norman
+
+Designing by affordance
+      1) Seguire le maggiori convenzioni già stabilite per immagini e azioni e adottare
+         il mapping naturale ove possibile
+      2) Se appropriato, utilizzare delle scritte in aggiunta ad icone e grafiche
+      3) Utilizzare metafore riconoscibili (es. trascinare sull’icona del cestino per
+         cancellare i file)
+
+      4) Essere consistenti e coerenti nell’uso del modello concettuale dietro al design
+         (ossia i primi 3 principi)
+Dispositivi per l’interazione
+     ●   Dispositivi di Output
+            ○ Vista: schermi video, stampanti occhiali
+            ○ Udito: Dispositivi sonori, sintesi vocale
+            ○ Tatto: guanto
+     ●   Dispositivi di Input
+            ○ Mani: tastiera, mouse, joystick, touch screen
+            ○ Voce: riconoscimento vocale
+            ○ Sguardo: eye tracking
+            ○ Postura: sensori (es sensore di prossimità dello smartphone)
+
+Progettare una buona interfaccia
+Con una buona interfaccia l'utente può essere "più superficiale" e svolgere il suo
+compito dimenticandosi che sta usando un computer (teoria del flusso).
+Una buona interfaccia dà inoltre benefici in termini di maggior produttività, minor
+turnover, miglior morale, minore frustrazione, stress, insoddisfazione, maggiore
+soddisfazione nel lavoro che si traducono in minori costi operativi. Inoltre, si riducono
+gli errori (indotti dalla tecnologia).
+Quindi investire sull’interazione uomo-macchina significa investire sulle risorse umane.
+
+Errori di giustapposizione: errori dovuti a quando un’opzione è vicina ad un altra sullo
+schermo e quindi capita con facilità che quella sbagliata venga selezionata per errore.
+
+
+Multifunzionalità
+Vista la multifunzionalità degli oggetti che vengono usati in questi anni, si pensa che
+nel corso del tempo ci sia stata una semplificazione dei dispositivi, ma non è così
+(aumento della complessità).
+
+Bisogna progettare per la più bassa complessità d'uso possibile. Lavorare per
+l'usabilità significa abbassare la quota degli oggetti con un’elevata complessità d’uso,
+strutturale e funzionale: bisogna rendere le cose più semplici.
+
+Perché è necessario semplificare l'uso?
+     ● Pervasività della tecnologia nel mondo di oggi
+     ● Necessità di semplificare l'utilizzo e di renderla accessibile a tutti (succede
+        che chi non la sa o non la può usare viene “tagliato fuori”)
+     ● Necessità di comprendere ruoli e possibilità della tecnologia per migliorare la
+        qualità della vita
+RECAP #2
+      1) Concetti cardine dell’interazione uomo-macchina:
+           ○ Vincolo (constraint)
+           ○ Mapping
+           ○ Affordance
+           ○ Workaround
+
+      2) Non esistono metodologie per progettare una buona interazione se non:
+         osservare, immaginare, prototipare, valutare con gli utenti ecc.
+
+      3) Evitare errori e orrori attraverso l’osservazione (toilette di Floyd, porta di
+         Norman)
+
+Chiedersi sempre come l’utente percepirà determinate cose e che effetto avranno su
+esso (mettere in difficoltà, semplificare alcune mansioni, ecc…)
+
+
+Valutazione di usabilità
+La valutazione dell'usabilità deve avere un approccio empirico, ovvero deve coinvolgere
+utenti reali. Il confronto può essere:
+      ● Longitudinale (nel tempo): si progetta un sistema, si fa una prima valutazione
+         dell'usabilità e poi si confronta la prima versione del sistema con la seconda.
+      ● Trasversale: si confrontano due o tre sistemi diversi.
+
+Il gruppo di progetto è formato da -tipicamente- 3 utenti.
+
+
+
+
+Come?
+Confronto longitudinale: Si parte da un applicazione, si svolge una valutazione
+euristica (coinvolgendo noi 3 del gruppo + altre 3 persone), poi si fanno degli user test
+(coinvolgendo 12 persone), poi si effettua un miglioramento dell’applicazione
+portandola ad una “seconda versione”, poi si rifanno gli user test (coinvolgendo
+sempre 12 utenti, che possono essere gli stessi che hanno testato la prima versione o
+altri), poi si fa un’indagine psicometrica tramite un questionario (coinvolgendo 24
+persone) ed infine si fa una relazione di progetto al riguardo.
+oppure
+
+Confronto trasversale: confronto due applicazioni diverse sul mercato, si effettua
+sempre la valutazione euristica (noi 3 del gruppo + altri 3 utenti), poi si effettuano degli
+user test (12 utenti), infine si effettua un indagine psicometrica e si elabora una
+relazione.
+
+Più in dettaglio:
+
+Valutazione euristica
+Si coinvolgono 6 persone: 3 utenti esperti di dominio e 3 utenti esperti di usabilità (noi
+del gruppo), che fanno da osservatori dei 3 utenti esperti di dominio.
+
+User test
+Coinvolgono circa 12 persone, più o meno rappresentativi della popolazione di
+riferimento. Il test è composto da 2-3 task. Le caratteristiche di questa sessione
+sperimentale vengono valutate statisticamente in maniera quantitativa. Le
+caratteristiche sono il tempo impiegato per l'esecuzione del task e il numero di errori
+commessi.
+(Sarebbe bene registrare il test utente. Rivedendo le registrazioni, guardando
+l'espressione del volto dell'utente coinvolto, è possibile stabilire quante volte l'utente
+abbia espresso soddisfazione, insoddisfazione, frustrazione o neutralità)
+
+Questionario
+Per la valutazione, si devono coinvolgere almeno 24 utenti a cui somministrare un
+questionario di usabilità che ha circa 10-12 domande. Si tratta di domande semplici a
+risposta chiusa.
+
+N.B.: Se “riciclo” i rispondenti devo fare attenzione a specificare il fatto che i campioni
+(per la valutazione quantitativa) sono accoppiati e dipendenti (c’è infatti una differenza
+se hanno già provato una versione o sono totalmente estranei all’applicazione)
+
+
+Valutazione euristica
+Lessico che è necessario avere ben presente:
+      ●   Ergonomia
+      ●   Sistema socio-tecnico
+      ●   Affordance
+      ●   Porte di Norman
+      ●   Toilette di Floyd
+      ●   Sistema interattivo e interfaccia
+      ●   Automation bias / overreliance
+      ●   Errori di giustapposizione
+      ●   Complessità strutturale, funzionale e d'uso
+Concetti avanzati:
+     ●    Segno, simbolo, indice, icona
+     ●    Significante, significato, oggetto
+     ●    Metacomunicazione
+     ●    Deputy del progettista (parti dell'interfaccia che danno spiegazioni)
+     ●    Captologia (studio dei computer come tecnologie persuasive)
+     ●    Soggettivismo, oggettivismo
+
+
+Una metodologia "povera ma onesta"
+      -   Affinare una sensibilità per “il brutto e il cattivo”
+      -   Progettare in equilibrio tra familiarità e originalità
+      -   Essere consapevoli che agli utenti si parla di se stessi
+      -   Coinvolgere gli utenti
+      -   Trovare problemi, prioritizzarli e risolverli
+      -   Valutare usabilità in termini di efficienza, efficacia e soddisfazione
+      -   Migliorare l'artefatto
+      -   Tornare dagli utenti
+
+La valutazione euristica è una valutazione qualitativa basata sulla valutazione della
+qualità del software in questione.
+
+     ●    Si coinvolgono utenti esperti del dominio (esperti del task, che quindi
+          hanno familiarità con il compito assegnato) ed esperti di usabilità (inclusi
+          noi stessi del gruppo)
+     ●    Servono a valutare sistemi interattivi a qualsiasi livello di maturità
+          (prototipi o sistemi ultimati).
+     ●    Viene effettuata alla luce di principi di buona progettazione.
+
+Il fine è farsi un’idea sufficientemente completa dei possibili problemi di usabilità: più
+problemi di usabilità si trovano, migliore è il lavoro.
+Per effettuare la valutazione dell'usabilità, dobbiamo focalizzarci sulle figure in rosso.
+
+
+
+
+Il risultato della valutazione euristica è un insieme di problemi di usabilità,
+eventualmente pesata per gravità: si collegano i problemi ai principi di buona
+progettazione che il sistema viola, ovvero si collega il problema alle euristiche.
+Indicazioni per il design
+Generalità: fa riferimento all’ambito di applicazione, più è generale e più potrà essere
+applicato in diversi domini applicativi.
+Prescrittività: descrive quanto una certa cosa è mandatoria da seguire.
+
+
+
+
+Principi: indicazioni generali per la progettazione di interfacce utente usabili, basate
+su evidenza scientifica o sul generale consenso. Derivano dalla conoscenza degli aspetti
+psicologici, computazionali e sociali e sono indipendenti dalla tecnologia. Sono espressi
+spesso in forma molto generale.
+
+Linee guida e design patterns: insieme di raccomandazioni per il progetto
+dell'interfaccia utente per una particolare classe di sistemi, espresse in modo generale
+ma meno astratte dei principi, con esempi e motivazioni.
+Non sono mai vincolanti, sta al progettista decidere sull'opportunità di applicarle caso
+per caso.
+       ● Raccolgono lo stato della pratica
+       ● Suggeriscono soluzioni ai progettisti
+       ● Facilitano la formazione di un linguaggio comune
+       ● Diffondono gli standard de facto
+       ● Evitano ai progettisti di dover “reinventare la ruota”
+
+Standard: insieme di regole da applicare nel progetto di una classe di sistemi.
+Possono essere vincolanti. Sono di norma emesse da un ente di standardizzazione (es.
+ISO). La conformità allo standard deve essere valutabile in modo preciso (criteri).
+
+Regole di progetto: Insieme di regole o specifiche da applicare nel progetto di un
+particolare sistema. Sono vincolanti all'interno del progetto, ad esempio perché dettate
+da precisi requisiti del cliente/committente o per motivi di budget e vincoli progettuali.
+In poche parole: le linee guida e i design pattern che apprezziamo e troviamo efficaci li
+applichiamo, i principi (della buona progettazione di sistemi usabili) li seguiamo.
+
+Un'euristica è dunque un insieme di concetti, riferimenti e strategie che si sono
+rivelate particolarmente adatte a risolvere un determinato problema
+La valutazione euristica è la valutazione (di usabilità) svolta alla luce di un
+determinato insieme di euristiche (ben definite, possibilmente ben note, prese a
+riferimento) per identificare soluzioni di design che o si conformano o violano una o
+più euristiche di tale insieme.
+L’obiettivo sarebbe valutare l'usabilità senza creare vincoli eccessivi contro l'originalità e
+l'innovatività.
+
+Autorevolezza
+Ci sono diversi livelli di autorevolezza (o forza dell'evidenza) delle indicazioni:
+      A. Completamente supportate da risultati di ricerca e dati empirici
+      B. Basate su pratica generalmente accettata (in modo documentato)
+      C. Non ben documentate, ma supportate dall'opinione di professionisti esperti
+      D. Opinione individuale del progettista
+
+Negli standard sono solitamente recepite solo indicazioni di livello A e B.
+
+I principi di Nielsen sono tra B e C; alcune soluzioni specifiche (ispirate a quei principi)
+sono anche di livello A.
+Euristiche usate più frequentemente
+IXD checklist
+     ●   Affordance - il controllo spiega come usarlo
+            ○ il controllo è mappato al risultato in maniera semplice e logica
+            ○ c’è una chiara metafora tra il controllo e il mondo reale
+            ○ la funzione di controllo è subito comprensibile dopo un primo sguardo
+            ○ le icone simboliche devono essere chiare ai nuovi utenti
+
+     ●   Feedback - dev’essere chiaro ciò che è successo/sta succedendo
+            ○ tutti gli elementi di stato sono illustrati chiaramente ed efficacemente
+            ○ lo stato corrente del sistema è facilmente comprensibile dall’utente
+            ○ fornisce un feedback/rinforzo quando un task è completato
+
+     ●   Simplicity - il più semplice possibile e focalizzato sul task
+            ○ ogni step del flusso di sequenza è chiaro all’utente
+            ○ ottimizzare i simboli per un riconoscimento più veloce
+            ○ non rappresentare più azioni con simboli simili
+
+     ●   Structure - contenuti organizzati ragionevolmente
+            ○ la profondità della struttura informativa deve essere consistente su
+               tutto il sistema
+            ○ la gerarchia delle informazioni e la struttura dei contenuti è
+               organizzata in maniera chiara
+            ○ lunghezze misurate ottimizzano la leggibilità
+
+     ●   Consistency - somiglianza per prevedibilità
+           ○ riduci il bisogno di ricordare concetti combinando simbolismo e
+               linguaggio
+           ○ i modelli di movimento e animazione sono coerenti in tutto il sistema
+           ○ sfrutta gli elementi esistenti per ridurre al minimo l'incoerenza
+           ○ la posizione degli elementi è coerente in tutto il sistema
+           ○ l'uso del linguaggio è chiaro e coerente in tutto il sistema
+           ○ i simboli dovrebbero essere contestuali al sistema
+           ○ il linguaggio rappresenta chiaramente il simbolo corrispondente
+
+     ●   Tolerance - previene gli errori, aiuta a ripristinare
+            ○ fornire un modo facile per invertire le azioni
+            ○ gli utenti devono essere in grado di riconoscere, diagnosticare e
+               ripristinare gli errori
+            ○ guida e supporto devono essere prontamente disponibili all'utente
+
+     ●   Accessibility - usabile da tutti gli utenti destinatari nonostante handicap,
+         dispositivi di accesso o condizioni determinate dall’ambiente
+            ○ il controllo e i simboli devono soddisfare i requisiti minimi di
+               dimensione, spazio e contrasto
+            ○ metti vicini tra loro gli elementi forme, dimensioni e colori simili
+            ○ i rapporti di contrasto sono accessibili quando si utilizzano più colori
+            ○ la tipografia è ottimale per la lettura in qualsiasi ambiente/contesto
+            ○ assicurati che siano presenti dei fallback (ripieghi) per scopi di
+               accessibilità
+Ambiti a cui si applicano:
+     ● Interface
+     ● Iconography
+     ● Typography
+     ● Interaction
+     ● Navigation
+
+
+
+Standard ISO 9241-110
+      1) I 7 principi del dialogo uomo macchina:
+
+      2) Adeguatezza al compito
+
+      3) Autodescrizione
+
+      4) Conformità alle aspettative dell'utente
+
+      5) Adeguatezza dell'apprendimento
+
+      6) Controllabilità
+
+      7) Tolleranza verso gli errori
+
+      8) Adeguatezza alla personalizzazione
+Principi euristici di Jacob Nielsen (rielaborati da Mussio)
+Queste euristiche Cabitza le riprenderà in futuro a lezione quando spiegherà la valutazione euristica, io ho preferito
+aggregare le aggiunte fatte dopo direttamente qui perchè ho l’OCD e mi disturbava averli separati ok
+
+
+        ●   Percezione
+              1.  Far vedere lo stato del sistema (feedback)
+                     ○ L’utente deve poter capire l’effetto dell’azione passata sullo stato
+                        presente e individuare le possibili nuove azioni (mostrare i
+                        cambiamenti)
+                     ○ Fornire indicazioni sui malfunzionamenti
+                     ○ Segnalare se il sistema sta facendo una elaborazione o sta
+                        aspettando un input
+
+               2.     Adeguare il sistema al mondo reale (parlare il linguaggio dell'utente)
+                        ○ Permettere all’utente di sfruttare la sua esperienza
+                           nell’interagire con il sistema, facendo per esempio uso di
+                           metafore familiari
+                        ○ I dialoghi devono essere nella lingua nativa dell’utente, così come
+                           le icone devono rispettare la cultura (affordance percepita)
+
+               3.     Controllo dell'utente e libertà (uscite indicate chiaramente)
+                        ○ Gli utenti devono sentire che sono loro che controllano il
+                            dialogo, ad esempio usando le finestre modali solo quando
+                            servono
+                        ○ Chiare vie di uscita: offrire sempre all’utente un modo semplice
+                            per uscire dalla situazione (offrire sempre delle possibilità di
+                            “undo”); vie di uscita e undo permettono all’utente di imparare
+                            esplorando il sistema.
+                            N.B.: il numero di funzioni di UNDO possibili deve essere pari a
+                            quello dei comandi presenti, fatta eccezione per alcuni comandi
+                            (tipo l’invio di una mail) dove non è possibile recuperare lo stato
+                            precedente a tale comando
+                        ○ Permettere di interrompere o cancellare operazioni che durano
+                            troppo (limite dei 10 secondi)
+
+        ●   Cognizione
+             4.  Assicurare consistenza del layout all’interno dell’intero applicativo e
+                 nelle singole schermate (definire delle convenzioni e continuare ad
+                 adottarle con coerenza e consistenza)
+                     ○ Lo stesso comando o la stessa azione hanno sempre lo stesso
+                        effetto, così che l’utente acquista confidenza con il sistema ed è
+                        incoraggiato a esplorare
+                     ○ Somiglianza in situazioni simili o perseguendo scopi simili
+                     ○ Generalizzabilità: supportare gli utenti ad estendere la loro
+                        esperienza da situazioni note a situazioni mai incontrate
+                     ○ Consistenza nel layout dell’interfaccia, facendo in modo che la
+                        stessa informazione presentata sempre nella stessa locazione
+           5.   Riconoscimento piuttosto che uso della memoria dell'utente (fare
+                affidamento anche a ciò che è familiare all'utente già prima che abbia
+                usato l'applicazione)
+                    ○ Se si richiede all’utente di fornire un dato, descrivergli il formato
+                       (magari anche con un esempio, tipo “enter date: DD-MM-YY ⟶
+                       16-04-21”) oppure fornire un valore di default (tipo la data di oggi)
+
+           6.   Assicurare flessibilità ed efficienza d'uso (shortcuts come ctrl+c, ctrl+v)
+                   ○ L’utente esperto deve poter svolgere velocemente le operazioni
+                      più frequenti
+                   ○ Flessibilità nel senso che il sistema deve permettere di fare le
+                      stesse cose in maniere diverse
+
+           7.   Visualizzare tutte e sole le informazioni necessarie (estetica e design
+                minimalista; anche per una questione di cluttering, da clutter,
+                ingombrare: è un disturbo di comunicazione dovuto alla presenza di
+                troppe informazioni o elementi)
+                   ○ L’interfaccia deve essere semplice (minimalist design, material
+                      design), gradevole e rispecchiare nella maniera più naturale
+                      possibile i compiti dell’utente
+                   ○ Presentare solo l’informazione che l’utente vuole, quando
+                      l’utente la vuole, come l’utente la vuole e dove l’utente la vuole.
+                      Quindi evitando di accompagnarla con informazioni non rilevanti
+                      o fuorvianti.
+                   ○ Raggruppare le informazioni che vengono usate assieme.
+                   ○ Presentare le informazioni in modo da suggerire la sequenza di
+                      azione (es. i campi di una finestra di dialogo dall’alto in basso)
+
+      ●   Errori
+           8.    Prevenire gli errori*
+           9.    Permettere agli utenti di correggere gli errori e non solo di rilevarli (non
+                 dare codici criptici che sono utili solo allo sviluppatore; dare dettagli
+                 tecnici solo se scelto dall'utente; dare all'utente un messaggio chiaro e
+                 semplice)
+           10. Help e documentazione (è importante dare tips all'occorrenza, una
+                 breve guida all'inizio)
+                    ○ Help minimalista e contestuale
+                    ○ Manuali necessari nel momento in cui l’utente vuole diventare
+                       più esperto
+
+Una credenza errata
+“Più opzioni offro e più modi di fare le cose metto a disposizione, più utenti soddisfo” ⟶
+noto come Bells and whistles bias
+In realtà ogni volta che si aggiunge un’opzione l’utente ha una cosa in più da imparare
+e da usare in maniera scorretta.
+Una possibile alternativa è offrire diversi “modi utente” (ad esempio una mode per
+novizi, una per esperti, una per operatori di linea, per manutentori ecc)
+Fenomeno del Low Use
+Situazione in cui un’applicazione è “eccessiva” per un l’utente, riguarda infatti il
+rapporto tra funzioni usate spesso o a volte e quelle che non sono note o che sono
+note ma usate praticamente mai.
+Use Index = [ (n. funzioni usate spesso)*1 + (numero funzioni usate a volte * 0,5) +
+(numero funzioni mai usate * 0) ] / numero funzioni prese in considerazione
+
+I low users sono quelli con UI ≤ 0,5
+
+Estetica: importanza della grafica, del layout e del colore
+      ●   Mettere prima le informazioni che devono essere lette per prime
+      ●   Oggetti lampeggianti o CARATTERI MAIUSCOLI solo se necessario, anche
+          perché rallentano del 10% la velocità di lettura
+      ●   Non usare più di 5-7 colori, non usare colori brillanti per lo sfondo
+      ●   Assicurarsi che gli elementi dell’interfaccia si distinguano anche senza i colori
+
+Prevenzione degli errori*
+      ●   Creare meccanismi di prevenzione (es. selezionare un file da un menù
+          piuttosto che richiedere di digitarne il nome permette di prevenire una
+          digitazione errata)
+      ●   Riduzione di errori tramite richiesta di conferma di un’azione
+      ●   Evitare comandi troppo simili con significati diversi
+      ●   Creare meccanismi di comunicazione utente-progettista: errori dell’utente
+          rilevati nell’uso portano al ri-progetto
+
+Esistono molteplici tecniche di prevenzione degli errori:
+
+      ●   diversificare le azioni dell'utente - è una tecnica per prevenire i lapsus ed
+          evitare che l'utente esegua inavvertitamente un'azione al posto di un'altra
+      ●   amodalità - un sistema modale è un sistema che può avere un
+          comportamento modale, ovvero si comporta a seconda dello stato (o
+          modalità) corrente. C'è un trade off da mantenere tra l'amodalità e
+          l'interfaccia minima. In alternativa, si può evidenziare la modalità corrente
+      ●   funzioni vincolate
+      ●   avvertimenti e richieste di conferma
+      ●   default inoffensivi (tipo dati pre-inseriti)
+      ●   bypass sicuri
+Avvertimenti e richieste di conferma
+      ●   Tre tipologie
+              ○ Note alert box: « File names cannot contain a “/” »
+              ○ Caution alert box: « Do you really want to delete “Ciao.txt”? »
+              ○ Stop alert box: « The Trash cannot be moved off the desktop. »
+      ●   Chiedere sempre conferma prima di effettuare azioni irreversibili o
+          comunque “pericolose”.
+      ●   Messaggi precisi e costruttivi (specificare sempre in cosa consiste
+          l’avvertimento, tipo “Non posso aprire ‘Capitolo 5’ perché non è presente sul
+          disco” ⟶ ALERT, IDENTIFY: & DIRECT: notificare che qualcosa non va, dire
+          cosa non va, suggerire all’utente cosa fare per risolvere il problema
+      ●   Messaggi non intimidatori, evitando uso di termini come fatale, illegale, task
+          aborted etcc
+
+
+Valutazione euristica: il metodo
+Una valutazione euristica di usabilità è una tecnica sistematica (perché si esegue un
+metodo) di ispezione predittiva (si prevede quali problemi possano riscontrare gli
+utenti).
+Un gruppo di valutatori (e/o esperti) esamina il sistema e identifica eventuali problemi
+di usabilità rispetto ad un insieme prefissato di principi (es. i 10 Nielsen o i 7 della ISO
+9241), ossia le euristiche.
+       ● olistica o task-oriented
+      ●   con o senza osservatori*
+Il risultato è un elenco di problemi di usabilità, associati ad una o più euristiche, pesati
+per gravità.
+
+*nella prima parte della sessione sperimentale ci siamo noi 3 esperti di usabilità a
+provare il sistema per trovare le eventuali violazioni delle euristiche, in piena autonomia.
+Nella seconda parte invece il sistema va fatto provare ad utenti esperti di dominio,
+mentre uno (o più) di noi 3 deve seguirli durante il processo, quindi sono osservati.
+
+Olistica: non guidata, basata su una libera navigazione ed esplorazione del sistema, per
+viste di insieme. Tipico dei sistemi walk-up-and-use, ovvero quei sistemi così semplici
+che sono autoesplicativi e possono essere usate senza un'introduzione/training
+all'utente.
+
+Task-oriented: guidata da un task (o uno scenario).
+L’ideale sarebbe attuare un mix di entrambi.
+Come funziona il metodo:
+    1. Scegliere un'applicazione o fare un mockup
+    2. Concepire 2 o 3 task. È un caso d'uso.
+    3. Ogni membro del gruppo esplora l'applicazione (effettuiamo una
+        valutazione olistica esperta) con uno dei form a portata di mano.
+    4. Ogni membro, alla luce delle euristiche, scrive un elenco di problemi che ha
+        riscontrato, riconducendoli alla violazione di una o più euristiche.
+    5. Coinvolgere 3-4 esperti di dominio che esploreranno l'applicazione per 3-4
+        minuti (valutazione olistica). Verranno videoregistrati (dovranno firmare un
+        apposito modulo) mentre pensano ad alta voce mentre usano l'app
+        (think-aloud protocol analysis, gli va esplicitamente chiesto di farlo).
+        Si prende nota di tempi ed espressioni facciali o verbali particolari.*
+    6. Presentare all'utente un task di quelli definiti al passo 2 (meglio farlo con una
+        presentazione o filmato che spieghi obiettivo e macro-passi)
+    7. Far eseguire il task (non più di 3-4 minuti - valutazione utente task-based).
+        Continuare con la protocol analysis. Se l'utente ha bisogno va aiutato da uno di
+        noi vicini/in chiamata con esso.
+    8. Estrarre collaborativamente un elenco dei problemi di usabilità emersi da
+        ogni sessione di ciascun utente.
+    9. Unire le liste con i problemi annotati da ognuno di noi del gruppo, decidendo
+        insieme cosa togliere e cosa mantenere.
+    10. Predisporre un questionario con il quale prioritizzare e far prioritizzare i
+        problemi trovati
+    11. Associare ad ogni problema una o due euristiche.
+
+*importante da fare per il progetto di quest’anno (2020/2021): segnarsi circa 3-5 frasi
+particolari dette dagli utenti in merito all’applicazione e dedicare ad esse una slide nella
+presentazione di progetto
+
+
+Come concepire i task
+      1. Concepire task realistici
+            ○ User goal: esplorare le offerte dei prodotti e acquistarne uno
+            ○ Task concepito male: acquista un paio di scarpe da corsa della nike
+               arancioni (troppo dettagliato)
+            ○ Task migliore: compra un paio di scarpe sotto i 40€
+      2. Concepire task eseguibili
+            ○ User goal: cercare un film e i suoi orari
+            ○ Task concepito male: vuoi vedere un film di domenica pomeriggio. Vai
+               sul sito www.filmacaso.it e dimmi dove cliccheresti come prima cosa.
+            ○ Task migliore: usa www.filmacaso.it per trovare un film che ti
+               piacerebbe vedere di domenica pomeriggio.
+      3. Evitare suggerimenti e descrizioni dei singoli passi
+            ○ User goal: consultare i voti online
+            ○ Task concepito male: vuoi vedere i voti del tuo esame IUM. Vai sul sito
+               del corso, loggati, e dimmi dove cliccheresti per vedere il tuo voto.
+            ○ Task migliore: cerca sul sito del corso il risultato dell’esame IUM.
+Da inserire nella presentazione del progetto: prendere due tester (meglio se i più
+“bravi”, ossia quelli che hanno rilevato più problemi) e calcolare il numero totale di errori
+in questo modo:
+
+
+          𝑥*𝑦
+𝑇 =        𝑧
+                       dove:
+
+    -   T = numero totale di errori/problemi
+    -   x = numero totale di errori/problemi trovati da una persona
+    -   y = numero totale di errori/problemi trovati da un’altra
+    -   z = numero di errori trovati da entrambi
+
+Matrice problemi/valutatori
+      ● Colonne: problemi di usabilità
+      ● Righe: valutatori
+Indicare poi delle informazioni inerenti alla matrice per aumentare la comprensione
+anche agli altri.
+
+
+
+
+Così posso segnare per ogni problema quale valutatore è riuscito a trovarli e quindi
+individuare chi è il “migliore”.
+
+Valutazione della severità
+Un elenco del genere deve essere proposto ai valutatori (e possibilmente al campione
+di utenti) per la valutazione della severità; cioè per ciascun problema i partecipanti alla
+valutazione della severità devono assegnare un grado di severità.
+
+Scala proposta da Nielsen:
+      ● 0: non sono d’accordo che questo sia un problema di usabilità
+      ● 1: è solo un problema accessorio, non deve essere risolto (a meno che non si
+         abbia tempo/disponibilità di farlo)
+      ● 2: problema secondario, bassa priorità attribuita alla sua risoluzione
+      ● 3: problema rilevante, è importante risolverlo e gli si attribuisce alta priorità
+         alla sua risoluzione
+        ● 4: catastrofe di usabilità, è imperativo risolverlo prima che il prodotto possa
+          essere rilasciato
+Sulla base di questa valutazione collettiva si prioritizza l’elenco, individuando quelli di
+fascia prioritaria più alta. Questi devono essere considerati prioritariamente.
+
+Il punteggio dovrebbe essere scelto tenendo in mente i seguenti tre fattori:
+      1. La frequenza (o probabilità) di occorrenza. E’ un problema comune o raro?
+      2. L’impatto del problema SE esso occorre. E’ facile o difficile da superare? QUali
+         sono le conseguenze all’atto pratico?
+      3. La persistenza. E’ un problema in cui lo stesso utente può incappare più volte
+         anche essendone consapevole e a conoscenza, oppure è di fatto one-time?
+
+Recap: cosa inserire nella relazione per il progetto
+
+
+
+
+Rapporto costi-benefici di una valutazione euristica
+Il rapporto benefici-costi è 1:50 (ad esempio, una valutazione costata 10’000€ può
+portare ad un beneficio di circa 500’000€)
+
+Valutazione euristica (vs. Test utente)
+
+ Pro:                                            Contro:
+    -       Più veloce (e quindi meno costosa)     - Meno accurata: può non
+    -       I risultati sono già in forma              individuare dei problemi o
+            interpretata                               produrre “falsi positivi”
+                                                   - Non tiene conto degli utenti
+                                                       veri e dei loro compiti situati
+Le due tecniche non vanno considerate in mutua esclusione ma sono complementari
+per ottenere una valutazione ottimale.
+
+Risorse necessarie
+      ●   Un sistema funzionante, oppure un prototipo, oppure un mock-up
+      ●   n valutatori
+      ●   Un osservatore, quando si coinvolgono utenti esperti
+      ●   Tempo
+             ○ in ambito professionale una sessione individuale di osservazione dura
+                tra i 30 e i 90 minuti (a seconda dei task); nel nostro caso 5-15 minuti
+             ○ ogni valutatore dovrebbe riesaminare l’interfaccia più volte
+
+Errori da evitare
+      ●   Condurre la valutazione aggregando i problemi
+            ○ I problemi di usabilità vanno descritti uno ad uno
+
+      ●   Proporre soluzioni nella discussione di un problema
+             ○ Le soluzioni ai problemi devono essere solo degli appunti per lo
+                sviluppatore di cui si parla una volta finita la valutazione euristica
+
+      ●   Considerare un principio alla volta e indicare i problemi che violano tale
+          principio
+             ○ In realtà ogni problema può violare più principi, si parte dai problemi!
+
+      ●   Mischiare problemi e soluzioni
+             ○ L’output della valutazione è un elenco di problemi prioritizzati
+
+
+
+Prioritizzazione
+Per ogni problema identificato, far valutare indipendentemente la severità
+(coinvolgere anche una decina colleghi dell’azienda e una decina di potenziali utenti
+non colleghi), cercando di ottenere 20-30 valutazioni ordinali di severità per ciascun
+problema al fine di identificare i problemi più urgenti da indirizzare con le risposte a
+disposizione.
+
+Dalla tabella delle valutazioni generare la tabella dei rank, ovvero dove si indica la
+classifica di priorità dei problemi secondo ogni valutatore
+Colonne = problemi
+Righe = valutazione di severità
+
+
+
+
+Per ciascuna riga si considera la classifica di severità adottando la strategia di
+competizione standard, come la strategia 1224 (in cui il terzo elemento viene saltato),
+costruendo una nuova tabella delle posizioni.
+Da questa tabella si considerano poi 2 fasce di priorità:
+     ● I primi 20% sono i più importanti (p)
+     ● Gli altri nella restante fascia (s)
+
+Per ciascun problema si conta il numero di volte che esso è in prima fascia (p) e il
+numero di volte che è in seconda fascia (s)
+
+
+
+
+Si assegna il problema ad una fascia in base al confronto tra P ed S
+      ● se P > S ⟶ prima fascia
+      ● se P < S ⟶ seconda fascia
+
+Si esegue un test binomiale per capire se la differenza tra p ed s è dovuta al caso o
+meno, in base al test si stabiliscono tre fasce in base al P value del test:
+
+       A. Fascia alta con priorità significativa
+       B. Fascia intermedia di non significatività
+       C. Fascia bassa con priorità significativa
+
+Tutti i problemi nella fascia A dovranno essere risolti prioritariamente, eventualmente
+scegliendone anche alcuni dalla fascia C.
+
+Nella tabella dei problemi andranno poi aggiunte due colonne: una indica la fascia di
+priorità (A/B/C) e l’altra la mediana/media dell’indice di severità indicando la
+significatività ( * / NS)
+
+Per chiarezza vanno ordinati i problemi mettendo prima quelli che sono in prima fascia
+e risultati anche significativamente severi. Riportare come nota il numero di persone
+coinvolta nella prioritizzazione.
+
+
+
+
+*sd = deviazione standard (molto importante, ricordarsi di metterla sempre se si indica la media!)
+Rapporto finale
+      ●   Descrizione del design sperimentale:
+             ○ indicare cosa si è deciso di valutare, perché, coinvolgendo quante
+                persone, considerando quali task si sono adoperati, aerogramma
+                profilazione, diagramma cartesiano delle expertise...
+      ●   Elenco finale dei problemi prioritizzati:
+             ○ tabella dei problemi, screenshot dei problemi più gravi,
+                matrice/valutatori, distribuzione problemi/euristiche...
+      ●   Considerazioni finali:
+             ○ legate al numero totale stimato di problemi, alla distribuzione dei
+                problemi, alle citazioni notevoli dalle sessioni olistiche ed esperte…
+                 N.B.: ricordarsi la prioritizzazione in due fasce (priorità più alta, priorità
+                 intermedia, priorità più bassa)
+      ●   Le n schede di analisi da cui è stato redatto l’elenco finale come allegato
+      ●   Fare uno slideware non un documento scritto
+      ●   Nella cartella di progetto aggiungere anche le registrazioni e i moduli di
+          consenso
+
+
+Valutazione quantitativa
+Un sistema “di successo” è:
+      ● Utile: deve fare quello che viene richiesto [se ne occupa il software
+         engineering]
+      ● Usabile: deve consentire di fare quello che viene richiesto in modo naturale,
+         senza aumentare i rischi di errore ecc [se ne occupa l’interazione
+         Uomo-Macchina in fase di valutazione pre-deployment]
+      ● Usato: deve rendere le persone desiderose di usarlo, quindi essere
+         interessante, divertente, piacevole (gli elementi della motivazione, del
+         divertimento, dell’esperienza sono sempre più importanti ⟶ UX1) [se ne
+         occupa la data analytics e l’interazione Uomo-Macchina in fase di valutazione
+         post-deployment]
+
+1
+ L'esperienza d'uso (UX) è ciò che un utente prova quando utilizza un prodotto, un
+sistema o un servizio. L'esperienza d'uso concerne gli aspetti esperienziali, affettivi, di
+attribuzione di senso e valore collegati al possesso di un prodotto e all'interazione con
+esso ed include le percezioni personali su utilità, semplicità di utilizzo e efficienza del
+sistema. L'UX ha natura soggettiva perchè riguarda i pensieri e le sensazioni di un
+individuo nei confronti di un sistema; inoltre è dinamica dal momento che si modifica
+nel tempo al variare delle circostanze..
+Definizione di usabilità
+Il grado con cui un prodotto può essere usato da determinati utenti per raggiungere
+determinati obiettivi con efficacia, efficienza, soddisfazione in un determinato
+contesto d’uso.
+
+     ●   Efficacia (effectiveness - fare le cose giuste): indica il grado di correttezza,
+         accuratezza, completezza in cui l’utente raggiunge i suoi obiettivi
+
+     ●   Efficienza (fare le cose in modo giusto): fa riferimento al rapporto tra la
+         capacità di raggiungere gli obiettivi e la quantità di risorse impiegate per
+         raggiungerlo (tempo, voglia, denaro, ...)
+
+          𝑟𝑖𝑠𝑜𝑟𝑠𝑒 𝑢𝑠𝑎𝑡𝑒 𝑒 𝑢𝑡𝑖𝑙𝑖 𝑝𝑒𝑟 𝑟𝑎𝑔𝑔𝑖𝑢𝑛𝑔𝑒𝑟𝑒 𝑖𝑙 𝑟𝑖𝑠𝑢𝑙𝑡𝑎𝑡𝑜
+                 𝑟𝑖𝑠𝑜𝑟𝑠𝑒 𝑒𝑓𝑓𝑒𝑡𝑡𝑖𝑣𝑎𝑚𝑒𝑛𝑡𝑒 𝑐𝑜𝑛𝑠𝑢𝑚𝑎𝑡𝑒
+
+     ●   Soddisfazione (quanto è contento l'utente): ha a che fare con quanto è stata
+         piacevole l'esperienza
+
+Reminder: non ha senso parlare di usabilità di un sistema in sé (l’usabilità NON è una
+proprietà intrinseca di un sistema), ma in un determinato contesto d’uso. Ha invece
+senso parlare di potenziale usabilità.
+
+“Misurare” l’usabilità
+E’ possibile definire delle metriche per "misurare" l'usabilità, così da poter .
+Misura ≠ Metrica
+      ● Misura: risultato della misurazione, consiste nell’assegnazione empirica ed
+          oggettiva di un valore (numerico o simbolo) ad un’entità, per caratterizzarne
+          un attributo specifico.
+      ● Metrica: comprende la misurazione quantitativa del grado di possesso di uno
+          specifico attributo da parte di un sistema e definisce procedure, modalità e
+          regole di misurazione; quindi una metrica stabilisce le entità da misurare,
+          unità di misura e la procedura della misura. È lo strumento con cui si possono
+          avere misure affidabili.
+Una differenza praticamente significativa (p.s.) è una differenza che fa differenza.
+
+Statisticamente significativa significa che non è dovuta al caso e non dipende dal
+campione coinvolto.
+
+Estensioni dell’usabilità
+     ● Robustezza: il sistema deve indurre un basso tasso di errori (o prevenirne
+         proattivamente alcuni). Gli errori devono essere facili da correggere e con
+         basso impatto.
+     ● Apprendibilità (learnability): facilità nell'apprendere il comportamento del
+         sistema (per utenti novizi, first users)
+     ● Ricordabilità (memorability): facile da ricordare (per utenti occasionali, ossia
+         coloro che utilizzano sporadicamente il sistema)
+
+Trade-off tra learnability e soddisfazione
+Trade off: è una situazione che implica una scelta tra due o più possibilità, in cui la
+diminuzione di una quantità costituisce un aumento in un'altra quantità.
+
+A volte conviene progettare sistemi "difficili da imparare" ma che danno soddisfazione
+all'utente esperto perché si crea fidelizzazione. Altre volte invece è la prima impressione
+che conta, e conviene creare sistemi che piacciono a primo impatto.
+
+
+
+
+Un sistema che ha entrambi i profili non può esistere ma bisogna trovare un valido
+compromesso tra learnability e alta usabilità (soddisfazione) nel lungo periodo.
+
+Ci può essere un trade-off tra robustezza ed efficienza: il desiderio di evitare all'utente
+errori può portare a progettare un numero eccessivo di vincoli.
+
+I trade-off devono essere risolti definendo quali dimensioni di usabilità sono più
+importanti per un certo sistema.
+Valutazione di usabilità
+Attività di raccolta di dati sull'usabilità di un sistema rispetto a uno specifico gruppo
+di utenti, nello svolgere una certa attività, in un certo ambiente o in un certo contesto di
+lavoro.
+
+È un'attività:
+
+      ●   Empirica: coinvolge utenti veri (un campione)
+      ●   Concreta: eseguita su sistemi reali (non necessariamente finiti, anche
+          prototipi o mockup)
+      ●   Sistematica: da eseguirsi con metodo.
+
+
+Si identificano gli obiettivi rilevanti, quindi i relativi casi d'uso, cioè almeno lo scenario
+principale.
+
+La valutazione può essere:
+      ● Formativa: aiuta nello sviluppo; è rivolta a identificare problemi o
+         opportunità di miglioramento. Utile come strumento di miglioramento nel
+         processo iterativo di sviluppo prototipale.
+      ● Riassuntiva: giudizio sul prodotto; è svolta per avere una misura di usabilità e
+         può essere volta a ottenere un valore assoluto oppure relativo, cioè
+         comparativo.
+      ● Assoluta: ci dice quanti problemi ci sono, la loro rilevanza/priorità, il parametro
+         di tendenza centrale ecc.
+      ● Comparativa: produce un confronto tra sistemi .
+      ● Qualitativa: coinvolge esperti ed è volta ad analizzare (non misurare) quello
+         che essi fanno, dicono, scrivono ecc. (valutazione euristica, questionari)
+      ● Quantitativa: basata su test utente (basati su task o scenario) e volta a
+         misurare degli attributi di qualità come tempi di esecuzione (efficienza),
+         rapporto tra iterazioni corrette ed errori (efficacia) e anche l'opinione degli
+         utenti/esperti "quantificata" su scale psicometriche.
+
+Questi tipi di valutazioni non sono esclusivi ma possono “mischiarsi”.
+
+Perché la valutazione?
+      ●   Capire il mondo reale
+             ○ come lavora l’utente, come si può migliorare il suo lavoro, la sua attività,
+                 se i suoi sistemi sono di qualità
+      ●   Verifica di conformità agli standard
+             ○ controllando ad esempio se la leggibilità dello schermo è accettabile
+      ●   Confrontare progetti/sistemi
+             ○ durante l’attività di progetto, confrontando prototipi
+             ○ dopo la realizzazione, per capire se il sistema è migliore dei concorrenti
+Come si confronta?
+Si raccolgono dati (numerici, ordinali, categorici*) da un campione di utenti del
+sistema.
+
+Variabili numeriche: scalare (altezza, tempo, numero di errori...)
+Variabili ordinali: insieme di numeri in cui vi sono definite relazioni d'ordine totali ovvero
+senza uguaglianze (titoli di studio, classi di età…)
+Variabili categoriche (o nominali): i valori sono modalità, ossia “parole” (si/no,
+giorno/notte…)
+
+
+
+
+Come si confronta?
+
+      1. Si raccolgono dati (numerici, ordinali o categorici) da un campione di utenti
+         del sistema
+      2. Si calcolano le statistiche (per descrivere il campione, come ad esempio la
+         mediana o la media)
+         Non si può conoscere il parametro della popolazione ma solo la “statistica” di
+         un campione, si può quindi stimare l’intervallo che è ragionevole pensare
+         contenga il parametro “vero”. Ciò è definito intervallo di confidenza.
+            “Intervallo di confidenza al 95%” ≠ c’è una probabilità del 95% che il parametro
+            della popolazione sia compreso tra i due estremi dell’intervallo
+
+            L’intervallo di confidenza è l’intervallo di valori di cui si è abbastanza
+            confidenti che contenga il valore vero del parametro.
+
+
+
+
+            Esempio: per un livello di confidenza del 95% t vale 1,96
+            Per un livello di confidenza del 99% t vale 2,58
+
+
+            Per la media ES =
+
+
+            Per le proporzioni ES =
+
+       3. Si cerca di stimare i parametri dell’intera popolazione
+
+Più alto è il livello di confidenza, maggiore è l’intervallo di confidenza (~t). Maggiore è la
+numerosità del campione, maggiore è la precisione (cioè minore è l’errore standard ES)
+utilizzare il sito vassarstats.net per calcolare gli intervalli di confidenza
+Approccio di Neyman
+Si confrontano gli intervalli di confidenza di diverse valutazioni quantitative.
+Controllando quali intervalli si sovrappongono è possibile capire quali valutazioni hanno
+carattere simile (ricordandosi di guardare anche l’ampiezza dell’intervallo di
+confidenza).
+Se non si considerano gli intervalli di confidenza non è possibile dire nulla a livello di
+significatività né di intera popolazione.
+
+Alcuni esempi:
+Si hanno 4 sistemi. Il seguente è il plot delle differenze nei tempi di esecuzione medi di
+un task:
+
+
+
+
+Per individuare quali sistemi differiscono per i temi di esecuzione del task 1 si deve
+guardare gli intervalli di confidenza: quando l'intervallo di confidenza non contiene lo
+zero (come in D vs. B), la media corrispondente corrisponde ad una differenza
+statisticamente significativa.
+
+Quale differenza di percentuale di utenti soddisfatti è più significativa?
+
+                                          Quella degli anziani poiché i due intervalli di
+                                          confidenza non si intersecano.
+
+                                          Sulla significatività statistica, non si può dire
+                                          assolutamente nulla se non viene data
+                                          l'informazione sugli intervalli di confidenza.
+
+                                          Da una popolazione omogenea, che presenta
+                                          differenze in maniera randomica (nessuna
+                                          porzione della popolazione è molto diversa dalle
+                                          altre), per arrivare al 95% di confidenza, bastano
+                                          288 persone.
+Approccio di FIsher
+Si formulano test di ipotesi e si verificano con essi le ipotesi “nulle” (H0)
+L’ipotesi nulla è assunta vera e prevede che non ci sia differenza tra i sistemi valutati o
+tra lo stesso sistema a tempi diversi o tra strati di utenti..
+
+H0: NON CI SONO DIFFERENZE STATISTICAMENTE SIGNIFICATIVE TRA A E B
+(l’obiettivo è quello di rigettare l’ipotesi nulla attraverso dati campionari)
+
+
+Procedura statistica inferenziale (the null ritual):
+     1. Si sceglie il test giusto per l’ipotesi e il tipo di dato che si raccoglie
+     2. Si esegue il test e si calcola il corrispondente “livello di significatività
+        osservato” dei dati (detto anche p-value)
+     3. Si riportano i risultati in uno stile chiaro e “confrontabile” (es. standard APA)
+
+Versione estesa:
+      1. Definire l’ipotesi di ricerca
+      2. Spiegare come si intende rendere operativa (ovvero misurare o definire
+         operativamente) l’ipotesi ipotesi e definire le variabili da studiare
+      3. Definire l’ipotesi nulla e l’ipotesi alternativa
+      4. Definire Il livello di significatività*
+         Il livello di significatività (⍺) solitamente si pone al 5% o all'1%. È la probabilità
+         associata al rischio che si è disposti a correre di rigettare l'ipotesi nulla quando
+         questa è in effetti vera (cioè di ottenere un falso positivo o compiere un errore
+         del I tipo).
+      5. Cercare di capire se ci si trova in un problema ad una o a due code:
+               ○ due code: per predire differenze in un verso o nell’altro (A è meglio o
+                  peggio di B).
+               ○ una coda: per differenziare in un verso preciso (partendo dal
+                  presupposto che A sia meglio di B, non peggio)
+      6. Determinare se la distribuzione è normale (ciò ha implicazione nel tipo di test
+         statistico usato sui dati)
+      7. Selezionare l’appropriato test statistico
+      8. Eseguire il test statistico e interpretare l’output (confrontare il p-value
+         ottenuto rispetto all’alpha impostato inizialmente)
+      9. Rigettare (reject) o ammettere di non poter rigettare (fail to reject) l’ipotesi
+         nulla
+                                                                                 *
+
+E’ più grave la probabilità di commettere un falso positivo o un falso negativo?
+Il falso positivo è gravissimo, ma in altri contesti, come in quello di un medico, il falso
+negativo sarà sicuramente più grave.
+
+Euristica di Cohen
+Tenere ⍺ 4 volte più piccolo di β.
+Power del test: la capacità di un test vedere una differenza se c'è (rigettare l'ipotesi
+nulla quando è falsa).
+
+Specificità = 1 − ⍺; capacità di un test di evitare i falsi positivi
+Sensitività = 1 − β; capacità di un test di evitare i falsi negativi
+es.       ⍺ = .05             β = .20               Power del test (1 - β) = 80%
+
+P-value
+La probabilità di raccogliere dati come quelli raccolti (o ancora più estremi) assumendo
+l’ipotesi nulla H0 come vera.
+p-value = P( D | H0 )
+
+Se questa probabilità è bassa è improbabile che la differenza sia solo dovuta al caso.
+
+      ●   Se il p-value è inferiore (p-value < ⍺) al livello di significatività impostato, allora
+          si può rigettare l’ipotesi nulla e ipotizzare che l’ipotesi nulla sia vera
+      ●   se il p-value è superiore al livello di significatività (p-value > ⍺) il confronto è
+          stato utile lo stesso ma non si sono raccolte prove sufficienti che ci siano
+          reali differenze ma se non riusciamo a rigettare H0 questo non vuole dire che
+          sia veramente vera!
+
+N.B.: se non si riesce a rigettare H0 questo non vuol dire che sia veramente vera!
+Formula di Bayes
+
+
+
+
+P(B) o P(A) ⟶ rapporto di probabilità a priori (evidence)
+P(A|B) ⟶ probabilità condizionata di A, avendo noto B
+
+RECAP #3
+
+
+
+
+      1) Si formula l’ipotesi nulla H0
+      2) Si sceglie uno strumento di misura (e la relativa metrica)
+      3) Si raccolgono dati sperimentali, questi avranno una loro distribuzione
+      4) Si sceglie un test statistico
+      5) Tramite il test si confrontano i dati osservati con quelli ipotizzabili (il test
+         restituisce un p-value)
+      6) Si calcola la probabilità di avere quei dati (o peggiori) se H0 è vera
+      7) Si fissa una soglia tale per cui è possibile ritenere i dati troppo “strani” per
+         essere veri (o se i dati sono veri, l’ipotesi infondata)
+
+Presentare i risultati del test
+Dire che test si è svolto, che risultato si è ottenuto e sintetizzare il risultato in maniera
+che anche un monke lo capisca (aka in maniera semplice e comprensibile).
+
+Esempio:
+Link utile per il t-test: https://www.graphpad.com/quickcalcs/ttest1/
+
+
+Nel caso in cui si presentassero differenze nei risultati del test poi bisogna indicare se
+essi sono statisticamente significativi o no.
+
+
+
+
+Link utile per lo z-test: https://www.socscistatistics.com/tests/ztest/default2.aspx
+
+
+Riportare sempre i p-value assoluti, anche in caso di non significatività, e gli intervalli di
+confidenza dei parametri misurati così da rendere il null ritual più informativo e utile a
+prendere decisioni.
+Ingegneria dell’usabilità
+Variabili misurabili: efficienza, efficacia e soddisfazione
+
+
+
+
+Procedura comune:
+     1. Definire un task/obiettivo
+     2. Contare gli errori e farne il rapporto sui tentativi totali (error rate)
+Efficienza d’uso
+Il sistema deve essere efficiente cosicché sia possibile un alto livello di produttività.
+Un modo di misurare l'efficienza è calcolare il tempo necessario ad eseguire il
+compito correttamente. Il test è chiamato test T di Student.
+Si confrontano i tempi medi di esecuzione del sistema A e del Sistema B (confronto
+trasversale) o del sistema A e A' (confronto longitudinale).
+
+
+
+L’ipotesi nulla del test del T di Student è la seguente:
+H0 ⟶ non c'è differenza significativa tra le medie di due sotto-campioni, assumendo
+la loro varianza uguale.
+
+Affinché i test statistici possano essere applicati devono valere delle precondizioni. Ad
+esempio, per il T di Student, dovremmo avere una distribuzione normale (a campana,
+gaussiana). Per capirlo, c'è il test di Kolmogorov-Smirnov. Se la distribuzione non è a
+campana, allora dovremo usare il Mann-Whitney. Quest'ultimo test però ha una minore
+potenza.
+Alcuni siti utili per eseguire i test sono VassarStats e GraphPad.
+
+Come decido tra paired/unpaired?
+     ● Se usiamo gli stessi soggetti, i campioni sono dipendenti/accoppiati/correlati.
+     ● Se i soggetti sono diversi, i campioni sono indipendenti/disaccoppiati.
+
+Per misurare l'efficienza assoluta del sistema A, bisognerà confrontare la performance degli
+utenti con l'optimal execution time (OET). Si fa il confronto rispetto ad un benchmark. Due
+valutatori fanno 5 o 6 prove di esecuzione del task, in modo corretto e a varie velocità (senza
+esagerare nei tempi), riportando i tempi di esecuzione. Vengono calcolate media (M) e
+deviazione standard (SD). Si effettua un confronto tra la media degli utenti e quella dei
+valutatori.
+
+Se invece si vuole confrontare più di due sistemi tra loro, si applicherà il test ANOVA, che
+generalizza il test T di Student. Ferroni propone una correzione. Quando i confronti sono a
+coppia, dividiamo per il numero di confronti che si fanno. Così si diventa più conservativi.
+
+
+Robustezza (Efficacia ISO 9241)
+Il sistema deve indurre un basso tasso di errori (o prevenirne proattivamente alcuni),
+facili da correggere, e con basso impatto.
+Un modo di misurare l'efficacia è calcolare il tasso di errore medio dei soggetti del
+campione quando usano il sistema A e il sistema B (A') e confrontarli.
+Un modo possibile è fare una matrice dove segnamo quali task sono stati completati con
+successo e quali hanno presentato errori, segnando in quali l’utente è stato aiutato dagli esperti
+del dominio (magari segnandoli in giallo piuttosto che in verde, anche se non vale come errore)
+
+
+Si confronta per ogni task il numero di errori osservato nel campione di utenti con un
+tasso ottimale (per convenzione 5% o 1%).
+Il numero di errori è una variabile discreta ed è possibile applicare un test delle
+proporzioni (tabella di contingenza 2x2) per stabilire se il numero di errori di due
+applicazioni è diverso oltre l'effetto dovuto al caso.
+H0: non c'è differenza tra i valori osservati e i valori
+Test che si possono fare:
+VassarStats - Chi Quadro
+GraphPad - Chi Quadro
+MedCalc - test delle proporzioni
+Social Science Statistic
+È possibile coinvolgere due o tre membri del gruppo che valutino autonomamente
+quali sono errori e quali no e riportare l'Alpha di Krippendorf. Sopra il 67% l'accordo è
+buono; un alpha uguale o maggiore dell'80% è ottimo.
+
+L'alpha di Krippendof NON è da confondere con il livello di significatività/probabilità di
+errore (indicato anch’esso con ⍺)
+
+Soddisfazione
+Il sistema deve essere gratificante da usare.
+Misura oggettiva: si fanno misurazioni psicofisiche per misurare livelli di stress o
+benessere (elettroencefalogramma, dilatazione della pupilla battito cardiaco, pressione
+arteriosa, livello di adrenalina nel sangue...).
+Misura soggettiva di un osservatore esterno: si conta il numero di espressioni del viso
+legate a frustrazione, incomprensione, perplessità e quelle legate a soddisfazione,
+piacere, sorpresa positiva.
+        ● Apprendibilità (lernability) - facilità nell'apprendere il comportamento del
+          sistema (l'utente lo usa subito per attività utili)
+        ● Ricordabilità (memorability) - facile da ricordare, anche quando un utente
+          riusa il sistema dopo diverso tempo si ricorda come si fa
+
+Per semplicità alcuni codificano semplicemente le espressioni positive in verde, quelle
+neutre in giallo e quelle negative in rosso. L'analisi andrebbe fatta da più esaminatori,
+indipendentemente, e si dovrebbero considerare solo le espressioni codificate allo
+stesso modo da tutti (o almeno il 75% degli esaminatori), scartando le altre o se queste
+sono tante, valutandole collegialmente.
+
+L'approccio di Mill utilizza uno strumento psicometrico, ad esempio un questionario
+con item a scale ordinali (tipo Likert o a differenziale semantico) e un uso preparato e
+responsabile delle tecniche statistiche opportune.
+
+Scala Likert
+La scala Likert è una tecnica psicometrica di misurazione dell'atteggiamento. Tale
+tecnica consiste principalmente nel mettere a punto un certo numero di affermazioni
+(NON domande), definiti item, che esprimono un atteggiamento positivo e negativo
+rispetto ad uno specifico oggetto. Ai rispondenti si chiede di indicare su di esse il loro
+grado di accordo o disaccordo con quanto espresso dall'affermazione. Alcuni
+permettono l'escape option (esterna, lontana dalle risposte da 1 a 6). I termini agree,
+disagree ecc. vengono chiamati ancore.
+Contro:
+     ● Acquiescence bias: misura l’accordo del soggetto con affermazioni dello
+        sperimentatore (tramite il modo in cui si presentano le frasi ecc..)
+     ● Central tendency bias: si presenta di più quando si ha un numero dispari di
+        opzioni così che l’utente sia agevolato nello scegliere le opzioni neutre per
+        non “schierarsi”
+
+Pro:
+       ●   Molto nota, scala familiare a molti potenziali soggetti
+       ●   Semplice da capire, veloce da rispondere
+
+Le scale a differenziale semantico sono scale ordinali in cui tipicamente vengono
+segnati gli estremi (ad es. molto buono e molto cattivo) e una serie di opzioni
+intermedie senza un'ancora. Si chiamano a differenziale semantico perché, dato un
+concetto, si prendono gli estremi semantici e le persone possono scegliere qualunque
+livello intermedio per decidere quanto si sentono più vicini ad un polo o ad un altro.
+Una scala Likert è dunque una scala a differenziale semantico in cui sono presenti tutte
+le ancore.
+
+Net Promoter Score
+Indicatore che fa riferimento alla raccomandabilità di un sistema.
+È estremamente potente e facile e consiste in una sola domanda: “Da 1 a 10 qual è la
+probabilità che tu raccomandi il prodotto/servizio a un amico o conoscente?”
+Fun fact: in Italia si è abituati alle valutazioni da 1 a 10 già fin dalla tenera età e quindi si applica la
+propria abitudine, ovvero attribuendo al valore 6 la sufficienza, a 7 un voto buono, a 9 e 10
+l'eccellenza, quasi irraggiungibile. Negli altri paesi invece, questa scala viene vista in termini di
+percentuale (chiaramente in decili e non in percentili).
+
+
+Il valore del NPS è dato dalla differenza tra la percentuale dei promotori, ossia le
+persone che tendono a rispondere con un numero da 9 a 10, e la percentuale dei
+detrattori, coloro che danno un voto compreso tra 0 e 6.
+Come sistema il Net Promoter Score cerca di mitigare abbastanza il bias di
+accondiscendenza.
+N.B.: notare come il NPS ignori tutti i voti 7 e 8.
+Contro:
+     ● Misura solo la raccomandabilità
+     ● Può essere confuso con un voto da 0 a 10 (in Italia)
+
+Pro:
+       ●   La raccomandabilità è molto importante
+       ●   Tiene in considerazione l’acquiescence bias
+       ●   Non considera come cardinali delle categorie ordinali (normalizza una
+           differenza di numerosità)
+       ●   E’ semplice e permette confronti nel tempo
+
+
+I questionari psicometrici usati più frequentemente nella valutazione della
+soddisfazione percepita sono:
+
+SUMI (Software Usability Measurement Inventory)
+Serve per misurare la qualità di sistemi interattivi dal punto di vista dell'utente, cioè la
+Quality of Use. Misura la QoU in 5 sottodimensioni:
+      ● Efficiency
+      ● Affect
+      ● Helpfulness
+      ● Controllability
+      ● Learnability
+
+Si tratta di 50 affermazioni con cui l'utente può essere d'accordo, in disaccordo o essere
+indeciso.
+Vi possono essere anche delle domande aperte. Tramite un paio di domande di
+profilazione, il SUMI permette di stratificare il campione in persone che si reputano o
+meno esperte del dominio applicativo.
+
+Pro:
+       ●   Facile da usare (solo tre attributi ordinali)
+       ●   Risultati facili da comunicare (proporzioni, non medie! e test binomiali per le
+           statistiche inferenziali)
+     ●     Usato in molti contesti
+     ●     Ha spazio per domande aperte e un po’ di feedback dell’utente
+     ●     Suggerito dall’ISO 9241 per testare la “user satisfaction”
+Contro:
+     ●     Non facile trovare la traduzione italiana validata
+     ●     Ci vuole una licenza per poterlo usare in contesti istituzionali o aziendali
+     ●     E’ piuttosto lungo (ai limiti della soglia del fatigue bias*)
+     ●     Richiede un uso abbastanza prolungato da parte dell’utente
+
+Il fatigue bias* è il rumore nelle risposte dovuto alla tendenza di certi rispondenti a
+rispondere a caso quando sono stanche e il questionario sta durando troppo o facendo
+domande noiose o inopportune. Subentra quasi sempre dopo 10-15 minuti in
+mancanza di qualsiasi incentivo.
+
+
+
+
+AttrakDiff
+E’ un questionario per valutare la User Experience. Adotta una scala a differenziale
+semantico (l’utente deve scegliere tra due opposti semantici). È diviso in 4 ambiti:
+      ● Qualità pragmatica [PQ]: riguarda l'usabilità in termini di utilità ed efficacia
+      ● Qualità edonica [HQ]: riguarda l'estetica, relativo al bello e a ciò che piace
+             ○ Identità [HQ-I]:riguarda l'identificazione dell'utente con il prodotto (o la
+               marca) in un dato contesto sociale
+             ○ Stimolazione [HQ-S]:riguarda la soddisfazione di bisogni in termini di
+               voglia di nuovo (anche nuove informazioni), desiderio di padroneggiare
+               uno strumento, e di interazione stimolante.
+      ● Costrutti di valutazione
+Pro:
+       ●   Misura dimensioni UX difficili da catturare
+       ●   Usa scale a differenziale semantico
+       ●   Ha una rappresentazione grafica appetibile (snake diagram).
+
+
+
+
+Contro:
+     ●     Non minimizza il central tendency bias
+     ●     Si basa su concetti semantici non di ovvia interpretazione
+     ●     Manca la traduzione italiana validata
+     ●     Come indicatore quantitativo adotta la media (per singola dimensione) delle
+           medie (dei singoli rispondenti) trasformando posizioni sulla scala in numeri
+UEQ (User Experience Questionnaire)
+E’ un questionario di 26 item (a differenziale semantico) e 6 sottoscale:
+      ● Attraenza
+      ● Facilità di comprensione e apprendimento
+      ● Efficienza e velocità
+      ● Affidabilità e predicibilità
+      ● Stimolazione
+      ● Creatività, innovatività
+
+Quando lo si usa, spesso si cerca la correlazione tra lo score ottenuto per ogni costrutto
+e il tempo di esecuzione:
+Pro:
+           ●     Breve e con parole più semplici del questionario AttrakDiff
+           ●     Compre aree semantiche importanti
+           ●     Ha traduzioni validate in molte lingue
+           ●     Ottima documentazione: https://www.ueq-online.org/
+           ●     Fornisce anche un tool di analisi dei dati (in MS Excel)
+           ●     Fornisce un data set per fare benchmark
+
+Contro:
+     ● Non minimizza il central tendency bias
+     ● Come indicatore quantitativo adotta la media (per singola dimensione) delle
+        medie (dei singoli rispondenti) trasformando posizioni sulla scala in numeri
+
+SUS (System Usability Scale)
+idk guys this one is kinda sus
+Gli item pari sono l'opposto di quelli dispari.
+
+Si deve quindi fare attenzione nell'attribuzione dei punteggi:
+      ● Per gli item:
+            ○ Dispari (1,3,5,7,9) il contributo allo score è dato dal valore scelto
+                dall'utente meno 1.
+            ○ Pari (2,4,6,8,10) il contributo è dato dalla differenza tra 5 e il valore scelto
+                dall'utente. Questo converte tutte le risposte in un range da 0 a 4.
+      ● Somma tutte le risposte di un singolo utente e moltiplica il risultato per 2.5 per
+         ottenere il valore totale per quell'utente (il risultato varia tra 0 e 100).
+      ● Si fa poi la media tra tutti gli score individuati.
+
+Pro:
+       ●   Breve e veloce da compilare
+       ●   Da un numero tra 0 e 100
+       ●   Molto noto e utilizzato
+       ●   Minimizza l’option order bias e l’acquiescence bias
+
+Contro:
+     ● Somma valori ordinali, normalizza la somma per ciascun rispondente in
+        centesimi e poi fa la media tra tutti i rispondenti
+     ● Mescola usabilità e apprendibilità
+     ● Non si possono fare confronti statisticamente significativi (a meno di non
+        isolare singoli item)
+
+Alcuni consigli per i questionari:
+Come rappresentare il grado di soddisfazione
+Per estrarre una valutazione “assoluta” da scale ordinali:
+      ● Contare il numero di risposte nella metà positiva e le risposte nella metà
+         negativa (es. <3 e ≥4 in una scala a 6 valori decidendo se contare o escludere
+         gli eventuali indecisi cioè i 3 e i 4)
+         Quindi, scegliere tra uno o l’altro:
+
+      ●   Fare la differenza tra le proporzioni (come nel Net Promoter Score) con gli IC.
+
+
+
+
+      ●   Eseguire un test binomiale sull’ipotesi che la differenza NON sia significativa.
+
+
+
+
+Test binomiale
+Per seguire un proportion test, andiamo su https://www.medcalc.org/calc/test_one_proportion.php
+
+
+      ●   nel campo observed proportion inseriamo la percentuale di volte che un
+          problema è finito in prima fascia (ad esempio, se abbiamo 6 valutatori e un
+          rapporto di P vs S di 2 vs 4, facciamo 2/6*100)
+
+      ●   nel campo sample size inseriamo il numero di valutazioni che sono state fatte
+
+      ●   la percentuale di ipotesi nulla che consideriamo è 50: assumiamo che un
+          problema sia finito tante volte in fascia alta che in fascia bassa
+Si osserva, tra i risultati, il p-value: valore di probabilità. Se p-value = 0.17, la probabilità è
+del 17%. Si considera statisticamente significativa una differenza associata ad un
+p-value < 0.05.
+
+Più è bassa la probabilità più è probabile che il risultato sia significativo
+
+Per confrontare le mediane tra due gruppi di risposte: Test di Mann-Whitney se campioni
+indipendenti e Wilcoxon test se campioni dipendenti.
+
+
+
+
+Per il progetto d’esame - Recap
+      1) Selezionare un questionario che misuri la “soddisfazione”, motivando la scelta
+         (semplicità, completezza, diffusione, benchmarking)
+      2) Implementarlo su una piattaforma online (Google forms, Limesurvey,
+         SurveyMonkey) aggiungendo 3 domande di profilazione: genere, classe di età
+         e familiarità con tecnologie Web
+      3) Farlo compilare ai rispondenti (almeno 24)
+      4) Riportare tutte le risposte in formato tabellare
+      5) Visualizzare i dati sotto forma di diagramma Box Plot o Violin Plot
+      6) Riportare gli score, se previsti, per ciascun sistema ed eventualmente
+         sottogruppo di rispondenti (Junior vs. Senior etc)
+      7) Selezionare 2 o 3 item rilevanti dal questionario e, per ciascuno di questi,
+         eseguire il test Mann-Whitney (o Kruskall Wallis) per identificare eventuali
+         differenze statisticamente significative
+      8) Riportare il risultato del test in maniera chiara e semplice (formato del
+         gorilla)
+Metodi quantitativi:
+     ●   Confrontare i sistemi a parità di task, non su task diversi
+     ●   Raccogliere un campione di dati (osservazioni), impostare il livello di
+         confidenza (95%), livello di significatività (5%) e calcolare il test opportuno per
+         ottenere il p-value.
+
+
+
+
+     ●   Variabili continue (es. tempie):
+            ○ Confronto tra due gruppi (o due sistemi sullo stesso task, o due
+               sottogruppi di utenti per lo stesso sistema e stesso task)
+                    ■ test del T di Student
+
+     ●   Variabili ordinali (es. scale psicometriche)
+            ○ Confronto tra due gruppi (o due sistemi sullo stesso task, o due
+               sottogruppi di utenti per lo stesso sistema e stesso task)
+                    ■ test di Mann-Whitney/Wilcoxon
+            ○ Confronto tra più di due gruppi (n sistemi sullo stesso task, o n
+               sottogruppi di utenti per lo stesso sistema e stesso task)
+                    ■ test di Kruskal-Wallis/Friedman
+
+     ●   Variabili discrete (e dicotomiche es. numero di errori)
+            ○ Confronto tra due gruppi (o due sistemi sullo stesso task, o due
+               sottogruppi di utenti per lo stesso sistema e stesso task)
+                    ■ tavola di contingenza 2x2 del Chi quadro
+
+     ●   Valutazione assoluta su scala psicometrica
+            ○ Per ciascun item, confrontare il numero di risposte positive e il numero
+               di risposte negative e applicare un test binomiale oppure confrontare le
+               proporzioni con gli intervalli di confidenza
+            ○ Per 2-3 item rilevanti eseguire anche un test di Mann-Whitney e
+               riportare i risultati commentandoli
+La relazione di progetto
+La relazione di progetto deve comprendere:
+      1. La distribuzione delle responsabilità
+      2. Spiegare perché si è scelto un determinato dominio applicativo
+      3. La descrizione sommaria dei sistemi confrontati con anche alcuni screenshot
+      4. La parte di valutazione euristica
+      5. La descrizione dei task
+      6. La scelta del questionario (e perchè)
+      7. La tabella dei risultati (tempi, errori, questionari psicometrici), nel caso di errori
+         anche la matrice cromatica
+      8. La visualizzazione dei risultati: istogrammi per errori, boxplot/violinplot per
+         tempi e percezioni psicometriche
+      9. Tutti i test statistici fatti e i loro risultati, secondo le buone convenzioni di
+         reporting (es. APA), quindi anche con una conclusione che sia comprensibile
+         ad un profano (metodo del Gorilla)
+
+
+
+
+Cos’è un errore: un fallimento (io) nel portare a termine un’azione precedentemente
+pianificata come previsto o l’applicazione di una pianificazione scorretta.
+
+
+
+
+Smol recap sui test
+Per osservare differenze statisticamente significative (associate ad un p value inferiore
+del 5%) anche quando si hanno le stesse mediane si possono utilizzare, in base al
+contesto, due tipi di test:
+       ● Test parametrici: test T di Student
+       ● Test non parametrici: Mann-Whitney o Wilcoxon (che non confrontano le
+          mediane, il focus dell’analisi è la distribuzione)
+Se non si possono confrontare le medie perché i dati sono ordinali si adotta il
+corrispondente test non parametrico per confrontare le mediane.
+I test non parametrici verificano se due distribuzioni sono equivalenti, si focalizzano sui
+ranghi. Quindi questi test testano la probabilità che due punti presi a caso dalle
+distrubuzione che uno sia più grande dell’altro o viceversa sono uguali nn o cpt
+Dark patterns (esercitazioni)
+Tipologia di web design che funzionano contro i bisogni dell'utente.
+Sono elementi UI accuratamente progettati e combinati per confondere o fuorviare
+l'utente: per portare l'utente a compiere azioni non desiderate (ad esempio la
+sottoscrizione ad una newsletter) o per scoraggiare l'utente a prendere decisioni che
+potrebbero essere dannose per l'azienda (ad esempio la cancellazione alla
+sottoscrizione della newsletter).
+
+Tipologie di dark patterns
+     1) Bait and switch: viene cambiato l’effetto di un pulsante al quale l’utente era
+         abituato facendo accadere altro a cui fa comodo all’azienda che venga
+         cliccato. Esempio: in un gioco il pulsante per avviare il livello è sempre con uno
+         stesso stile, quando il gioco chiederà di comprare qualcosa all’utente il
+         pulsante sarà uguale a quello dell’avvio del gioco.
+     2) Confirm shaming: è la tattica di far sentire l'utente in colpa per aver
+         selezionato una determinata opzione (che per l’azienda è svantaggiosa)
+     3) Disguised Ads: gli annunci sono mascherati nella pagina web come se
+         facessero parte della normale navigazione e quindi l’utente può cliccarci sopra
+         pensando non siano annunci
+     4) Forced continuity: avviene quando la prova gratuita di un servizio termina e
+         vengono effettuati addebiti sulla carta di credito senza alcun preavviso; inoltre
+         non viene mai dato un modo semplice per annullare il rinnovo automatico.
+     5) Friend spam: il sito chiede il permesso per l'email o i social media che
+         utilizzerà poi per trovare amici e contatti per inviare poi un messaggio che
+         dichiara essere da parte tua.
+     6) Hidden costs: avviene quando, all'ultimo step del checkout, si scoprono costi
+         che non erano stati dichiarati in precedenza (ad esempio tasse, spedizioni ecc)
+     7) Misdirection: design pattern che focalizza l’attenzione dell’utente su una cosa
+         per distoglierla da un’altra (tipo l’installazione di software aggiuntivi)
+     8) Price comparison prevention: il sito rende difficile comparare il prezzo di un
+         articolo con un altro, non consentendo una scelta informata (ad esempio
+         permettendo di comparare la versione free con quella premium ma senza
+         mostrare altri piani intermedi, oppure cambiando il tipo di paragone tra due
+         prodotti, mostrando il prezzo di uno in base ai kg e l’altro in base al pezzo).
+     9) Privacy Zuckering: il design inganna l’utente a condividere
+         inconsapevolmente più dati privati di quanti ne avrebbe voluti condividere.
+     10) Roach motel: rende molto facile entrare in una pagina o in una situazione, ma
+         molto difficile uscirne (es. l’iscrizione a qualcosa è semplicissima ma poi per
+         disiscriversi l’utente si trova in difficoltà)
+     11) Sneak into basket: durante il percorso d'acquisto, il sito inserisce uno o più
+         articoli aggiuntivi nel carrello senza avvisare l’utente. Questo dark pattern è
+         illegale in UK e in vari paesi UE, grazie alla direttiva sui diritti dei consumatori.
+     12) Trick questions: l'utente risponde a domande che a prima vista significano
+         qualcosa ma, se rilette più a fondo, hanno un altro significato. Si gioca
+         sull'alternanza di opt in/opt out. Solitamente il linguaggio utilizzato è confuso.
+Tecnologie di persuasione
+Introduzione (aka preview dei contenuti del modulo):
+      1) Gli esseri umani sono esseri sociali (psicologia) e tendono a considerare le
+         macchine come degli attori sociali (teoria CASA: Computer as Social Actors)
+             ○ Però non pensano di essere messi in comunicazione con gli sviluppatori
+                tramite esse.
+      2) I programmatori dovrebbero ragionare diversamente: le macchine sono il loro
+         strumento di comunicazione con gli utenti (Semiotic Engineering)
+             ○ ma perchè gli sviluppatori dovrebbero comunicare con gli utenti? ⬇
+      3) Per convincerli a fare qualcosa: CAPTology* (Computer As Persuasive
+         Technology)
+
+Unintended use: il progettista progetta ma non può fare ciò per tutti i possibili usi
+poiché è estremamente difficile prevedere tutti gli usi che un utente possa fare di un
+sistema.
+
+*Captologia: studio dei computer come tecnologie persuasive. Questa recente area di
+indagine esplora lo spazio di confine tra persuasione (influenza, motivazione, cambio di
+comportamento e così via) e tecnologia del computer.
+La tecnologia persuasiva è qualsiasi sistema informatico interattivo progettato per
+modificare gli atteggiamenti o i comportamenti delle persone. La persuasione è un
+tentativo di cambiare atteggiamenti o comportamenti o entrambi senza usare
+coercizione o inganno.
+
+Si concentra sull'interazione uomo-computer (HCI) e non sulla comunicazione mediata
+dal computer (CMC). In particolare, indaga su come le persone sono motivate o
+persuase quando interagiscono con i prodotti informatici piuttosto che attraverso
+loro.
+
+Macrosuasione e Microsuasione
+Macrosuasione: descrive l'intento persuasivo generale di un prodotto che esiste solo
+grazie alla persuasione e alla motivazione.
+
+Microsuasione: descrive l'approccio di applicazioni che non hanno un intento generale
+di persuadere, ma incorporano elementi persuasivi più piccoli per raggiungere un
+obiettivo generale diverso.
+Ruoli delle tecnologie di persuasione
+
+
+
+
+Credibilità (trustworthiness)
+La credibilità è una qualità percepita: “è negli occhi di chi guarda”.
+Essa ha due dimensioni:
+      ● Affidabilità: fattore chiave nell'equazione della credibilità. La dimensione di
+         affidabilità della credibilità cattura la bontà o la moralità percepita della fonte.
+         Nel contesto dei computer, un computer che è "affidabile" è quello che viene
+         percepito come veritiero, giusto e imparziale.
+      ● Competenza: conoscenza, l'abilità e l'esperienza percepite della fonte. Se una
+         dimensione della credibilità è forte mentre l'altra dimensione è sconosciuta, il
+         prodotto informatico può ancora essere percepito come credibile, a causa
+         dell'effetto alone (se una virtù è evidente, un'altra virtù può essere assunta, nel
+         modo giusto o sbagliato).
+8 meccanismi di cui essere consapevoli
+      1.   Riflesso Pavloviano: tutti sappiamo cos’è, ma in ambito informatico è ad
+           esempio l’evidenziare i pulsanti che si vuole l’utente prema
+      2.   Effetto placebo: in ambito UX è un feedback da parte dell’applicazione (tipo
+           se escono degli ingranaggi dopo un refresh)
+      3.   Effetto camaleonte: il sistema risponde all’utente con frasi che si sintonizzano
+           con l’umore dell’utente (tipo quando esce il gufo che piange se si sbagliano
+           tutte le risposte su duolingo, che è come se si immedisimasse con l’utente)
+      4.   Effetto alone: un buon aspetto estetico fa in modo che la qualità
+           dell’applicazione sia percepita come migliore
+      5.   Effetto di isolamento (Von Restorff effect): le notifiche sono molto evidenti
+           rispetto al resto
+      6.   Priming (order bias): tendenzialmente le persone tendono a ricordare le cose
+           sentite/lette per prime (se invece si tratta di una lista lunga tendono a
+           ricordare anche le cose più recenti, ossia quelle finali)
+      7.   Effetto familiarità: le cose sono reputate più belle e migliori in base a quanto
+           sono familiari
+      8.   Reward or reinforcement: l’applicazione si mostra entusiasta nei confronti
+           dell’utente (mostrando bandierine, coriandoli e scritte elogianti se l’utente fa
+           qualcosa di giusto)
+
+CASA theory: Computer As Social Actors
+Esperimenti degli anni 90 e 2000 hanno dimostrato che gli utenti sono indotti a
+comportarsi come se le macchine fossero umane, anche sono consci del fatto che esse
+non hanno coscienza o non agiscono mosse da motivazioni tipicamente umane.
+
+Ethopoeia: l’attribuzione di attitudini, intenzioni e disposizioni umane alle macchine (e
+agli oggetti in particolare).
+
+Basta poco per indurre l’ethopoeia (in ordine di efficacia):
+     1) Messaggi in linguaggio testuale (words for outputs)
+     2) Risposte basate su input predefiniti multipli (interactivity)
+     3) Attribuzione di ruoli tipicamente umani (es. all’assistente)
+     4) Utilizzare voci umanoidi
+     5) Utilizzare volti umanoidi
+
+Alcuni comportamenti sociali che inducono l’ethopoeia:
+     1) Reciprocità nella cortesia
+     2) Reazione a personalità diverse (dominante/remissivo): il simile apprezza il
+         simile. Ad esempio: persone con personalità più dominanti reagiscono meglio
+         a messaggi del tipo “devi procedere più velocemente, forza!”
+     3) Adulazione: viene percepita come più piacevole ed usabile un’applicazione
+         che tende ad elogiare/adulare l’utente
+     4) Stereotipi legati al genere: in base all’applicativo, una diversa “presentazione”
+         (es. Cortana è facilmente deducibile sia femminile dalla voce) fa la differenza
+         nella percezione degli utenti perché sono tutti dei sessisti bastardi ma dettagli
+     5) Senso di appartenenza
+Introduzione alla semiotica
+La definizione più semplice di semiotica è “studio dei segni”.
+Gli studi semiotici contemporanei studiano i segni non isolati ma come una parte di un
+sistema di segni. Viene studiato come si producono i significati e di come la realtà
+viene rappresentata.
+Alla luce di ciò si può dire che la semiotica è lo studio di come gli esseri umani
+costruiscono significato e della comunicazione carica di significato.
+
+La semiotica può essere divisa in tre ambiti:
+      1) Sintassi: studia le relazioni tra segni in termini di strutture formali
+      2) Semantica: studia la relazioni tra segni in termini del loro significato
+      3) Pragmatica: studia le relazioni tra i segni e gli effetti da loro prodotti
+
+Un segno è qualunque cosa alla quale si possa attribuire un significato: segnali
+stradali, insegne di locali, parole, suoni, linguaggio corporeo, odori, sapori…
+Tali segni non hanno un significato intrinseco e diventano segni solo quando gli si
+viene attribuito un significato.
+
+I segni riguardano qualunque cosa che sia percepibile e che ha un certo significato in
+un contesto sociale.
+
+Idea di Saussure
+E’ possibile vedere il segno come una correlazione di differenze, come un’entità dotata
+da due poli: significato e significante.
+
+      ●   Significante (signifier): componente percepibile del segno, quindi qualcosa di
+          toccabile/visibile ecc…
+      ●   Significato(signified): hgjafdhieis
+
+Il segno è ciò che emerge dall’interazione dei due, è un concetto relazionale che
+dipende interamente dalle convenzioni sociali e culturali.
+
+Idea di Peirce
+Un segno è qualcosa che ha significato per qualcuno per qualcos'altro rispetto a
+qualche aspetto o capacità.
+Per Peirce invece il segno era qualcosa a tre poli
+      ●   Representamen: forma percepibile/rappresentata acquisita dal segno (non
+          deve per forza essere percepibile dai sensi)
+      ●   Interpretant: non è un interprete, è il senso che un interprete da al segno
+      ●   Object: qualcosa al di là del representamen e dell’interpretant a cui i due
+          fanno riferimento
+
+Tutti e tre sono essenziali per definire un segno.
+
+Semiosi
+La semiosi è un processo dove si ragiona in maniera adduttiva: si generano ipotesi per
+rendere plausibili e comprensibili alcuni fenomeni della realtà. Ogni volta si cerca di
+applicare queste ipotesi; se l’ipotesi viene confermata dalla realtà allora diventa un
+principio generale, altrimenti si riformulano le credenze per spiegare diversamente le
+cose.
+
+
+
+
+Quindi, per riassumere: il significante (representamen) è la forma in cui il segno è
+percepibile (attraverso i sensi), il segno è il tutt’uno che ha un significato.
+
+Simbolo, Icona e Indice secondo Peirce
+Simbolo: una modalità in cui si pone il segno dove il significante non assomiglia al
+concetto significato ma ha un significato arbitrario o basato su convenzioni. La
+relazione tra representamen ed interpretant è qualcosa derivante da una convenzione.
+
+Un qualunque segno che fa riferimento ad un oggetto che denota in virtù di una regola
+(qualcosa che specifica il significato di una certa configurazione percettibile, ossia il
+representamen)
+Icona: una modalità in cui il significante è percepito come somigliante al significato
+(nell’aspetto, nel suono, nell’odore ecc..)
+Esempio: fare il gesto del telefono che universalmente è appunto associato al parlare al
+telefono
+
+Indice: una modalità in cui il significante non è arbitrario ma è direttamente
+connesso (fisicamente o causalmente) al significato. Questa connessione può essere
+osservato o dedotto. (es. vedo del fumo, so che c’è un fuoco. Il fumo è quindi un indice
+del fuoco)
+
+L’iconicità di un segno si basa su una somiglianza/similarità percepita, l’indicalità si basa
+su una connessione diretta e una contiguità.
+
+Quanto appena affrontato non si tratta di tre tipologie di segni mutuamente esclusive
+tra loro, ma sono modi in cui si presenta il segno. Un segno può essere un'icona, un
+simbolo, un indice o una combinazione di essi.
+
+
+Ingegneria Semiotica
+Teoria semiotica dell’interazione uomo-macchina che vede l’interazione
+uomo-macchina come una comunicazione tra utenti e progettisti mediata dalla
+macchina.
+
+Per l'ingegneria semiotica i progettisti dei software interattivi sono partecipanti attivi
+della comunicazione che avviene tramite le interfacce utente. Essi comunicano la loro
+visione del design agli utenti attraverso segni come parole, icone, elementi grafici,
+suoni ecc.
+
+Rappresentante del progettista (designer’s deputy): porzione del software che contiene
+spiegazioni, aiuti all’utente, informazioni, finestre di dialogo, messaggi di errore e
+avvertenze.
+
+Attraverso il loro deputy, i progettisti stanno comunicando agli utenti:
+      ● ciò che sanno sugli utenti
+      ● come si immaginano che l'utente debba interpretare, capire e rispondere a
+         certi comandi
+      ● quali valori sono inseriti nell’applicazione (perchè e come il sistema migliora le
+         vite degli utenti)
+                              Metodo di ispezione semiotica
+
+
+    ●   Segni linguistici: un qualunque elemento dell’interfaccia, può essere un
+        segno statico o dinamico.
+    ●   Segni metalinguistici: segni del secondo ordine, ossia segni che riguardano i
+        segni linguistici (anche questi possono essere un statici o dinamici).
+
+Communicative Breakdowns
+
+
+
+
+                                         OwO
+

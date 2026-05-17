@@ -4,6 +4,7 @@ Materiale di ripasso per la parte scritta teorica dell'esame.
 
 ## Domande note
 
+- [[domande_note/domande_appunti_ium_2021|Domande derivate da Appunti IUM 2021]]
 - [[domande_note/domande_chiuse|Domande chiuse]]
 - [[domande_note/domande_aperte|Domande aperte]]
 - [[domande_note/domande_da_verificare|Domande da verificare]]

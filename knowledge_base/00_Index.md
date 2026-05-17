@@ -11,10 +11,7 @@
 - [[Ergonomia cognitiva]]
 - [[Sistema interattivo]]
 - [[Interfaccia]]
-- [[Utente]]
 - [[Task]]
-
----
 
 ## Sistemi socio-tecnici
 
@@ -22,39 +19,61 @@
 - [[STS thinking]]
 - [[Proprieta emergenti]]
 - [[Conseguenze inattese]]
-
----
+- [[Effetto Peltzman]]
 
 ## Usabilita
 
 - [[Usabilita]]
+- [[Efficacia]]
+- [[Efficienza]]
+- [[Soddisfazione]]
 - [[Bassa usabilita]]
 - [[Norman doors]]
 - [[Floyd toilet]]
-- [[Wake up and use]]
+- [[Low use]]
 
----
-
-## Interazione e progettazione
+## Affordance, mapping e constraints
 
 - [[Affordance]]
 - [[Mapping]]
 - [[Constraints]]
 - [[Workaround]]
+- [[Skeuomorfismo]]
+- [[User-created affordances]]
 - [[Multifunzionalita]]
-
----
+- [[Complessita d'uso strutturale funzionale]]
+- [[Legge di Fitts]]
+- [[Errori di giustapposizione]]
 
 ## Valutazione
 
 - [[Valutazione di usabilita]]
-- [[Valutazione euristica]]
-- [[Euristiche di Nielsen]]
-- [[Test con utenti]]
-- [[Questionari psicometrici]]
+- [[User test]]
+- [[Protocollo think-aloud]]
+- [[Valutazione quantitativa]]
+- [[Confronto longitudinale]]
+- [[Confronto trasversale]]
 - [[Scala Likert]]
+- [[Questionari psicometrici]]
+- [[Bias di risposta]]
 
----
+## Valutazione euristica
+
+- [[Valutazione euristica]]
+- [[Valutazione olistica]]
+- [[Valutazione task-oriented]]
+- [[Euristiche di Nielsen]]
+- [[IXD Checklist]]
+- [[ISO 9241-110]]
+- [[Severita problemi di usabilita]]
+- [[Prioritizzazione problemi di usabilita]]
+- [[Matrice problemi valutatori]]
+- [[Rapporto finale valutazione euristica]]
+- [[Feedback]]
+- [[Consistency]]
+- [[Simplicity]]
+- [[Accessibility]]
+- [[Tolerance]]
 
 ## Automazione e bias
 
@@ -63,24 +82,22 @@
 - [[Overconfidence]]
 - [[Complacency]]
 - [[Automation bias]]
-- [[Effetto Peltzman]]
-
----
 
 ## Persuasione, dark patterns e semiotica
 
 - [[Dark patterns]]
-- [[Captologia]]
 - [[Tecnologie persuasive]]
+- [[Captologia]]
 - [[CASA]]
 - [[Ethopoeia]]
 - [[Semiotica]]
+- [[Segno simbolo icona indice]]
+- [[Significante significato oggetto]]
 - [[Ingegneria semiotica]]
-
----
 
 ## Preparazione esame
 
+- [[../exam_prep/domande_note/domande_appunti_ium_2021|Domande derivate da Appunti IUM 2021]]
 - [[../exam_prep/domande_note/domande_chiuse|Domande chiuse]]
 - [[../exam_prep/domande_note/domande_aperte|Domande aperte]]
 - [[../exam_prep/flashcards/ium_flashcards|Flashcards]]
