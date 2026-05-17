@@ -4,16 +4,16 @@ Materiale di ripasso per la parte scritta teorica dell'esame.
 
 ## Domande note
 
-- [[domande/00_Index|Indice Generale Domande]]
-- [[domande/domande_note_validate|Domande Validate dagli appelli passati]]
-- [[domande_note/domande_appunti_ium_2021|Domande derivate da Appunti IUM 2021]]
-- [[domande_note/domande_appunti_collettivi_2025_2026|Domande Appunti Collettivi 2025-2026]]
+- [[domande_note/README|README Domande Note]]
+- [[domande_note/domande_chiuse|Domande chiuse validate]]
+- [[domande_note/domande_aperte|Domande aperte validate]]
+- [[domande_note/domande_da_verificare|Domande da verificare]]
 
 ## Flashcards
 
-- [[flashcards/00_Index|Indice Generale Flashcards]]
-- [[flashcards/IUM_domande_flashcards|Flashcards d'esame validate]]
-- [[flashcards/ium_flashcards|Flashcards teoriche di base]]
+- [[flashcards/README|README Flashcards]]
+- [[flashcards/IUM_domande_flashcards|Flashcards da domande d’esame]]
+- [[flashcards/ium_flashcards|Flashcards teoriche generali]]
 
 ## Simulazioni
 
