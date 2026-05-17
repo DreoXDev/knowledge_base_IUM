@@ -1,9 +1,10 @@
 ---
 type: concetto
 course: IUM
-status: da-verificare
+status: confermato
 sources:
   - "[[Appunti IUM 2022]]"
+  - "[[02_appunti_collettivi_2024_2025]]"
 tags:
   - ium
   - concetto
@@ -32,12 +33,13 @@ Gli appunti 2022 esplicitano che l'essere umano è sociale e che molte interfacc
 
 Risposta sintetica: Interazione Uomo-Uomo Mediata dalla Macchina: situazione in cui un sistema computazionale media una relazione tra persone.
 
-## Stato di verifica
+## Conferma e consolidamento
 
-> [!warning] Stato
-> Concetto estratto da `AppuntiIUM2022`; da verificare con fonti successive o domande note.
+> [!success] Stato
+> Concetto estratto inizialmente da `AppuntiIUM2022` e confermato in `Appunti collettivi 2024-25`.
 
 ## Fonti interne
 
 - [[Appunti IUM 2022]]
 - [[05_appunti_ium_2022]]
+- [[02_appunti_collettivi_2024_2025]]

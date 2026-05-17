@@ -1,55 +1,61 @@
 ---
 type: concetto
 course: IUM
-status: da-verificare
+status: confermato
 sources:
   - "[[Appunti IUM 2021]]"
+  - "[[Appunti IUM 2022]]"
+  - "[[02_appunti_collettivi_2024_2025]]"
 tags:
   - ium
   - concetto
 ---
 
-# Matrice problemi valutatori
+# Matrice Problemi / Valutatori
 
 > [!info] Definizione
-> Tabella che incrocia problemi di usabilità e valutatori per indicare chi ha identificato quali problemi.
+> Tabella riassuntiva creata durante la valutazione euristica per mappare ogni problema identificato rispetto ai valutatori che lo hanno segnalato.
 
 ## Spiegazione
 
-Serve a leggere la distribuzione dei problemi trovati e a stimare copertura, ridondanza e contributo dei valutatori.
+Dopo la fase di ispezione indipendente, i valutatori si riuniscono per accorpare i problemi duplicati. La matrice problemi/valutatori è il risultato di questa fase: sulle righe ci sono i problemi univoci (es. P1, P2, P3...), sulle colonne i valutatori (V1, V2, V3...).
 
 ## Dettagli importanti
 
-- Colonne: problemi.
-- Righe: valutatori.
-- Aiuta a comunicare evidenze nel report finale.
+- Si segna con una `X` (o 1) l'intersezione se il valutatore ha riscontrato quel problema.
+- Permette di vedere a colpo d'occhio quali problemi sono stati trovati da tutti (probabilmente molto evidenti) e quali da uno solo (spesso più subdoli o legati al background specifico del valutatore).
+- Da questa matrice si procede alla stima della severità e alla [[Prioritizzazione problemi di usabilita]].
 
 ## Esempio
 
-> [!example] Esempio
-> Una matrice mostra che un problema critico e stato trovato da quasi tutti i valutatori.
+| Problema | V1 | V2 | V3 |
+| :--- | :---: | :---: | :---: |
+| P1: Pulsante invio nascosto | X | X | |
+| P2: Testo illegibile | | X | X |
+| P3: Nessun feedback di errore | X | X | X |
 
 ## Collegamenti
 
 - [[Valutazione euristica]]
-- [[Rapporto finale valutazione euristica]]
-- [[Prioritizzazione problemi di usabilità]]
+- [[Prioritizzazione problemi di usabilita]]
 
 ## Possibili domande d'esame
 
 > [!question] Domanda
-> A cosa serve la matrice problemi/valutatori?
+> A cosa serve la matrice problemi valutatori?
 
 Risposta attesa:
 
-Serve a visualizzare quali valutatori hanno trovato quali problemi e a supportare l'analisi della valutazione.
+Serve ad accorpare i problemi individuati in modo indipendente dai singoli esperti in un unico elenco univoco, visualizzando chi ha trovato cosa, prima di procedere alla stima della severità.
 
-## Stato di verifica
+## Conferma e consolidamento
 
-> [!warning] Da verificare
-> Contenuto basato sugli appunti studenti 2020-2021. Verificare con appunti collettivi recenti, appunti 2022 e domande note prima di considerarlo consolidato.
+> [!success] Stato
+> Concetto confermato da fonti 2021, 2022 e 2024-25.
 
 ## Fonti interne
 
 - [[Appunti IUM 2021]]
 - [[04_appunti_ium_2021]]
+- [[05_appunti_ium_2022]]
+- [[02_appunti_collettivi_2024_2025]]

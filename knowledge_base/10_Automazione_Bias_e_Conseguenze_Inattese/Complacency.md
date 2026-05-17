@@ -1,63 +1,63 @@
----
-type: concetto
-course: IUM
-status: confermato-da-2-fonti
-sources:
+---
+type: concetto
+course: IUM
+status: confermato
+aliases:
+  - Overconfidence
+  - Automation-related complacency
+sources:
   - "[[Appunti IUM 2021]]"
-  - "[[Appunti IUM 2022]]"
-tags:
-  - ium
-  - concetto
----
-
-# Complacency
-
-> [!info] Definizione
-> Sovraffidamento per cui l'utente abbassa il livello di attenzione perché presume che il sistema funzioni sempre come progettato.
-
-## Spiegazione
-
-La complacency e rilevante nei sistemi automatici perché l'utente smette di monitorare criticamente il comportamento del sistema.
-
-## Dettagli importanti
-
-- Riduce vigilanza.
-- Aumenta rischio di non rilevare anomalie.
-- Si collega ad automation bias.
-
-## Esempio
-
-> [!example] Esempio
-> Un operatore che non controlla più gli allarmi perché il sistema di monitoraggio di solito funziona.
-
-## Collegamenti
-
-- [[Overreliance]]
-- [[Automation bias]]
-- [[Overconfidence]]
-
-## Possibili domande d'esame
-
-> [!question] Domanda
-> Che cos'e la complacency nell'uso di sistemi automatici?
-
-Risposta attesa:
-
-E l'abbassamento dell'attenzione dovuto alla fiducia che il sistema funzioni sempre correttamente.
-
-## Conferma 2022
+  - "[[Appunti IUM 2022]]"
+  - "[[02_appunti_collettivi_2024_2025]]"
+tags:
+  - ium
+  - concetto
+---
+
+# Complacency (Overconfidence)
+
+> [!info] Definizione
+> Fiducia che il sistema funzioni sempre correttamente (non cadrà, non causerà danni, non sbaglierà), portando a un abbassamento dell'attenzione.
+
+## Spiegazione
+
+Nota anche come overconfidence o automation-related complacency, è un sovraffidamento per cui l'utente smette di monitorare criticamente il comportamento del sistema, presumendo che funzionerà sempre come progettato.
+
+## Dettagli importanti
+
+- Sottovaluta limiti e guasti del sistema.
+- Riduce drasticamente la vigilanza umana.
+- Aumenta il rischio di non rilevare anomalie.
+
+## Esempio
+
+> [!example] Esempio
+> Un operatore che smette di controllare periodicamente un cruscotto di allarmi perché "il sistema funziona sempre benissimo".
+
+## Collegamenti
+
+- [[Overreliance]]
+- [[Automation bias]]
+
+## Possibili domande d'esame
+
+> [!question] Domanda
+> Che cos'è l'overconfidence / complacency?
+
+Risposta attesa:
+
+È la fiducia ingiustificata e assoluta che il sistema non sbaglierà e non si guasterà mai, con conseguente perdita di attenzione da parte dell'utente.
+
+## Conferma e consolidamento
 
 > [!success] Stato
-> Concetto confermato da `Appunti IUM 2021` e `AppuntiIUM2022`.
+> Concetto confermato da `Appunti IUM 2021`, `AppuntiIUM2022` e `Appunti collettivi 2024-25`.
 
-Il 2022 usa anche la formula automation-related complacency: abbassamento dell'attenzione perché si presume che il sistema funzioni sempre.
+Il 2024-25 raggruppa chiaramente overconfidence, complacency e automation-related complacency sotto la stessa problematica: la fede eccessiva nell'infallibilità tecnica.
 
-## Stato di verifica
-
-> [!warning] Da verificare
-> Contenuto basato sugli appunti studenti 2020-2021. Verificare con appunti collettivi recenti, appunti 2022 e domande note prima di considerarlo consolidato.
-
-## Fonti interne
-
-- [[Appunti IUM 2021]]
-- [[04_appunti_ium_2021]]
+## Fonti interne
+
+- [[Appunti IUM 2021]]
+- [[04_appunti_ium_2021]]
+- [[05_appunti_ium_2022]]
+- [[02_appunti_collettivi_2024_2025]]

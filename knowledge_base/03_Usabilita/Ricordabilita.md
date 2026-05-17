@@ -1,9 +1,10 @@
 ---
 type: concetto
 course: IUM
-status: da-verificare
+status: confermato
 sources:
   - "[[Appunti IUM 2022]]"
+  - "[[02_appunti_collettivi_2024_2025]]"
 tags:
   - ium
   - concetto
@@ -12,11 +13,11 @@ tags:
 # Ricordabilità
 
 > [!info] Definizione
-> Facilità con cui utenti occasionali ricordano come usare un sistema dopo un periodo di non utilizzo.
+> Facilità con cui utenti occasionali ricordano come usare un sistema dopo un periodo prolungato di non utilizzo.
 
 ## Spiegazione
 
-È rilevante quando il sistema viene usato raramente: l'interazione deve poter essere ripresa senza dover reimparare tutto.
+È rilevante specialmente quando il sistema viene usato raramente (es. pagamento tasse annuali): l'interazione deve poter essere ripresa rapidamente senza dover reimparare tutto il funzionamento da capo.
 
 ## Collegamenti
 
@@ -31,12 +32,12 @@ tags:
 
 Risposta sintetica: Facilità con cui utenti occasionali ricordano come usare un sistema dopo un periodo di non utilizzo.
 
-## Stato di verifica
+## Conferma e consolidamento
 
-> [!warning] Stato
-> Concetto estratto da `AppuntiIUM2022`; da verificare con fonti successive o domande note.
+> [!success] Stato
+> Concetto estratto da `AppuntiIUM2022` e confermato in `Appunti collettivi 2024-25`.
 
 ## Fonti interne
 
-- [[Appunti IUM 2022]]
 - [[05_appunti_ium_2022]]
+- [[02_appunti_collettivi_2024_2025]]

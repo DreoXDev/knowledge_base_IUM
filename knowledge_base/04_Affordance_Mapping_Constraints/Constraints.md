@@ -1,63 +1,60 @@
----
-type: concetto
-course: IUM
-status: confermato-da-2-fonti
-sources:
+---
+type: concetto
+course: IUM
+status: confermato
+sources:
   - "[[Appunti IUM 2021]]"
-  - "[[Appunti IUM 2022]]"
-tags:
-  - ium
-  - concetto
----
-
-# Constraints
-
-> [!info] Definizione
-> Vincoli progettuali che limitano o guidano le azioni dell'utente, in modo passivo/strutturale o attivo/funzionale.
-
-## Spiegazione
-
-I constraints possono migliorare qualità dei dati e standardizzazione, ma se troppo rigidi possono generare workaround.
-
-## Dettagli importanti
-
-- Passivi: struttura del sistema limita le opzioni.
-- Attivi: controlli impediscono di procedere se condizioni non sono rispettate.
-- Troppi vincoli possono ridurre flessibilita e soddisfazione.
-
-## Esempio
-
-> [!example] Esempio
-> Un form che impedisce l'invio se campi obbligatori sono vuoti applica un constraint attivo.
-
-## Collegamenti
-
-- [[Workaround]]
-- [[Affordance]]
-- [[Interfaccia]]
-
-## Possibili domande d'esame
-
-> [!question] Domanda
-> Qual e la differenza tra constraint attivi e passivi?
-
-Risposta attesa:
-
-I passivi limitano tramite struttura; gli attivi intervengono tramite controlli funzionali durante l'azione.
-
-## Conferma 2022
+  - "[[Appunti IUM 2022]]"
+  - "[[02_appunti_collettivi_2024_2025]]"
+tags:
+  - ium
+  - concetto
+---
+
+# Constraints
+
+> [!info] Definizione
+> Vincoli progettati per limitare le azioni possibili dell'utente e guidarlo verso l'uso corretto, riducendo le alternative.
+
+## Spiegazione
+
+Insieme ad affordance e mapping, i constraints (vincoli) semplificano l'uso di un sistema rendendo impossibili o difficili le azioni errate, implementando di fatto una robustezza proattiva.
+
+## Dettagli importanti
+
+Gli appunti distinguono:
+- **Constraints passivi / strutturali**: limitano fisicamente o logicamente l'azione (es. una spina che entra solo in un verso, un pulsante disabilitato finché non si compila il form).
+- **Constraints attivi / funzionali**: ostacolano l'azione per richiamare l'attenzione o richiedere conferma (es. messaggi "Sei sicuro di voler eliminare?", finestre modali).
+
+## Esempio
+
+> [!example] Esempio
+> In un form online, impedire l'inserimento di lettere in un campo "numero di telefono" è un vincolo strutturale che previene errori di formattazione.
+
+## Collegamenti
+
+- [[Affordance]]
+- [[Mapping]]
+- [[Prevenzione degli errori]]
+- [[Robustezza]]
+
+## Possibili domande d'esame
+
+> [!question] Domanda
+> Che cosa sono i constraints strutturali e funzionali?
+
+Risposta attesa:
+
+I constraints strutturali (passivi) impediscono fisicamente o logicamente un'azione scorretta. Quelli funzionali (attivi) la ostacolano richiedendo un'azione aggiuntiva o conferme per evitare errori distruttivi.
+
+## Conferma e consolidamento
 
 > [!success] Stato
-> Concetto confermato da `Appunti IUM 2021` e `AppuntiIUM2022`.
+> Concetto confermato da `Appunti IUM 2021`, `AppuntiIUM2022` e `Appunti collettivi 2024-25`.
 
-Il 2022 conferma vincoli strutturali/passivi e funzionali/attivi.
+## Fonti interne
 
-## Stato di verifica
-
-> [!warning] Da verificare
-> Contenuto basato sugli appunti studenti 2020-2021. Verificare con appunti collettivi recenti, appunti 2022 e domande note prima di considerarlo consolidato.
-
-## Fonti interne
-
-- [[Appunti IUM 2021]]
-- [[04_appunti_ium_2021]]
+- [[Appunti IUM 2021]]
+- [[04_appunti_ium_2021]]
+- [[05_appunti_ium_2022]]
+- [[02_appunti_collettivi_2024_2025]]

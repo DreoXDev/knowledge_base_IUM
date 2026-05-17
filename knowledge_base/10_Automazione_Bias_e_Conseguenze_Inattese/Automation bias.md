@@ -1,63 +1,62 @@
----
-type: concetto
-course: IUM
-status: confermato-da-2-fonti
-sources:
+---
+type: concetto
+course: IUM
+status: confermato
+aliases:
+  - Overdependence
+sources:
   - "[[Appunti IUM 2021]]"
-  - "[[Appunti IUM 2022]]"
-tags:
-  - ium
-  - concetto
----
-
-# Automation bias
-
-> [!info] Definizione
-> Distorsione cognitiva per cui si attribuisce eccessiva fiducia alle risposte di un supporto automatico alle decisioni.
-
-## Spiegazione
-
-Gli appunti collegano l'automation bias a errori di omissione o azione quando sistemi imperfetti vengono seguiti troppo ciecamente.
-
-## Dettagli importanti
-
-- Errore di omissione: non si agisce perché il sistema non segnala.
-- Errore di azione: si agisce seguendo un suggerimento errato.
-- Richiede progettazione che mantenga il controllo critico umano.
-
-## Esempio
-
-> [!example] Esempio
-> Un medico che segue un suggerimento diagnostico automatico senza considerare evidenze cliniche contrarie.
-
-## Collegamenti
-
-- [[Overreliance]]
-- [[Complacency]]
-- [[Sistema socio-tecnico]]
-
-## Possibili domande d'esame
-
-> [!question] Domanda
-> Che differenza c'e tra automation bias e overreliance?
-
-Risposta attesa:
-
-L'overreliance e la fiducia eccessiva generale; l'automation bias e la distorsione decisionale che porta a seguire o non correggere il sistema automatico.
-
-## Conferma 2022
+  - "[[Appunti IUM 2022]]"
+  - "[[02_appunti_collettivi_2024_2025]]"
+tags:
+  - ium
+  - concetto
+---
+
+# Automation bias (Overdependence)
+
+> [!info] Definizione
+> Dipendenza eccessiva dal supporto decisionale (automation bias) o dallo strumento informatico in generale (overdependence), che porta a perdere autonomia o a compiere errori decisionali.
+
+## Spiegazione
+
+L'automation bias spinge l'utente ad attribuire eccessiva fiducia alle risposte del sistema. Questo si manifesta come overdependence: mancanza di autonomia, abuso dello strumento e incapacità di procedere (assenza di un piano B) se il sistema non è disponibile.
+
+## Dettagli importanti
+
+- Genera errori di omissione (non si agisce se il sistema non segnala).
+- Genera errori di commissione/azione (si agisce seguendo il suggerimento errato del sistema).
+- Causa fragilità operativa.
+
+## Esempio
+
+> [!example] Esempio
+> Un medico che accetta passivamente un suggerimento diagnostico automatico errato (errore di commissione) o che non interviene perché il sistema non lancia un allarme (errore di omissione).
+
+## Collegamenti
+
+- [[Overreliance]]
+- [[Complacency]]
+
+## Possibili domande d'esame
+
+> [!question] Domanda
+> Che differenza c'è tra automation bias/overdependence e complacency?
+
+Risposta attesa:
+
+L'automation bias o overdependence è la dipendenza eccessiva dal supporto decisionale e la perdita di autonomia. La complacency è invece l'abbassamento dell'attenzione dovuto alla fiducia che il sistema funzionerà sempre correttamente.
+
+## Conferma e consolidamento
 
 > [!success] Stato
-> Concetto confermato da `Appunti IUM 2021` e `AppuntiIUM2022`.
+> Concetto confermato da `Appunti IUM 2021`, `AppuntiIUM2022` e `Appunti collettivi 2024-25`.
 
-Il 2022 conferma l'automation bias come fiducia eccessiva nel supporto decisionale automatico, con errori di omissione o commissione.
+Il 2024-25 accomuna concettualmente overdependence e automation bias come due facce della dipendenza eccessiva (sia decisionale che operativa).
 
-## Stato di verifica
-
-> [!warning] Da verificare
-> Contenuto basato sugli appunti studenti 2020-2021. Verificare con appunti collettivi recenti, appunti 2022 e domande note prima di considerarlo consolidato.
-
-## Fonti interne
-
-- [[Appunti IUM 2021]]
-- [[04_appunti_ium_2021]]
+## Fonti interne
+
+- [[Appunti IUM 2021]]
+- [[04_appunti_ium_2021]]
+- [[05_appunti_ium_2022]]
+- [[02_appunti_collettivi_2024_2025]]

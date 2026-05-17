@@ -1,9 +1,10 @@
 ---
 type: concetto
 course: IUM
-status: da-verificare
+status: confermato
 sources:
   - "[[Appunti IUM 2022]]"
+  - "[[02_appunti_collettivi_2024_2025]]"
 tags:
   - ium
   - concetto
@@ -16,7 +17,7 @@ tags:
 
 ## Spiegazione
 
-Serve a evitare l'errore di parlare di usabilità del sistema in sé: prima della valutazione si può ipotizzare una usabilità potenziale, non dichiararla come proprietà intrinseca.
+Serve a evitare l'errore di parlare di usabilità del sistema in sé: prima della valutazione oggettiva sul campo, si può ipotizzare una usabilità potenziale, non dichiararla come proprietà intrinseca.
 
 ## Collegamenti
 
@@ -31,12 +32,13 @@ Serve a evitare l'errore di parlare di usabilità del sistema in sé: prima dell
 
 Risposta sintetica: Possibilità ragionevole che un sistema risulti usabile per certi utenti, obiettivi e contesti, da confermare empiricamente.
 
-## Stato di verifica
+## Conferma e consolidamento
 
-> [!warning] Stato
-> Concetto estratto da `AppuntiIUM2022`; da verificare con fonti successive o domande note.
+> [!success] Stato
+> Concetto estratto da `AppuntiIUM2022` e confermato in `Appunti collettivi 2024-25`.
 
 ## Fonti interne
 
 - [[Appunti IUM 2022]]
 - [[05_appunti_ium_2022]]
+- [[02_appunti_collettivi_2024_2025]]

@@ -1,65 +1,64 @@
----
-type: concetto
-course: IUM
-status: confermato-da-2-fonti
-sources:
+---
+type: concetto
+course: IUM
+status: confermato
+sources:
   - "[[Appunti IUM 2021]]"
-  - "[[Appunti IUM 2022]]"
-tags:
-  - ium
-  - concetto
----
-
-# Affordance
-
-> [!info] Definizione
-> Qualità o proprietà di un oggetto che rende evidenti o possibili certi usi a un utente ricettivo e competente.
-
-## Spiegazione
-
-Gli appunti distinguono affordance cognitive, fisiche, sensoriali, funzionali, emozionali e sociali. Un'affordance non e solo invito all'azione, ma può suggerire anche effetti nel mondo tramite mapping.
-
-## Dettagli importanti
-
-- Cognitive: aiutano a capire, decidere, ricordare.
-- Fisiche: facilitano azioni come cliccare o toccare.
-- Sensoriali: rendono percepibili elementi rilevanti.
-- Funzionali, emozionali e sociali riguardano effetti pratici, emotivi e collaborativi.
-
-## Esempio
-
-> [!example] Esempio
-> Un pulsante grande e ben etichettato offre affordance fisica e cognitiva.
-
-## Collegamenti
-
-- [[Mapping]]
-- [[Constraints]]
-- [[Norman doors]]
-- [[User-created affordances]]
-
-## Possibili domande d'esame
-
-> [!question] Domanda
-> Che cos'e un'affordance e quali tipi sono citati negli appunti?
-
-Risposta attesa:
-
-E una proprietà che rende possibile o evidente l'uso di un oggetto; gli appunti citano affordance cognitive, fisiche, sensoriali, funzionali, emozionali e sociali.
-
-## Conferma 2022
+  - "[[Appunti IUM 2022]]"
+  - "[[02_appunti_collettivi_2024_2025]]"
+tags:
+  - ium
+  - concetto
+---
+
+# Affordance
+
+> [!info] Definizione
+> La relazione tra le proprietà fisiche di un oggetto e le capacità dell'agente che determinano in che modo l'oggetto potrebbe essere usato (Norman/Gibson).
+
+## Spiegazione
+
+L'affordance (invito all'uso) **non è puramente intrinseca** all'oggetto, ma emerge dalla relazione tra le caratteristiche dell'oggetto e le capacità, competenze e contesto dell'utente. 
+Mentre per Gibson era una proprietà oggettiva dell'ambiente, per Norman in HCI riguarda anche ciò che l'utente *percepisce* come possibile (perceived affordance).
+
+## Dettagli importanti
+
+Gli appunti 2024-25 distinguono vari tipi di affordance:
+- **Cognitive**: aiutano l'utente a capire cosa fare e come interpretare le info.
+- **Fisiche**: permettono l'azione fisica (es. pulsanti di certe dimensioni).
+- **Sensoriali**: permettono agli utenti di percepire feedback e informazioni.
+- **Funzionali**: legano lo strumento allo scopo.
+- **Emozionali**: stimolano risposte affettive.
+- **Sociali**: facilitano l'interazione tra persone attraverso il sistema.
+
+## Esempio
+
+> [!example] Esempio
+> Una maniglia piatta su una porta offre l'affordance di essere spinta, non tirata. In ambito software, un pulsante tridimensionale con ombra offre l'affordance di essere cliccato.
+
+## Collegamenti
+
+- [[Mapping]]
+- [[Constraints]]
+- [[Ergonomia cognitiva]]
+
+## Possibili domande d'esame
+
+> [!question] Domanda
+> L'affordance è una proprietà intrinseca dell'oggetto?
+
+Risposta attesa:
+
+No, è una relazione tra le proprietà dell'oggetto e le capacità e conoscenze dell'utente. Un pulsante cliccabile non offre affordance a chi non sa cos'è un mouse.
+
+## Conferma e consolidamento
 
 > [!success] Stato
-> Concetto confermato da `Appunti IUM 2021` e `AppuntiIUM2022`.
+> Concetto confermato da `Appunti IUM 2021`, `AppuntiIUM2022` e `Appunti collettivi 2024-25`.
 
-Il 2022 conferma la distinzione tra affordance cognitive, fisiche, sensoriali, funzionali, emozionali e sociali, includendo user-created affordances.
+## Fonti interne
 
-## Stato di verifica
-
-> [!warning] Da verificare
-> Contenuto basato sugli appunti studenti 2020-2021. Verificare con appunti collettivi recenti, appunti 2022 e domande note prima di considerarlo consolidato.
-
-## Fonti interne
-
-- [[Appunti IUM 2021]]
-- [[04_appunti_ium_2021]]
+- [[Appunti IUM 2021]]
+- [[04_appunti_ium_2021]]
+- [[05_appunti_ium_2022]]
+- [[02_appunti_collettivi_2024_2025]]

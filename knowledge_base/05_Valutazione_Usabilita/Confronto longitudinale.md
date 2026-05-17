@@ -1,37 +1,52 @@
 ---
-type: metodo
+type: concetto
 course: IUM
-status: da-verificare
+status: confermato
 sources:
   - "[[Appunti IUM 2021]]"
+  - "[[Appunti IUM 2022]]"
+  - "[[02_appunti_collettivi_2024_2025]]"
 tags:
   - ium
-  - metodo
+  - concetto
 ---
 
 # Confronto longitudinale
 
-## Obiettivo
+> [!info] Definizione
+> Valutazione comparativa condotta testando e confrontando due o più **versioni dello stesso sistema** nel tempo.
 
-Valutare l'evoluzione di uno stesso sistema nel tempo, confrontando versioni successive.
+## Spiegazione
 
-## Quando si usa
+Si tratta di un confronto interno (es. versione V1 contro versione V2 dello stesso sito). L'obiettivo è misurare l'entità dei miglioramenti apportati da una riprogettazione, oppure l'impatto di specifici cambiamenti introdotti sull'usabilità.
 
-Si usa quando si progetta una prima versione, si raccolgono dati di usabilità, si migliora il sistema e poi si rivaluta la versione successiva.
+## Dettagli importanti
+
+- È la valutazione tipica richiesta nel progetto pratico d'esame (confronto sistema As-Is vs To-Be).
+- Entra nella categoria delle valutazioni comparative.
+- Spesso accompagnata da test statistici appropriati per verificare se il miglioramento è reale.
 
 ## Collegamenti
 
 - [[Valutazione di usabilità]]
-- [[User test]]
-- [[Valutazione quantitativa]]
+- [[Confronto trasversale]]
 
-## Possibile domanda d'esame
+## Possibili domande d'esame
 
 > [!question] Domanda
-> Che differenza c'e tra confronto longitudinale e trasversale?
+> Che differenza c'è tra confronto longitudinale e trasversale?
 
-Risposta sintetica: il confronto longitudinale confronta versioni diverse dello stesso sistema nel tempo; quello trasversale confronta sistemi diversi nello stesso periodo.
+Risposta attesa:
 
-## Stato
+Il confronto longitudinale confronta diverse versioni dello *stesso* sistema (es. prima e dopo il restyling). Il confronto trasversale confronta due sistemi *diversi* che fanno la stessa cosa (es. sito dei treni di un paese vs sito dei treni di un altro paese).
 
-Stato: `DA VERIFICARE`
+## Conferma e consolidamento
+
+> [!success] Stato
+> Concetto confermato da fonti 2021, 2022 e 2024-25.
+
+## Fonti interne
+
+- [[Appunti IUM 2021]]
+- [[05_appunti_ium_2022]]
+- [[02_appunti_collettivi_2024_2025]]

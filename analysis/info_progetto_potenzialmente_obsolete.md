@@ -1,36 +1,15 @@
-# Info progetto potenzialmente obsolete
-
-Informazioni tratte da [[Appunti IUM 2021]] che riguardano il progetto 2020-2021 e non devono essere confuse con la teoria dello scritto.
-
-## Numeri di partecipanti
-
-- Indicazioni su gruppi da 3 persone.
-- Indicazioni su 6 persone per valutazione euristica.
-- Indicazioni su circa 12 utenti per user test.
-- Indicazioni su 24 persone per questionari.
-
-## Consegne e formato progetto
-
-- Indicazioni su relazione, slideware, registrazioni e moduli di consenso.
-- Suggerimenti su citazioni degli utenti e presentazione finale.
-
-## Stato
-
-> [!warning] Da verificare
-> Queste informazioni sono legate all'anno 2020-2021. Non usarle per preparare l'esame scritto teorico se non confermate da fonti attuali.
+# Informazioni Progetto Potenzialmente Obsolete
 
-## AppuntiIUM2022
+Data: 2026-05-17
+Fonte originaria: Appunti collettivi 2024-25 (e precedenti)
 
-Informazioni utili per capire il contesto del corso/progetto, ma non da usare automaticamente per l'esame scritto teorico attuale:
+Questo file raccoglie le informazioni pratiche o amministrative relative al progetto d'esame e alla relazione che non devono far parte della knowledge base teorica per lo scritto. 
 
-- modalità d'esame 2022;
-- punti scritto/progetto/orale;
-- scadenze e consegne;
-- numero partecipanti indicato per progetto;
-- composizione gruppi;
-- indicazioni su slide/report;
-- strumenti o questionari preferiti dal docente nel 2022;
-- eventuali esempi legati a specifica edizione del corso.
+## Possibili appunti sul progetto
+- Numeri esatti di partecipanti previsti per il progetto pratico.
+- Richieste specifiche per la formattazione della relazione finale.
+- Grafici consigliati per la presentazione.
+- Dettagli dei deliverable (es. scadenze, format file).
+- Workflow pratico per l'implementazione del prototipo non legati strettamente a metriche teoriche.
 
-> [!danger] Obsolescenza possibile
-> Queste informazioni sono legate all'anno 2022 o al progetto; non usarle automaticamente per lo scritto teorico attuale senza verifica.
+*Nota: Non memorizzare questi concetti per lo scritto, servono unicamente a livello di cronaca o per reference se si sta svolgendo il progetto.*
