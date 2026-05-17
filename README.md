@@ -42,6 +42,13 @@ Gli asset raw non vanno modificati e non vanno copiati direttamente nella knowle
 - Appunti Collettivi 2025-2026
 - Domande IUM.pdf (Estratte 85 domande validate)
 
+### Contesto per NotebookLM
+
+È stata predisposta una cartella speciale per consentire lo studio tramite l'AI di Google (NotebookLM) senza problemi di limiti di file o codifica:
+- `notebooklm_context/01_Teoria_Completa_IUM.md`: Tutta la teoria della KB consolidata in un unico file.
+- `notebooklm_context/02_Domande_ed_Esercizi_Esame.md`: Il dataset pulito delle 85 domande Q&A per NotebookLM.
+- `notebooklm_context/03_Guida_Prompt_NotebookLM.md`: Guida con prompt pronti all'uso per simulazioni d'esame.
+
 ### Fonti ancora da analizzare
 
 - *Nessuna fonte in attesa di analisi al momento.*
