@@ -10,7 +10,7 @@ Stato risposta: `DA VERIFICARE`
 
 Concetti collegati:
 
-- [[Concetto da collegare]]
+- Da collegare dopo analisi delle domande note
 
 ### Domanda
 

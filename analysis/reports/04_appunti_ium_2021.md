@@ -11,25 +11,25 @@ Stato report: `COMPLETO`
 
 Appunti studenti del corso IUM 2020-2021. La fonte contiene un disclaimer di incompletezza e possibile imprecisione, quindi tutte le integrazioni sono marcate come `DA VERIFICARE`.
 
-Macro-argomenti: fondamenti HCI, sistemi socio-tecnici, usabilita, affordance/mapping/constraints, valutazione euristica, valutazione quantitativa, dark patterns, tecnologie persuasive, semiotica e ingegneria semiotica.
+Macro-argomenti: fondamenti HCI, sistemi socio-tecnici, usabilità, affordance/mapping/constraints, valutazione euristica, valutazione quantitativa, dark patterns, tecnologie persuasive, semiotica e ingegneria semiotica.
 
 ## 2. Struttura rilevata
 
 - L'interazione Uomo-Macchina.
 - Sistema socio-tecnico.
 - Conseguenze inattese e overreliance.
-- Usabilita, constraints, affordance, mapping e multifunzionalita.
-- Valutazione di usabilita, valutazione euristica e metodo.
+- Usabilità, constraints, affordance, mapping e multifunzionalita.
+- Valutazione di usabilità, valutazione euristica e metodo.
 - Euristiche, standard e checklist.
 - Valutazione quantitativa e questionari psicometrici.
 - Dark patterns, persuasione, semiotica e ingegneria semiotica.
 
 ## 3. Concetti principali estratti
 
-| Concetto | Categoria | Priorita esame | Note |
+| Concetto | Categoria | Priorità esame | Note |
 |---|---|---|---|
 | HCI | Fondamenti | Alta | Base teorica del corso |
-| Usabilita | Usabilita | Alta | Definizione ISO-like con efficacia, efficienza, soddisfazione |
+| Usabilità | Usabilità | Alta | Definizione ISO-like con efficacia, efficienza, soddisfazione |
 | Affordance | Progettazione | Alta | Include tipologie e relazione con mapping |
 | Valutazione euristica | Metodo | Alta | Metodo centrale di valutazione |
 | Valutazione quantitativa | Metodo | Media | Include metriche, campioni e questionari |
@@ -45,7 +45,7 @@ Le definizioni sono state integrate nelle note atomiche e nel glossario come `DA
 | Esempio | Concetto collegato | Utilita |
 |---|---|---|
 | Norman doors | [[Affordance]] | Esempio classico di affordance ambigua |
-| Floyd toilet | [[Bassa usabilita]] | Distingue funzionamento tecnico e usabilita |
+| Floyd toilet | [[Bassa usabilità]] | Distingue funzionamento tecnico e usabilità |
 | Effetto Peltzman | [[Conseguenze inattese]] | Esempio di compensazione del rischio |
 | Roach motel | [[Dark patterns]] | Esempio di manipolazione dell'uscita |
 
@@ -55,7 +55,7 @@ Le domande derivate sono in [[../exam_prep/domande_note/domande_appunti_ium_2021
 
 ## 7. Conflitti o dubbi
 
-- Fonte studenti con disclaimer: da verificare sistematicamente con appunti piu recenti.
+- Fonte studenti con disclaimer: da verificare sistematicamente con appunti più recenti.
 - Dettagli del progetto 2020-2021 separati come informazioni potenzialmente obsolete.
 - Alcune definizioni avanzate di semiotica sono incomplete o colloquiali nella fonte.
 - Numeri di partecipanti e indicazioni operative possono non valere per l'esame attuale.

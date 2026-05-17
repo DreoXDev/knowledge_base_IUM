@@ -33,7 +33,7 @@ Le Norman doors mostrano come un oggetto semplice possa diventare difficile quan
 
 - [[Affordance]]
 - [[Mapping]]
-- [[Bassa usabilita]]
+- [[Bassa usabilità]]
 
 ## Possibili domande d'esame
 

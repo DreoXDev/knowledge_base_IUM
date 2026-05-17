@@ -27,7 +27,7 @@ Negli appunti compare come criterio per messaggi precisi, costruttivi e non inti
 ## Esempio
 
 > [!example] Esempio
-> Non posso aprire il file perche non e presente sul disco. Controlla il percorso o scegli un altro file.
+> Non posso aprire il file perché non e presente sul disco. Controlla il percorso o scegli un altro file.
 
 ## Collegamenti
 

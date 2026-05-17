@@ -3,23 +3,23 @@
 ## Fondamenti
 
 - [ ] So definire HCI/IUM.
-- [ ] So spiegare perche IUM e interdisciplinare.
+- [ ] So spiegare perché IUM e interdisciplinare.
 - [ ] So distinguere sistema interattivo e interfaccia.
-- [ ] So spiegare perche l'utente non coincide con il progettista.
+- [ ] So spiegare perché l'utente non coincide con il progettista.
 
 ## Sistemi socio-tecnici
 
 - [ ] So definire sistema socio-tecnico.
-- [ ] So spiegare cosa sono le proprieta emergenti.
+- [ ] So spiegare cosa sono le proprietà emergenti.
 - [ ] So spiegare STS thinking e joint optimization.
 - [ ] So fare un esempio di conseguenza inattesa.
 
-## Usabilita
+## Usabilità
 
-- [ ] So definire l'usabilita.
-- [ ] So spiegare perche l'usabilita non e intrinseca.
+- [ ] So definire l'usabilità.
+- [ ] So spiegare perché l'usabilità non e intrinseca.
 - [ ] So spiegare Norman doors e Floyd toilet.
-- [ ] So collegare bassa usabilita a danni e problemi.
+- [ ] So collegare bassa usabilità a danni e problemi.
 
 ## Affordance, mapping e constraints
 
@@ -31,7 +31,7 @@
 
 ## Valutazione
 
-- [ ] So spiegare la valutazione di usabilita.
+- [ ] So spiegare la valutazione di usabilità.
 - [ ] So spiegare la valutazione euristica.
 - [ ] So spiegare il ruolo degli esperti.
 - [ ] So spiegare il ruolo dei questionari.
@@ -50,3 +50,14 @@
 - [ ] So spiegare CASA.
 - [ ] So distinguere icona, indice e simbolo.
 - [ ] So spiegare sintassi, semantica e pragmatica.
+
+## Iterazione 2022
+
+- [ ] So distinguere verifica e valutazione.
+- [ ] So spiegare IUUMM.
+- [ ] So spiegare potenziale usabilità, robustezza, apprendibilità e ricordabilità.
+- [ ] So confrontare SUMI, SUS, UEQ, AttrakDiff e NPS.
+- [ ] So scegliere tra Mann-Whitney, Wilcoxon, Kruskal-Wallis e test binomiale a livello teorico.
+- [ ] So spiegare macrosuasione, microsuasione e credibilità.
+- [ ] So distinguere Saussure e Peirce.
+- [ ] So spiegare semiosi, abduzione e communicative breakdown.

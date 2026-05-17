@@ -32,7 +32,7 @@ Sono segnali empirici per il progettista: indicano che l'utente sente il bisogno
 ## Collegamenti
 
 - [[Affordance]]
-- [[Bassa usabilita]]
+- [[Bassa usabilità]]
 - [[Workaround]]
 
 ## Possibili domande d'esame

@@ -1,9 +1,10 @@
 ---
 type: concetto
 course: IUM
-status: da-verificare
+status: confermato-da-2-fonti
 sources:
   - "[[Appunti IUM 2021]]"
+  - "[[Appunti IUM 2022]]"
 tags:
   - ium
   - concetto
@@ -16,7 +17,7 @@ tags:
 
 ## Spiegazione
 
-Negli appunti 2021 l'efficacia e una delle tre dimensioni principali dell'[[Usabilita]], insieme a [[Efficienza]] e [[Soddisfazione]].
+Negli appunti 2021 l'efficacia e una delle tre dimensioni principali dell'[[Usabilità]], insieme a [[Efficienza]] e [[Soddisfazione]].
 
 ## Esempio
 
@@ -25,8 +26,8 @@ Negli appunti 2021 l'efficacia e una delle tre dimensioni principali dell'[[Usab
 
 ## Collegamenti
 
-- [[Usabilita]]
-- [[Valutazione di usabilita]]
+- [[Usabilità]]
+- [[Valutazione di usabilità]]
 
 ## Stato
 

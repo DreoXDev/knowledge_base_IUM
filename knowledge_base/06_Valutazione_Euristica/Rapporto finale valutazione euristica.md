@@ -21,8 +21,8 @@ Gli appunti includono elementi utili ma anche dettagli del progetto 2020-2021 ch
 ## Dettagli importanti
 
 - Descrive oggetto, partecipanti, task e metodo.
-- Include elenco problemi e priorita.
-- Puo allegare schede di analisi ed evidenze.
+- Include elenco problemi e priorità.
+- Può allegare schede di analisi ed evidenze.
 
 ## Esempio
 
@@ -33,7 +33,7 @@ Gli appunti includono elementi utili ma anche dettagli del progetto 2020-2021 ch
 
 - [[Valutazione euristica]]
 - [[Matrice problemi valutatori]]
-- [[Severita problemi di usabilita]]
+- [[Severita problemi di usabilità]]
 
 ## Possibili domande d'esame
 
@@ -42,7 +42,7 @@ Gli appunti includono elementi utili ma anche dettagli del progetto 2020-2021 ch
 
 Risposta attesa:
 
-Metodo, partecipanti/task, problemi identificati, priorita, evidenze e considerazioni finali.
+Metodo, partecipanti/task, problemi identificati, priorità, evidenze e considerazioni finali.
 
 ## Stato di verifica
 

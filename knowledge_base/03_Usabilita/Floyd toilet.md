@@ -21,17 +21,17 @@ Negli appunti e usata per indicare sistemi che funzionano tecnicamente ma disori
 ## Dettagli importanti
 
 - Funzionare non basta per essere usabile.
-- La complessita puo derivare da scelte di interfaccia.
+- La complessita può derivare da scelte di interfaccia.
 - Richiedere memoria o intuizione non e una buona strategia di design.
 
 ## Esempio
 
 > [!example] Esempio
-> Un controllo con molti pulsanti non etichettati puo funzionare, ma costringe l'utente a tentativi ed errori.
+> Un controllo con molti pulsanti non etichettati può funzionare, ma costringe l'utente a tentativi ed errori.
 
 ## Collegamenti
 
-- [[Bassa usabilita]]
+- [[Bassa usabilità]]
 - [[Affordance]]
 - [[Complessita d'uso strutturale funzionale]]
 
@@ -42,7 +42,7 @@ Negli appunti e usata per indicare sistemi che funzionano tecnicamente ma disori
 
 Risposta attesa:
 
-La differenza tra funzionamento tecnico e usabilita percepita dall'utente.
+La differenza tra funzionamento tecnico e usabilità percepita dall'utente.
 
 ## Stato di verifica
 

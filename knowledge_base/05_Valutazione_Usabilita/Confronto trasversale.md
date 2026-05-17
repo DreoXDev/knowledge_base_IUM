@@ -13,7 +13,7 @@ tags:
 
 ## Obiettivo
 
-Confrontare due o piu sistemi diversi rispetto agli stessi task, utenti o criteri di valutazione.
+Confrontare due o più sistemi diversi rispetto agli stessi task, utenti o criteri di valutazione.
 
 ## Quando si usa
 
@@ -21,14 +21,14 @@ Si usa quando si vogliono confrontare applicazioni alternative presenti sul merc
 
 ## Collegamenti
 
-- [[Valutazione di usabilita]]
+- [[Valutazione di usabilità]]
 - [[Confronto longitudinale]]
 - [[Valutazione quantitativa]]
 
 ## Possibile domanda d'esame
 
 > [!question] Domanda
-> Che cos'e un confronto trasversale nella valutazione di usabilita?
+> Che cos'e un confronto trasversale nella valutazione di usabilità?
 
 Risposta sintetica: e un confronto tra sistemi diversi valutati rispetto a criteri, task o campioni comparabili.
 

@@ -1,9 +1,10 @@
 ---
 type: concetto
 course: IUM
-status: da-verificare
+status: confermato-da-2-fonti
 sources:
   - "[[Appunti IUM 2021]]"
+  - "[[Appunti IUM 2022]]"
 tags:
   - ium
   - concetto
@@ -12,20 +13,20 @@ tags:
 # Soddisfazione
 
 > [!info] Definizione
-> Dimensione dell'usabilita che riguarda quanto l'esperienza d'uso e percepita come piacevole, accettabile o positiva dall'utente.
+> Dimensione dell'usabilità che riguarda quanto l'esperienza d'uso e percepita come piacevole, accettabile o positiva dall'utente.
 
 ## Spiegazione
 
-La soddisfazione completa efficacia ed efficienza: un sistema puo permettere di completare un task, ma risultare frustrante o poco desiderabile.
+La soddisfazione completa efficacia ed efficienza: un sistema può permettere di completare un task, ma risultare frustrante o poco desiderabile.
 
 ## Esempio
 
 > [!example] Esempio
-> Un questionario come SUS, UEQ o AttrakDiff puo raccogliere dati sulla soddisfazione percepita.
+> Un questionario come SUS, UEQ o AttrakDiff può raccogliere dati sulla soddisfazione percepita.
 
 ## Collegamenti
 
-- [[Usabilita]]
+- [[Usabilità]]
 - [[Questionari psicometrici]]
 
 ## Stato

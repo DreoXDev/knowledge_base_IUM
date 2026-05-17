@@ -1,9 +1,10 @@
 ---
 type: concetto
 course: IUM
-status: da-verificare
+status: confermato-da-2-fonti
 sources:
   - "[[Appunti IUM 2021]]"
+  - "[[Appunti IUM 2022]]"
 tags:
   - ium
   - concetto

@@ -1,9 +1,10 @@
 ---
 type: concetto
 course: IUM
-status: da-verificare
+status: confermato-da-2-fonti
 sources:
   - "[[Appunti IUM 2021]]"
+  - "[[Appunti IUM 2022]]"
 tags:
   - ium
   - concetto
@@ -25,7 +26,7 @@ L'efficienza riguarda il modo in cui l'utente raggiunge il risultato: non basta 
 
 ## Collegamenti
 
-- [[Usabilita]]
+- [[Usabilità]]
 - [[Valutazione quantitativa]]
 
 ## Stato

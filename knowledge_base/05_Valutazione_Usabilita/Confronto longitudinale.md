@@ -17,11 +17,11 @@ Valutare l'evoluzione di uno stesso sistema nel tempo, confrontando versioni suc
 
 ## Quando si usa
 
-Si usa quando si progetta una prima versione, si raccolgono dati di usabilita, si migliora il sistema e poi si rivaluta la versione successiva.
+Si usa quando si progetta una prima versione, si raccolgono dati di usabilità, si migliora il sistema e poi si rivaluta la versione successiva.
 
 ## Collegamenti
 
-- [[Valutazione di usabilita]]
+- [[Valutazione di usabilità]]
 - [[User test]]
 - [[Valutazione quantitativa]]
 

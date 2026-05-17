@@ -12,7 +12,7 @@ tags:
 # Matrice problemi valutatori
 
 > [!info] Definizione
-> Tabella che incrocia problemi di usabilita e valutatori per indicare chi ha identificato quali problemi.
+> Tabella che incrocia problemi di usabilità e valutatori per indicare chi ha identificato quali problemi.
 
 ## Spiegazione
 
@@ -33,7 +33,7 @@ Serve a leggere la distribuzione dei problemi trovati e a stimare copertura, rid
 
 - [[Valutazione euristica]]
 - [[Rapporto finale valutazione euristica]]
-- [[Prioritizzazione problemi di usabilita]]
+- [[Prioritizzazione problemi di usabilità]]
 
 ## Possibili domande d'esame
 

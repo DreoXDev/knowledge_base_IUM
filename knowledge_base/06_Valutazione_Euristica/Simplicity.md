@@ -12,7 +12,7 @@ tags:
 # Simplicity
 
 > [!info] Definizione
-> Principio secondo cui l'interfaccia dovrebbe essere il piu semplice possibile e focalizzata sul task.
+> Principio secondo cui l'interfaccia dovrebbe essere il più semplice possibile e focalizzata sul task.
 
 ## Spiegazione
 

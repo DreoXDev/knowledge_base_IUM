@@ -16,7 +16,7 @@ tags:
 
 ## Spiegazione
 
-Gli appunti invitano a progettare per la minore complessita d'uso possibile, senza confondere potenza funzionale con usabilita.
+Gli appunti invitano a progettare per la minore complessita d'uso possibile, senza confondere potenza funzionale con usabilità.
 
 ## Dettagli importanti
 
@@ -27,7 +27,7 @@ Gli appunti invitano a progettare per la minore complessita d'uso possibile, sen
 ## Esempio
 
 > [!example] Esempio
-> Un software con molte funzioni nascoste puo essere potente ma difficile da usare.
+> Un software con molte funzioni nascoste può essere potente ma difficile da usare.
 
 ## Collegamenti
 

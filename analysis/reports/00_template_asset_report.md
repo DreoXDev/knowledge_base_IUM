@@ -21,7 +21,7 @@ Stato report: `BOZZA | COMPLETO | DA RIVEDERE`
 
 ## 3. Concetti principali estratti
 
-| Concetto | Categoria | Priorita esame | Note |
+| Concetto | Categoria | Priorità esame | Note |
 |---|---|---|---|
 | {{concetto}} | {{categoria}} | Alta/Media/Bassa | {{nota}} |
 
@@ -29,7 +29,7 @@ Stato report: `BOZZA | COMPLETO | DA RIVEDERE`
 
 ## 4. Definizioni utili
 
-| Termine | Definizione proposta | Attendibilita | Azione richiesta |
+| Termine | Definizione proposta | Attendibilità | Azione richiesta |
 |---|---|---|---|
 | {{termine}} | {{definizione}} | Alta/Media/Bassa | Integrare/Verificare/Ignorare |
 
@@ -39,7 +39,7 @@ Stato report: `BOZZA | COMPLETO | DA RIVEDERE`
 
 | Esempio | Concetto collegato | Utilita |
 |---|---|---|
-| {{esempio}} | [[{{concetto}}]] | {{perche serve}} |
+| {{esempio}} | `{{concetto}}` | {{perché serve}} |
 
 ---
 

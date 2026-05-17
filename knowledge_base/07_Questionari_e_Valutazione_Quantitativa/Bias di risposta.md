@@ -21,7 +21,7 @@ Gli appunti 2021 citano acquiescence bias, central tendency bias, fatigue bias e
 ## Esempio
 
 > [!example] Esempio
-> Una scala con opzione centrale puo incoraggiare risposte neutre per evitare una posizione netta.
+> Una scala con opzione centrale può incoraggiare risposte neutre per evitare una posizione netta.
 
 ## Collegamenti
 

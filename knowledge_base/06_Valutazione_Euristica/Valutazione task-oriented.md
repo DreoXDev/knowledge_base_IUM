@@ -13,7 +13,7 @@ tags:
 
 ## Obiettivo
 
-Valutare l'usabilita osservando l'interazione rispetto a uno o piu task realistici.
+Valutare l'usabilità osservando l'interazione rispetto a uno o più task realistici.
 
 ## Quando si usa
 
@@ -28,9 +28,9 @@ Si usa quando si vuole vedere se l'utente riesce a raggiungere un obiettivo conc
 ## Possibile domanda d'esame
 
 > [!question] Domanda
-> Perche i task non devono suggerire tutti i passi all'utente?
+> Perché i task non devono suggerire tutti i passi all'utente?
 
-Risposta sintetica: perche altrimenti non si osserva davvero se il sistema supporta l'utente nel comprendere e svolgere il compito.
+Risposta sintetica: perché altrimenti non si osserva davvero se il sistema supporta l'utente nel comprendere e svolgere il compito.
 
 ## Stato
 

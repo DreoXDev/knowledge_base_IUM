@@ -16,7 +16,7 @@ tags:
 
 ## Spiegazione
 
-Sono un problema di layout e interazione: la disposizione spaziale degli elementi puo aumentare il rischio di errore anche quando le funzioni sono corrette.
+Sono un problema di layout e interazione: la disposizione spaziale degli elementi può aumentare il rischio di errore anche quando le funzioni sono corrette.
 
 ## Esempio
 

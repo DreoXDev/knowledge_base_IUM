@@ -13,7 +13,7 @@ tags:
 
 ## Obiettivo
 
-Esplorare liberamente un sistema per ottenere una visione d'insieme dei problemi di usabilita.
+Esplorare liberamente un sistema per ottenere una visione d'insieme dei problemi di usabilità.
 
 ## Quando si usa
 

@@ -1,56 +1,64 @@
----
-type: concetto
-course: IUM
-status: da-verificare
-sources:
+---
+type: concetto
+course: IUM
+status: confermato-da-2-fonti
+sources:
   - "[[Appunti IUM 2021]]"
-tags:
-  - ium
-  - concetto
----
+  - "[[Appunti IUM 2022]]"
+tags:
+  - ium
+  - concetto
+---
+
+# Usabilità
+
+> [!info] Definizione
+> Grado con cui un prodotto può essere usato da determinati utenti per raggiungere determinati obiettivi con efficacia, efficienza e soddisfazione in un determinato contesto d'uso.
+
+## Spiegazione
+
+Gli appunti sottolineano che l'usabilità non e una proprietà intrinseca del sistema: dipende da utenti, task e contesto. Ha senso parlare di usabilità potenziale solo in relazione a una situazione d'uso.
+
+## Dettagli importanti
+
+- Efficacia: correttezza e completezza nel raggiungere obiettivi.
+- Efficienza: rapporto tra risultati e risorse impiegate.
+- Soddisfazione: qualità percepita dell'esperienza.
+
+## Esempio
+
+> [!example] Esempio
+> Una app può essere usabile per utenti esperti in ufficio e poco usabile per utenti novizi in mobilita.
+
+## Collegamenti
+
+- [[Efficacia]]
+- [[Efficienza]]
+- [[Soddisfazione]]
+- [[Valutazione di usabilità]]
+
+## Possibili domande d'esame
+
+> [!question] Domanda
+> Perché l'usabilità non e una caratteristica intrinseca del sistema?
+
+Risposta attesa:
+
+Perché emerge dall'interazione tra utenti, obiettivi, compiti, sistema e contesto d'uso.
+
+## Conferma 2022
 
-# Usabilita
+> [!success] Stato
+> Concetto confermato da `Appunti IUM 2021` e `AppuntiIUM2022`.
 
-> [!info] Definizione
-> Grado con cui un prodotto puo essere usato da determinati utenti per raggiungere determinati obiettivi con efficacia, efficienza e soddisfazione in un determinato contesto d'uso.
+Il 2022 conferma la definizione ISO-like: utenti determinati, obiettivi determinati, efficacia, efficienza, soddisfazione e contesto d'uso.
 
-## Spiegazione
-
-Gli appunti sottolineano che l'usabilita non e una proprieta intrinseca del sistema: dipende da utenti, task e contesto. Ha senso parlare di usabilita potenziale solo in relazione a una situazione d'uso.
-
-## Dettagli importanti
-
-- Efficacia: correttezza e completezza nel raggiungere obiettivi.
-- Efficienza: rapporto tra risultati e risorse impiegate.
-- Soddisfazione: qualita percepita dell'esperienza.
-
-## Esempio
-
-> [!example] Esempio
-> Una app puo essere usabile per utenti esperti in ufficio e poco usabile per utenti novizi in mobilita.
-
-## Collegamenti
-
-- [[Efficacia]]
-- [[Efficienza]]
-- [[Soddisfazione]]
-- [[Valutazione di usabilita]]
-
-## Possibili domande d'esame
-
-> [!question] Domanda
-> Perche l'usabilita non e una caratteristica intrinseca del sistema?
-
-Risposta attesa:
-
-Perche emerge dall'interazione tra utenti, obiettivi, compiti, sistema e contesto d'uso.
-
-## Stato di verifica
-
-> [!warning] Da verificare
-> Contenuto basato sugli appunti studenti 2020-2021. Verificare con appunti collettivi recenti, appunti 2022 e domande note prima di considerarlo consolidato.
-
-## Fonti interne
-
-- [[Appunti IUM 2021]]
-- [[04_appunti_ium_2021]]
+## Stato di verifica
+
+> [!warning] Da verificare
+> Contenuto basato sugli appunti studenti 2020-2021. Verificare con appunti collettivi recenti, appunti 2022 e domande note prima di considerarlo consolidato.
+
+## Fonti interne
+
+- [[Appunti IUM 2021]]
+- [[04_appunti_ium_2021]]

@@ -22,12 +22,12 @@ Negli appunti il designer's deputy comunica cosa il progettista sa o presume sug
 
 - Include help, dialoghi, messaggi di errore e avvisi.
 - E una parte semiotica dell'interfaccia.
-- Puo chiarire o confondere la comunicazione.
+- Può chiarire o confondere la comunicazione.
 
 ## Esempio
 
 > [!example] Esempio
-> Un tooltip che spiega perche un'azione non e disponibile agisce come deputy del progettista.
+> Un tooltip che spiega perché un'azione non e disponibile agisce come deputy del progettista.
 
 ## Collegamenti
 

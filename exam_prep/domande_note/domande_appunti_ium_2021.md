@@ -28,17 +28,17 @@ Fonte: [[Appunti IUM 2021]]
 
 ---
 
-## Q-0002 - Perche l'HCI e interdisciplinare?
+## Q-0002 - Perché l'HCI e interdisciplinare?
 
 Sezione: Concetti base
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
 
-Perche l'HCI e interdisciplinare?
+Perché l'HCI e interdisciplinare?
 
 > [!answer] Risposta sintetica
-> Perche combina informatica, progettazione, ergonomia, psicologia, comunicazione e scienze cognitive.
+> Perché combina informatica, progettazione, ergonomia, psicologia, comunicazione e scienze cognitive.
 
 Fonte: [[Appunti IUM 2021]]
 
@@ -92,17 +92,17 @@ Fonte: [[Appunti IUM 2021]]
 
 ---
 
-## Q-0006 - Perche l'interfaccia non coincide con il visual design?
+## Q-0006 - Perché l'interfaccia non coincide con il visual design?
 
 Sezione: Concetti base
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
 
-Perche l'interfaccia non coincide con il visual design?
+Perché l'interfaccia non coincide con il visual design?
 
 > [!answer] Risposta sintetica
-> Perche include anche azioni, vincoli, feedback, testi e possibilita d'uso.
+> Perché include anche azioni, vincoli, feedback, testi e possibilità d'uso.
 
 Fonte: [[Appunti IUM 2021]]
 
@@ -118,7 +118,7 @@ Stato risposta: `DA VERIFICARE`
 Che ruolo ha il task?
 
 > [!answer] Risposta sintetica
-> Definisce il compito dell'utente e permette di valutare l'usabilita in modo situato.
+> Definisce il compito dell'utente e permette di valutare l'usabilità in modo situato.
 
 Fonte: [[Appunti IUM 2021]]
 
@@ -140,17 +140,17 @@ Fonte: [[Appunti IUM 2021]]
 
 ---
 
-## Q-0009 - Perche l'utente non coincide con il progettista?
+## Q-0009 - Perché l'utente non coincide con il progettista?
 
 Sezione: Concetti base
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
 
-Perche l'utente non coincide con il progettista?
+Perché l'utente non coincide con il progettista?
 
 > [!answer] Risposta sintetica
-> Perche ha conoscenze, obiettivi, contesti e interpretazioni diverse.
+> Perché ha conoscenze, obiettivi, contesti e interpretazioni diverse.
 
 Fonte: [[Appunti IUM 2021]]
 
@@ -172,30 +172,30 @@ Fonte: [[Appunti IUM 2021]]
 
 ---
 
-## Q-0011 - Perche l'usabilita non e intrinseca al sistema?
+## Q-0011 - Perché l'usabilità non e intrinseca al sistema?
 
-Sezione: Affordance, mapping, constraints e usabilita
+Sezione: Affordance, mapping, constraints e usabilità
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
 
-Perche l'usabilita non e intrinseca al sistema?
+Perché l'usabilità non e intrinseca al sistema?
 
 > [!answer] Risposta sintetica
-> Perche dipende da utenti, obiettivi, task e contesto d'uso.
+> Perché dipende da utenti, obiettivi, task e contesto d'uso.
 
 Fonte: [[Appunti IUM 2021]]
 
 ---
 
-## Q-0012 - Quali sono le tre dimensioni classiche dell'usabilita?
+## Q-0012 - Quali sono le tre dimensioni classiche dell'usabilità?
 
-Sezione: Affordance, mapping, constraints e usabilita
+Sezione: Affordance, mapping, constraints e usabilità
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
 
-Quali sono le tre dimensioni classiche dell'usabilita?
+Quali sono le tre dimensioni classiche dell'usabilità?
 
 > [!answer] Risposta sintetica
 > Efficacia, efficienza e soddisfazione.
@@ -206,7 +206,7 @@ Fonte: [[Appunti IUM 2021]]
 
 ## Q-0013 - Che cos'e un'affordance?
 
-Sezione: Affordance, mapping, constraints e usabilita
+Sezione: Affordance, mapping, constraints e usabilità
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
@@ -214,7 +214,7 @@ Stato risposta: `DA VERIFICARE`
 Che cos'e un'affordance?
 
 > [!answer] Risposta sintetica
-> Una proprieta che rende possibile o percepibile un uso o una azione.
+> Una proprietà che rende possibile o percepibile un uso o una azione.
 
 Fonte: [[Appunti IUM 2021]]
 
@@ -222,7 +222,7 @@ Fonte: [[Appunti IUM 2021]]
 
 ## Q-0014 - Quali tipi di affordance citano gli appunti?
 
-Sezione: Affordance, mapping, constraints e usabilita
+Sezione: Affordance, mapping, constraints e usabilità
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
@@ -238,7 +238,7 @@ Fonte: [[Appunti IUM 2021]]
 
 ## Q-0015 - Che cos'e il mapping?
 
-Sezione: Affordance, mapping, constraints e usabilita
+Sezione: Affordance, mapping, constraints e usabilità
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
@@ -254,7 +254,7 @@ Fonte: [[Appunti IUM 2021]]
 
 ## Q-0016 - Che cosa sono i constraints?
 
-Sezione: Affordance, mapping, constraints e usabilita
+Sezione: Affordance, mapping, constraints e usabilità
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
@@ -270,7 +270,7 @@ Fonte: [[Appunti IUM 2021]]
 
 ## Q-0017 - Che cos'e un workaround?
 
-Sezione: Affordance, mapping, constraints e usabilita
+Sezione: Affordance, mapping, constraints e usabilità
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
@@ -286,7 +286,7 @@ Fonte: [[Appunti IUM 2021]]
 
 ## Q-0018 - Cosa insegnano le Norman doors?
 
-Sezione: Affordance, mapping, constraints e usabilita
+Sezione: Affordance, mapping, constraints e usabilità
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
@@ -300,17 +300,17 @@ Fonte: [[Appunti IUM 2021]]
 
 ---
 
-## Q-0019 - Perche la multifunzionalita puo essere un problema?
+## Q-0019 - Perché la multifunzionalita può essere un problema?
 
-Sezione: Affordance, mapping, constraints e usabilita
+Sezione: Affordance, mapping, constraints e usabilità
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
 
-Perche la multifunzionalita puo essere un problema?
+Perché la multifunzionalita può essere un problema?
 
 > [!answer] Risposta sintetica
-> Perche aumenta complessita e funzioni poco usate.
+> Perché aumenta complessita e funzioni poco usate.
 
 Fonte: [[Appunti IUM 2021]]
 
@@ -318,7 +318,7 @@ Fonte: [[Appunti IUM 2021]]
 
 ## Q-0020 - Che cos'e il low use?
 
-Sezione: Affordance, mapping, constraints e usabilita
+Sezione: Affordance, mapping, constraints e usabilità
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
@@ -332,17 +332,17 @@ Fonte: [[Appunti IUM 2021]]
 
 ---
 
-## Q-0021 - Che cos'e la valutazione di usabilita?
+## Q-0021 - Che cos'e la valutazione di usabilità?
 
 Sezione: Valutazione euristica e quantitativa
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
 
-Che cos'e la valutazione di usabilita?
+Che cos'e la valutazione di usabilità?
 
 > [!answer] Risposta sintetica
-> Raccolta sistematica di dati sull'usabilita rispetto a utenti, task e contesto.
+> Raccolta sistematica di dati sull'usabilità rispetto a utenti, task e contesto.
 
 Fonte: [[Appunti IUM 2021]]
 
@@ -358,7 +358,7 @@ Stato risposta: `DA VERIFICARE`
 Che cos'e la valutazione euristica?
 
 > [!answer] Risposta sintetica
-> Ispezione sistematica del sistema rispetto a euristiche per trovare problemi di usabilita.
+> Ispezione sistematica del sistema rispetto a euristiche per trovare problemi di usabilità.
 
 Fonte: [[Appunti IUM 2021]]
 
@@ -422,7 +422,7 @@ Stato risposta: `DA VERIFICARE`
 Che cos'e la severita di un problema?
 
 > [!answer] Risposta sintetica
-> Il grado di gravita valutato considerando frequenza, impatto e persistenza.
+> Il grado di gravità valutato considerando frequenza, impatto e persistenza.
 
 Fonte: [[Appunti IUM 2021]]
 
@@ -476,17 +476,17 @@ Fonte: [[Appunti IUM 2021]]
 
 ---
 
-## Q-0030 - Perche usare questionari validati?
+## Q-0030 - Perché usare questionari validati?
 
 Sezione: Valutazione euristica e quantitativa
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
 
-Perche usare questionari validati?
+Perché usare questionari validati?
 
 > [!answer] Risposta sintetica
-> Per ottenere misure piu affidabili e confrontabili della percezione utente.
+> Per ottenere misure più affidabili e confrontabili della percezione utente.
 
 Fonte: [[Appunti IUM 2021]]
 
@@ -508,14 +508,14 @@ Fonte: [[Appunti IUM 2021]]
 
 ---
 
-## Q-0032 - Che cosa sono le proprieta emergenti?
+## Q-0032 - Che cosa sono le proprietà emergenti?
 
 Sezione: Sistemi socio-tecnici e bias
 Stato risposta: `DA VERIFICARE`
 
 ### Domanda
 
-Che cosa sono le proprieta emergenti?
+Che cosa sono le proprietà emergenti?
 
 > [!answer] Risposta sintetica
 > Comportamenti dell'insieme non deducibili dalle parti isolate.

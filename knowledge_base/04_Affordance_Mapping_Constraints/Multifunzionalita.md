@@ -12,7 +12,7 @@ tags:
 # Multifunzionalita
 
 > [!info] Definizione
-> Presenza di molte funzioni in un dispositivo o sistema, che puo aumentare la complessita d'uso invece di semplificarla.
+> Presenza di molte funzioni in un dispositivo o sistema, che può aumentare la complessita d'uso invece di semplificarla.
 
 ## Spiegazione
 
@@ -20,14 +20,14 @@ Gli appunti collegano la multifunzionalita alla necessita di ridurre complessita
 
 ## Dettagli importanti
 
-- Piu funzioni non implicano automaticamente migliore usabilita.
+- Più funzioni non implicano automaticamente migliore usabilità.
 - Aumenta il rischio di low use.
-- Richiede attenzione a priorita e accessibilita.
+- Richiede attenzione a priorità e accessibilita.
 
 ## Esempio
 
 > [!example] Esempio
-> Un telecomando pieno di tasti raramente usati puo rendere difficile svolgere anche compiti semplici.
+> Un telecomando pieno di tasti raramente usati può rendere difficile svolgere anche compiti semplici.
 
 ## Collegamenti
 
@@ -38,11 +38,11 @@ Gli appunti collegano la multifunzionalita alla necessita di ridurre complessita
 ## Possibili domande d'esame
 
 > [!question] Domanda
-> Perche la multifunzionalita puo danneggiare l'usabilita?
+> Perché la multifunzionalita può danneggiare l'usabilità?
 
 Risposta attesa:
 
-Perche aumenta le cose da capire, ricordare e usare, spesso oltre i bisogni reali dell'utente.
+Perché aumenta le cose da capire, ricordare e usare, spesso oltre i bisogni reali dell'utente.
 
 ## Stato di verifica
 

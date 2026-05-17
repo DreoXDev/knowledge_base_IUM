@@ -22,7 +22,7 @@ Negli appunti e indicato come supporto alle sessioni utente: l'utente verbalizza
 
 - Aiuta a capire cause dei problemi.
 - Va richiesto esplicitamente.
-- Puo essere registrato e analizzato dopo la sessione.
+- Può essere registrato e analizzato dopo la sessione.
 
 ## Esempio
 

@@ -38,11 +38,11 @@ Gli appunti citano conferme, default sicuri, funzioni vincolate, diversificazion
 ## Possibili domande d'esame
 
 > [!question] Domanda
-> Perche la prevenzione degli errori e una euristica importante?
+> Perché la prevenzione degli errori e una euristica importante?
 
 Risposta attesa:
 
-Perche riduce il rischio che l'utente cada in stati problematici o compia azioni irreversibili non volute.
+Perché riduce il rischio che l'utente cada in stati problematici o compia azioni irreversibili non volute.
 
 ## Stato di verifica
 

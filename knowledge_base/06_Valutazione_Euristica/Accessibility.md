@@ -12,7 +12,7 @@ tags:
 # Accessibility
 
 > [!info] Definizione
-> Proprieta per cui un sistema risulta usabile dagli utenti destinatari nonostante disabilita, dispositivi diversi o condizioni ambientali variabili.
+> Proprietà per cui un sistema risulta usabile dagli utenti destinatari nonostante disabilita, dispositivi diversi o condizioni ambientali variabili.
 
 ## Spiegazione
 
@@ -21,7 +21,7 @@ Negli appunti e trattata come criterio della IXD checklist: dimensioni, spaziatu
 ## Collegamenti
 
 - [[IXD Checklist]]
-- [[Usabilita]]
+- [[Usabilità]]
 - [[Affordance]]
 
 ## Stato

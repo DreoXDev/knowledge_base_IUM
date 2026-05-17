@@ -16,7 +16,7 @@ tags:
 
 ## Spiegazione
 
-La tolerance include undo, messaggi comprensibili, supporto contestuale e possibilita di diagnosticare e correggere errori.
+La tolerance include undo, messaggi comprensibili, supporto contestuale e possibilità di diagnosticare e correggere errori.
 
 ## Collegamenti
 

@@ -37,11 +37,18 @@ Gli asset raw non vanno modificati e non vanno copiati direttamente nella knowle
 ### Fonti integrate
 
 - [x] Appunti IUM 2021 - prima estrazione e creazione note base
-- [ ] Appunti IUM 2022
+- [x] Appunti IUM 2022 - conferma concetti 2021 e integrazione dettagli
+
+### Fonti in lavorazione
+
+- [ ] Nessuna
+
+### Fonti da analizzare
+
 - [ ] Appunti collettivi 2024-25
 - [ ] Appunti collettivi 2025-26
 - [ ] Domande note
 
 ### Metodo di lavoro
 
-Ogni fonte viene analizzata separatamente. Le informazioni vengono prima inserite come `DA VERIFICARE`, poi consolidate quando confermate da piu fonti o dalle domande note.
+Ogni fonte viene analizzata separatamente. Le informazioni vengono prima inserite come `DA VERIFICARE`, poi consolidate quando confermate da più fonti o dalle domande note. I dettagli progettuali specifici di un anno vengono separati dalla teoria dello scritto.

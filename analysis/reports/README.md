@@ -10,4 +10,4 @@ Ogni report deve:
 - segnalare conflitti o dubbi;
 - indicare le azioni richieste a Codex.
 
-La knowledge base in `knowledge_base/` puo essere aggiornata solo a partire da questi report.
+La knowledge base in `knowledge_base/` può essere aggiornata solo a partire da questi report.

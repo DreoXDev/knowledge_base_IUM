@@ -14,7 +14,7 @@ processed: true
 
 Appunti degli studenti del corso di Interazione Uomo-Macchina 2020-2021.
 
-> [!warning] Affidabilita
+> [!warning] Affidabilit?
 > La fonte stessa contiene un disclaimer: gli appunti possono includere imprecisioni, errori o parti incomplete. Usarli come base di estrazione concetti, ma non come autorita finale.
 
 ## Stato lavorazione

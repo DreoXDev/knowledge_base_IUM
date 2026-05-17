@@ -1,9 +1,10 @@
 ---
 type: concetto
 course: IUM
-status: da-verificare
+status: confermato-da-2-fonti
 sources:
   - "[[Appunti IUM 2021]]"
+  - "[[Appunti IUM 2022]]"
 tags:
   - ium
   - concetto
@@ -16,12 +17,12 @@ tags:
 
 ## Spiegazione
 
-In IUM viene usata per ragionare su dimensione e posizione di comandi, link e pulsanti. Comandi piu grandi e vicini sono in genere piu facili e rapidi da raggiungere.
+In IUM viene usata per ragionare su dimensione e posizione di comandi, link e pulsanti. Comandi più grandi e vicini sono in genere più facili e rapidi da raggiungere.
 
 ## Esempio
 
 > [!example] Esempio
-> Un pulsante primario piccolo e lontano richiede piu tempo e precisione rispetto a un pulsante grande e vicino al flusso d'azione.
+> Un pulsante primario piccolo e lontano richiede più tempo e precisione rispetto a un pulsante grande e vicino al flusso d'azione.
 
 ## Collegamenti
 
